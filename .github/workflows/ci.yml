@@ -46,8 +46,9 @@ jobs:
           git config --global credential.helper store
           echo "https://libretube-bot:${{ secrets.GH_TOKEN }}@github.com" > ~/.git-credentials
 
-      - name: Compile
+      - name: Make gradlew executable & Compile
         run: |
+          chmod +x gradlew
           ./gradlew assembleDebug
 
       - name: Upload SyafTube APK
