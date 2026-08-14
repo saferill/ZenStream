@@ -45,7 +45,7 @@ androidComponents {
     onVariants { v ->
         v.instrumentationRunnerArguments.put(
             "targetAppId",
-            v.testedApks.map { v.artifacts.getBuiltArtifactsLoader().load(it)?.applicationId }
+            v.testedApks.map { v.artifacts.getBuiltArtifactsLoader().load(it)?.applicationId ?: "com.github.libretube" }
         )
     }
 }
