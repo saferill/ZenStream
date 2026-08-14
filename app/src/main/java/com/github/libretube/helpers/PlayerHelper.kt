@@ -349,7 +349,7 @@ object PlayerHelper {
     val disablePipedProxy: Boolean
         get() = PreferenceHelper.getBoolean(
             PreferenceKeys.DISABLE_VIDEO_IMAGE_PROXY,
-            false
+            true
         )
 
     val fullLocalMode: Boolean
