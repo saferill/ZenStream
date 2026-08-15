@@ -29,13 +29,13 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.github.libretube"
+        applicationId = "com.saferill.zenstream"
         minSdk = 26
         targetSdk = 35
         versionCode = 65
         versionName = "0.30.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
-        resValue("string", "app_name", "SyafTube")
+        resValue("string", "app_name", "ZenStream")
     }
 
     ksp {
@@ -72,7 +72,7 @@ android {
         getByName("debug") {
             isDebuggable = true
             applicationIdSuffix = ".debug"
-            resValue("string", "app_name", "SyafTube Debug")
+            resValue("string", "app_name", "ZenStream Debug")
         }
     }
 
@@ -113,7 +113,7 @@ android {
         generateLocaleConfig = true
     }
 
-    namespace = "com.github.libretube"
+    namespace = "com.saferill.zenstream"
 }
 
 dependencies {
