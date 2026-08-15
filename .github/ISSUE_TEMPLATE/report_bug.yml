@@ -1,5 +1,5 @@
 name: 🐞 Issue Report
-description: Report a issue in LibreTube
+description: Report an issue in ZenStream
 labels: [bug]
 body:
 
@@ -37,11 +37,11 @@ body:
       required: true
 
   - type: input
-    id: libretube-version
+    id: zenstream-version
     attributes:
-      label: LibreTube version
+      label: ZenStream version
       description: |
-        You can find your LibreTube version in **Settings**.
+        You can find your ZenStream version in **Settings**.
       placeholder: |
         Example: "0.2.6"
     validations:

@@ -39,22 +39,15 @@ jobs:
           distribution: "temurin"
           cache: "gradle"
 
-      - name: Git Configuraion
-        run: |
-          git config --global user.name "libretube-bot"
-          git config --global user.email "libretube@proton.me"
-          git config --global credential.helper store
-          echo "https://libretube-bot:${{ secrets.GH_TOKEN }}@github.com" > ~/.git-credentials
-
       - name: Make gradlew executable & Compile
         run: |
           chmod +x gradlew
           ./gradlew assembleDebug --no-configuration-cache
 
-      - name: Upload SyafTube APK
+      - name: Upload ZenStream APK
         uses: actions/upload-artifact@v4
         with:
-          name: SyafTube-APK
+          name: ZenStream-APK
           path: app/build/outputs/apk/debug/*.apk
 
 
