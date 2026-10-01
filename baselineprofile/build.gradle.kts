@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.github.libretube.baselineprofile"
+    namespace = "com.saferill.zenstream.baselineprofile"
     compileSdk = 34
 
     compileOptions {
@@ -45,7 +45,7 @@ androidComponents {
     onVariants { v ->
         v.instrumentationRunnerArguments.put(
             "targetAppId",
-            v.testedApks.map { v.artifacts.getBuiltArtifactsLoader().load(it)?.applicationId ?: "com.github.libretube" }
+            v.testedApks.map { v.artifacts.getBuiltArtifactsLoader().load(it)?.applicationId ?: "com.saferill.zenstream" }
         )
     }
 }
