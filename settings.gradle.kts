@@ -16,7 +16,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SyafTube"
+rootProject.name = "ZenStream"
 
 include(":app")
 include(":baselineprofile")
