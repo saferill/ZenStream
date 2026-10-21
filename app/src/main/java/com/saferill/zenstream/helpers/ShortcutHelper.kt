@@ -1,0 +1,33 @@
+package com.saferill.zenstream.helpers
+
+import android.content.Context
+import android.content.Intent
+import androidx.core.content.pm.ShortcutInfoCompat
+import androidx.core.content.pm.ShortcutManagerCompat
+import androidx.core.graphics.drawable.IconCompat
+import com.saferill.zenstream.constants.IntentData
+import com.saferill.zenstream.enums.TopLevelDestination
+import com.saferill.zenstream.ui.activities.MainActivity
+
+object ShortcutHelper {
+
+    private fun createShortcut(context: Context, appShortcut: TopLevelDestination): ShortcutInfoCompat {
+        val label = context.getString(appShortcut.label)
+        return ShortcutInfoCompat.Builder(context, appShortcut.route)
+            .setShortLabel(label)
+            .setLongLabel(label)
+            .setIcon(IconCompat.createWithResource(context, appShortcut.icon))
+            .setIntent(
+                Intent(Intent.ACTION_VIEW, null, context, MainActivity::class.java)
+                    .putExtra(IntentData.fragmentToOpen, appShortcut.route)
+            )
+            .build()
+    }
+
+    fun createShortcuts(context: Context) {
+        if (ShortcutManagerCompat.getDynamicShortcuts(context).isEmpty()) {
+            val dynamicShortcuts = TopLevelDestination.entries.map { createShortcut(context, it) }
+            ShortcutManagerCompat.setDynamicShortcuts(context, dynamicShortcuts)
+        }
+    }
+}
