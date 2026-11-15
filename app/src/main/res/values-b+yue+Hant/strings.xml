@@ -41,7 +41,7 @@
     <string name="copy_logs">複製記錄</string>
     <string name="logs_copied">複製咗嘅日誌</string>
     <string name="logs_copy_failed">複製唔到記錄</string>
-    <string name="channel_error_log_clip_label">Flow 通道錯誤記錄</string>
+    <string name="channel_error_log_clip_label">ZenStream 通道錯誤記錄</string>
     <string name="shorts">Shorts</string>
     <string name="failed_to_load_channel">載入唔到頻道</string>
     <string name="subscribers">訂閱者</string>
@@ -69,7 +69,7 @@
     <string name="local_media_empty_title">搵唔到 %1$s</string>
     <string name="local_media_empty_body">儲存喺呢部裝置嘅影片同音樂會喺呢度顯示。</string>
     <string name="local_media_permission_title">需要許可</string>
-    <string name="local_media_permission_body">允許存取你嘅媒體，等 Flow 可以搵到同埋播放本地影片同音樂。</string>
+    <string name="local_media_permission_body">允許存取你嘅媒體，等 ZenStream 可以搵到同埋播放本地影片同音樂。</string>
     <string name="local_media_grant">授予存取權</string>
     <string name="library_settings_data_header"><![CDATA[設定同數據]]></string>
     <string name="library_manage_data_label">管理資料</string>
@@ -220,7 +220,7 @@
     <string name="check_out_video_template">睇下呢條片： %1$s\nhttps://youtube.com/ 手錶？ v = %2$s</string>
     <string name="share_link_only_template">https://youtube.com/ 手錶？ v = %1$s</string>
     <string name="check_out_short_template">睇下呢個短： %1$s\nhttps://youtube.com/ 短褲/%2$s</string>
-    <string name="link_not_supported">Flow 開唔到呢類連結</string>
+    <string name="link_not_supported">ZenStream 開唔到呢類連結</string>
     <string name="content_settings_share_without_text_title">分享冇文字嘅連結</string>
     <string name="content_settings_share_without_text_subtitle">只分享影片連結，而唔會顯示「睇吓呢段影片」嘅訊息</string>
     <string name="related_videos">相關影片</string>
@@ -231,7 +231,7 @@
     <string name="play_mode_suggestion_body">呢段片唔夠2分鐘。你想唔想轉用專門嘅玩家？</string>
     <string name="shorts_player">Shorts 播放器</string>
     <string name="music_player">音樂播放器</string>
-    <string name="music_service_disabled">音樂播唔到。呢部裝置閂咗 Flow 嘅音樂服務。</string>
+    <string name="music_service_disabled">音樂播唔到。呢部裝置閂咗 ZenStream 嘅音樂服務。</string>
     <plurals name="channels_count">
         <item quantity="other">%d頻道</item>
     </plurals>
@@ -343,7 +343,7 @@
     <string name="new_update_available">有新嘅更新</string>
     <string name="update_available_template">%1$s 而家有得賣</string>
     <string name="release_notes">發佈筆記</string>
-    <string name="update_flow">更新 Flow</string>
+    <string name="update_flow">更新 ZenStream</string>
     <string name="maybe_later">可能遲啲</string>
     <string name="nav_home">首頁</string>
     <string name="nav_shorts">Shorts</string>
@@ -450,7 +450,7 @@
     <string name="you">你</string>
     <string name="empty_downloads">仲未有下載</string>
     <string name="downloads_recover_title">搵較早安裝嘅下載內容</string>
-    <string name="downloads_recover_body">Flow 將下載儲存喺Download/Flow 同Music/Flow 。如果要列出早期安裝儲存喺嗰度嘅檔案，請允許存取影片同音訊。</string>
+    <string name="downloads_recover_body">ZenStream 將下載儲存喺Download/ZenStream 同Music/ZenStream 。如果要列出早期安裝儲存喺嗰度嘅檔案，請允許存取影片同音訊。</string>
     <string name="downloads_recover_allow">允許存取</string>
     <string name="downloads_recover_dismiss">而家唔得</string>
     <plurals name="downloads_recovered_count">
@@ -641,14 +641,14 @@
     <string name="peace_and_quiet">和平同安靜</string>
     <string name="notifications_empty_body">你哋全部都追咗！你嘅訂閱嘅新更新會喺呢度顯示。</string>
     <string name="settings_title">設定</string>
-    <string name="settings_flow_engine_header">Flow 引擎</string>
+    <string name="settings_flow_engine_header">ZenStream 引擎</string>
     <string name="settings_active_learning">主動學習</string>
-    <string name="settings_reset_brain_title">重設 Flow 個性？</string>
-    <string name="settings_reset_brain_body">噉樣會抹去你嘅 Flow 大腦個人檔案。\n\n• 學到嘅主題會被人忘記。\n• 人格特質會重設。\n• 建議會返去預設。\n\n呢個係復原唔到嘅。</string>
+    <string name="settings_reset_brain_title">重設 ZenStream 個性？</string>
+    <string name="settings_reset_brain_body">噉樣會抹去你嘅 ZenStream 大腦個人檔案。\n\n• 學到嘅主題會被人忘記。\n• 人格特質會重設。\n• 建議會返去預設。\n\n呢個係復原唔到嘅。</string>
     <string name="settings_reset_everything">重設所有嘢</string>
     <string name="settings_analyzing_interactions">分析緊你哋嘅互動 ...</string>
     <string name="settings_view_analytics">睇返分析</string>
-    <string name="deep_flow_mode_title">深度 Flow 模式</string>
+    <string name="deep_flow_mode_title">深度 ZenStream 模式</string>
     <string name="deep_flow_mode_subtitle">瀏覽嗰陣暫停學習</string>
     <string name="deep_flow_learning_paused">學習暫停咗</string>
     <string name="deep_flow_expires_in">過期時間係 %s</string>
@@ -656,18 +656,18 @@
     <string name="deep_flow_expire_duration_subtitle">%s 之後會自動恢復學習</string>
     <string name="deep_flow_save_history_title">儲存嚟睇歷史</string>
     <string name="deep_flow_save_history_subtitle">繼續睇歷史，唔使教建議</string>
-    <string name="deep_flow_scrobble_title">深度 Flow 期間嘅刮刮刮刮</string>
-    <string name="taste_learning_paused">深層 Flow 開啟，學習暫停</string>
+    <string name="deep_flow_scrobble_title">深度 ZenStream 期間嘅刮刮刮刮</string>
+    <string name="taste_learning_paused">深層 ZenStream 開啟，學習暫停</string>
     <string name="deep_flow_scrobble_subtitle">繼續發送 Last.fm 、 Libre . fm 同 ListenBrainz 嘅聽歌</string>
     <string name="deep_flow_on_search_title">喺搜尋嗰陣顯示</string>
-    <string name="deep_flow_on_search_subtitle">最近搜尋嘅深度 Flow 開關</string>
-    <string name="deep_flow_long_press_hint">長按主頁上嘅 Flow 標誌或者名稱，就可以切換深 Flow</string>
+    <string name="deep_flow_on_search_subtitle">最近搜尋嘅深度 ZenStream 開關</string>
+    <string name="deep_flow_long_press_hint">長按主頁上嘅 ZenStream 標誌或者名稱，就可以切換深 ZenStream</string>
     <string name="deep_flow_dialog_title">暫停持續時間</string>
     <string name="deep_flow_dialog_body">學習應該暫停幾耐？</string>
-    <string name="deep_flow_enabled_message">啟用咗深層 Flow</string>
-    <string name="deep_flow_disabled_message">深層 Flow 停用咗</string>
-    <string name="deep_flow_expired_message">深層 Flow 計時器結束</string>
-    <string name="deep_flow_active_until_disabled">深層 Flow 會保持活躍狀態，直至你閂咗佢為止</string>
+    <string name="deep_flow_enabled_message">啟用咗深層 ZenStream</string>
+    <string name="deep_flow_disabled_message">深層 ZenStream 停用咗</string>
+    <string name="deep_flow_expired_message">深層 ZenStream 計時器結束</string>
+    <string name="deep_flow_active_until_disabled">深層 ZenStream 會保持活躍狀態，直至你閂咗佢為止</string>
     <string name="deep_flow_duration_never">從來冇</string>
     <string name="deep_flow_duration_1h">1 個鐘</string>
     <string name="deep_flow_duration_2h">2 個鐘</string>
@@ -685,7 +685,7 @@
     <string name="settings_header_about">關於</string>
     <string name="settings_header_notifications">通知</string>
     <string name="settings_item_notifications">通知偏好設定</string>
-    <string name="settings_item_notifications_subtitle">控制 Flow 可以發送邊啲通知</string>
+    <string name="settings_item_notifications_subtitle">控制 ZenStream 可以發送邊啲通知</string>
     <string name="notif_settings_title">通知偏好設定</string>
     <string name="notif_type_new_videos">新影片</string>
     <string name="notif_type_new_videos_subtitle">當訂閱頻道上載新影片嗰陣通知</string>
@@ -696,22 +696,22 @@
     <string name="notif_type_reminders">螢幕時間提醒</string>
     <string name="notif_type_reminders_subtitle">時間管理嘅睡前同休息提醒</string>
     <string name="notif_type_updates">應用程式更新</string>
-    <string name="notif_type_updates_subtitle">當有新版本嘅 Flow 可用嗰陣收到通知</string>
+    <string name="notif_type_updates_subtitle">當有新版本嘅 ZenStream 可用嗰陣收到通知</string>
     <string name="notif_type_general">一般通知</string>
     <string name="notif_type_general_subtitle">各種應用程式警示同公告</string>
     <string name="notif_system_settings">系統通知設定</string>
     <string name="notif_system_settings_subtitle">打開 Android 設定嚟管理每個頻道嘅權限</string>
     <string name="notif_check_interval_section_header">餵食檢查時間表</string>
     <string name="notif_master_toggle">啟用通知</string>
-    <string name="notif_master_toggle_subtitle">等 Flow 喺後台檢查有冇新嘅影片</string>
+    <string name="notif_master_toggle_subtitle">等 ZenStream 喺後台檢查有冇新嘅影片</string>
     <string name="notif_background_restricted_title">背景檢查受到限制</string>
-    <string name="notif_background_restricted_subtitle">當 Flow 閂咗嗰陣， Android 會阻止檢查。㩒一下就可以允許背景活動。</string>
+    <string name="notif_background_restricted_subtitle">當 ZenStream 閂咗嗰陣， Android 會阻止檢查。㩒一下就可以允許背景活動。</string>
     <string name="notif_check_interval">新嘅影片檢查間隔</string>
     <string name="notif_check_interval_subtitle_template">檢查每個 %s</string>
     <string name="notif_check_interval_disabled">背景通知檢查已經停用</string>
     <string name="notif_check_interval_off_new_videos">喺新影片閂咗嗰陣閂</string>
     <string name="notif_check_interval_dialog_title">檢查間隔</string>
-    <string name="notif_check_interval_dialog_body">Flow 幾頻繁檢查你嘅訂閱有冇新影片。</string>
+    <string name="notif_check_interval_dialog_body">ZenStream 幾頻繁檢查你嘅訂閱有冇新影片。</string>
     <string name="notif_interval_15m">15分鐘</string>
     <string name="notif_interval_30m">30分鐘</string>
     <string name="notif_interval_1h">1 個鐘</string>
@@ -748,17 +748,17 @@
     <string name="settings_item_export_data_subtitle">備份你嘅數據</string>
     <string name="settings_item_import_data">匯入數據</string>
     <string name="settings_item_import_data_subtitle">由備份還原或者由其他應用程式匯入</string>
-    <string name="settings_item_about_flow">關於 Flow</string>
+    <string name="settings_item_about_flow">關於 ZenStream</string>
     <string name="settings_item_about_flow_subtitle">版本、授權、貢獻者</string>
     <string name="settings_item_support">支持同捐款</string>
-    <string name="settings_item_support_subtitle">幫手支持 Flow 嘅開發</string>
+    <string name="settings_item_support_subtitle">幫手支持 ZenStream 嘅開發</string>
     <string name="settings_region_dialog_title">揀地區</string>
     <string name="settings_language_dialog_title">揀應用程式語言</string>
     <string name="settings_language_system_default">系統預設</string>
     <string name="settings_export_success">成功匯出咗數據</string>
     <string name="settings_export_failed">匯出失敗： %1$s</string>
     <string name="appearance_title">外表</string>
-    <string name="appearance_subtitle">個人化你嘅 Flow 體驗</string>
+    <string name="appearance_subtitle">個人化你嘅 ZenStream 體驗</string>
     <string name="appearance_current_theme">當前嘅主題</string>
     <string name="appearance_category_all">全部</string>
     <string name="appearance_category_light">輕</string>
@@ -828,11 +828,11 @@
     <string name="appearance_system_light_theme">光模式主題</string>
     <string name="appearance_system_dark_theme">黑暗模式主題</string>
     <string name="app_icon_picker_subtitle">揀個啟動器圖示樣式。呢個變動會即刻生效，啟動器會短暫刷新。</string>
-    <string name="app_icon_picker_warning">更改圖示可能會喺主畫面移除 Flow 一陣。如果需要，可以喺應用程式抽屜加返佢。</string>
+    <string name="app_icon_picker_warning">更改圖示可能會喺主畫面移除 ZenStream 一陣。如果需要，可以喺應用程式抽屜加返佢。</string>
     <string name="app_icon_apply_toast">圖示更新咗 - 你嘅啟動器會重新整理</string>
-    <string name="icon_name_flow_red">Flow 紅色</string>
-    <string name="icon_name_flow_light">Flow 光</string>
-    <string name="icon_name_flow_play">Flow 玩</string>
+    <string name="icon_name_flow_red">ZenStream 紅色</string>
+    <string name="icon_name_flow_light">ZenStream 光</string>
+    <string name="icon_name_flow_play">ZenStream 玩</string>
     <string name="icon_name_amoled">AMOLED 深色</string>
     <string name="icon_name_monochrome">單色</string>
     <string name="icon_name_ghost">鬼魂</string>
@@ -983,8 +983,8 @@
     <string name="theme_desc_sky_blue">輕盈、通風嘅調色板，帶有開放式天空藍色。</string>
     <string name="theme_name_cream_paper">忌廉紙</string>
     <string name="theme_desc_cream_paper">溫暖嘅紙色調，適合舒適嘅日間閱讀。</string>
-    <string name="theme_name_classic_dark">Flow 預設</string>
-    <string name="theme_desc_classic_dark">原裝 Flow 調色板，配上 YouTube 紅色點綴。</string>
+    <string name="theme_name_classic_dark">ZenStream 預設</string>
+    <string name="theme_desc_classic_dark">原裝 ZenStream 調色板，配上 YouTube 紅色點綴。</string>
     <string name="theme_name_true_black">真正嘅黑色</string>
     <string name="theme_desc_true_black">純 OLED</string>
     <string name="theme_name_monochrome">單色</string>
@@ -1100,9 +1100,9 @@
     <string name="content_settings_home_subscriptions_subtitle">將你追蹤嘅頻道入面嘅影片混合到主頁</string>
     <string name="settings_section_watch_history">睇歷史</string>
     <string name="pause_watch_history_title">暫停睇記錄</string>
-    <string name="pause_watch_history_subtitle">唔好再儲存你睇緊嘅嘢。深層 Flow 亦會暫停學習</string>
+    <string name="pause_watch_history_subtitle">唔好再儲存你睇緊嘅嘢。深層 ZenStream 亦會暫停學習</string>
     <string name="content_settings_show_app_logo_title">顯示應用程式標誌圖示</string>
-    <string name="content_settings_show_app_logo_subtitle">喺主頁頂部列顯示 Flow 標誌</string>
+    <string name="content_settings_show_app_logo_subtitle">喺主頁頂部列顯示 ZenStream 標誌</string>
     <string name="content_settings_header_shorts">Shorts</string>
     <string name="content_settings_shorts_content_title">顯示 Shorts</string>
     <string name="content_settings_shorts_content_subtitle">將 Shorts 隱藏喺所有地方。儲存咗嘅 Shorts 同埋記錄都會保留。</string>
@@ -1156,7 +1156,7 @@
     <string name="content_settings_subs_collaborations_title">協作</string>
     <string name="content_settings_subs_collaborations_subtitle">用你追蹤嘅頻道製作嘅影片</string>
     <string name="content_settings_nav_order_title">標籤順序同預設</string>
-    <string name="content_settings_nav_order_subtitle">拖曳就可以重新排序。揀 Flow 打開嘅標籤。</string>
+    <string name="content_settings_nav_order_subtitle">拖曳就可以重新排序。揀 ZenStream 打開嘅標籤。</string>
     <string name="settings_subs_shorts_shelf_title">訂閱短褲架</string>
     <string name="settings_subs_shorts_shelf_subtitle">喺訂閱資訊提供入面顯示 Shorts 架子</string>
     <string name="settings_home_shorts_shelf_title">主畫面短片架</string>
@@ -1221,8 +1221,8 @@
     <string name="player_settings_background_play">背景播放</string>
     <string name="pip_listen_in_background">喺背景聽</string>
     <string name="player_settings_background_play_subtitle">當應用程式喺後台嗰陣繼續播放</string>
-    <string name="player_settings_keep_playing_after_swipe">關閉 Flow 之後繼續玩</string>
-    <string name="player_settings_keep_playing_after_swipe_subtitle">當你將 Flow 滑動離開最近嘅應用程式嗰陣，播放就會繼續</string>
+    <string name="player_settings_keep_playing_after_swipe">關閉 ZenStream 之後繼續玩</string>
+    <string name="player_settings_keep_playing_after_swipe_subtitle">當你將 ZenStream 滑動離開最近嘅應用程式嗰陣，播放就會繼續</string>
     <string name="player_settings_shorts_background_play">Shorts 背景播放</string>
     <string name="player_settings_shorts_background_play_subtitle">當應用程式喺後台嗰陣，繼續玩 Shorts</string>
     <string name="player_settings_shorts_pip">Shorts 圖中圖</string>
@@ -1359,14 +1359,14 @@
     <string name="player_settings_audio_original_desc">使用影片嘅原生音軌</string>
     <string name="player_settings_subtitle_language">首選字幕語言</string>
     <string name="player_settings_subtitle_language_dialog_title">字幕語言</string>
-    <string name="player_settings_subtitle_language_dialog_body">如果有，就會用呢種語言打開字幕。否則 Flow 會翻譯現有嘅曲目。</string>
+    <string name="player_settings_subtitle_language_dialog_body">如果有，就會用呢種語言打開字幕。否則 ZenStream 會翻譯現有嘅曲目。</string>
     <string name="player_settings_subtitle_language_none">冇偏好</string>
     <string name="player_settings_subtitle_language_none_desc">用第一個字幕追蹤影片嘅優惠</string>
     <string name="player_settings_auto_enable_subtitles">自動開啟字幕</string>
     <string name="player_settings_auto_enable_subtitles_subtitle">用你喜愛嘅語言打開字幕</string>
     <string name="player_settings_video_codec">預設視頻編解碼器</string>
     <string name="player_settings_video_codec_dialog_title">預設視頻編解碼器</string>
-    <string name="player_settings_video_codec_dialog_body">編碼器 Flow 先揀。你仍然可以喺品質選單入面揀任何編解碼器。 H.264喺大部分裝置上面播放得最順暢。 AV1 同 VP9 用少啲數據，但係需要更多電力。</string>
+    <string name="player_settings_video_codec_dialog_body">編碼器 ZenStream 先揀。你仍然可以喺品質選單入面揀任何編解碼器。 H.264喺大部分裝置上面播放得最順暢。 AV1 同 VP9 用少啲數據，但係需要更多電力。</string>
     <string name="player_settings_video_codec_auto_desc">畀個應用程式揀（偏好 H .264）</string>
     <string name="player_settings_video_codec_fallback">後備編碼器</string>
     <string name="player_settings_video_codec_fallback_auto">自動</string>
@@ -1460,7 +1460,7 @@
     <string name="cache_videos_size_title">影片快取大小</string>
     <string name="cache_songs_size_title">歌曲快取大小</string>
     <string name="cache_artwork_size_title">藝術品快取大小</string>
-    <string name="cache_size_applies_on_restart">喺下次 Flow 開始嗰陣套用。</string>
+    <string name="cache_size_applies_on_restart">喺下次 ZenStream 開始嗰陣套用。</string>
     <string name="btn_back">返回</string>
     <string name="back">返回</string>
     <string name="btn_close">閂</string>
@@ -1522,7 +1522,7 @@
     <string name="delete_selected">刪除所選</string>
     <string name="time_management_title">時間管理</string>
     <string name="time_management_subtitle">追蹤同控制你嘅螢幕時間</string>
-    <string name="stats_disclaimer">根據你喺 Flow 嘅手錶記錄。實際用途可能有所不同。</string>
+    <string name="stats_disclaimer">根據你喺 ZenStream 嘅手錶記錄。實際用途可能有所不同。</string>
     <string name="tools_to_manage_time">管理你時間嘅工具</string>
     <string name="remind_bedtime">幾時係瞓覺時間提醒我</string>
     <string name="start_time">開始時間</string>
@@ -1609,12 +1609,12 @@
         <item quantity="other">%1$d日子</item>
     </plurals>
     <string name="import_data_title">匯入數據</string>
-    <string name="import_flow_backup_success">Flow 備份成功匯入</string>
-    <string name="import_flow_backup_failed_template">匯入唔到 Flow 備份： %1$s</string>
+    <string name="import_flow_backup_success">ZenStream 備份成功匯入</string>
+    <string name="import_flow_backup_failed_template">匯入唔到 ZenStream 備份： %1$s</string>
     <string name="import_newpipe_failed_template">匯入NewPipe備份失敗： %1$s</string>
     <string name="import_youtube_failed_template">匯入唔到 YouTube 備份： %1$s</string>
-    <string name="import_flow_backup_item_title">匯入 Flow 備份</string>
-    <string name="import_flow_backup_desc">喺 Flow 備份檔案還原你嘅記錄、設定同訂閱。</string>
+    <string name="import_flow_backup_item_title">匯入 ZenStream 備份</string>
+    <string name="import_flow_backup_desc">喺 ZenStream 備份檔案還原你嘅記錄、設定同訂閱。</string>
     <string name="import_from_newpipe">由 NewPipe 匯入</string>
     <string name="import_from_newpipe_desc">喺 NewPipe 匯出檔案（ JSON ）入面匯入訂閱。</string>
     <string name="import_from_libretube">從 LibreTube 匯入</string>
@@ -1730,10 +1730,10 @@
     <string name="location_dialog_subtitle">揀下載咗嘅檔案儲存喺裝置上面嘅位置。</string>
     <string name="location_preset_header">預設位置</string>
     <string name="location_custom_header">自訂位置</string>
-    <string name="location_downloads_label">Download/Flow</string>
-    <string name="location_movies_label">電影 / Flow</string>
+    <string name="location_downloads_label">Download/ZenStream</string>
+    <string name="location_movies_label">電影 / ZenStream</string>
     <string name="location_internal_app_label">內部應用程式儲存空間</string>
-    <string name="location_internal_app_desc">私人到 Flow 。如果你卸載，就會移除。</string>
+    <string name="location_internal_app_desc">私人到 ZenStream 。如果你卸載，就會移除。</string>
     <string name="location_custom_saf_label">瀏覽 …</string>
     <string name="location_custom_saf_desc">用系統檔案挑選器揀任何資料夾</string>
     <string name="download_location_not_writable">喺嗰度儲存唔到。用緊 %1$s</string>
@@ -1749,15 +1749,15 @@
         <item quantity="other">%1$d絲</item>
     </plurals>
     <string name="support_donations_title">支持同捐款</string>
-    <string name="support_flow_dev_title">支持 Flow 開發</string>
-    <string name="support_flow_dev_desc">如果 Flow 對你有用，你可以喺 Open Collective 、 Patreon 或者下面嘅加密貨幣上面支援佢。多謝你！</string>
-    <string name="support_flow_open_collective">喺 Open Collective 上面支援 Flow</string>
-    <string name="support_flow_patreon">喺 Patreon 上面支援 Flow</string>
+    <string name="support_flow_dev_title">支持 ZenStream 開發</string>
+    <string name="support_flow_dev_desc">如果 ZenStream 對你有用，你可以喺 Open Collective 、 Patreon 或者下面嘅加密貨幣上面支援佢。多謝你！</string>
+    <string name="support_flow_open_collective">喺 Open Collective 上面支援 ZenStream</string>
+    <string name="support_flow_patreon">喺 Patreon 上面支援 ZenStream</string>
     <string name="thank_you_support_message">多謝你嘅支持！ ❤ ️</string>
     <string name="address_copied_toast">地址複製咗去剪貼簿</string>
     <string name="donation_address_clip_label">捐款地址</string>
-    <string name="donation_prompt_title">享受緊 Flow ？</string>
-    <string name="donation_prompt_message">Flow 係免費嘅，開放源碼同埋冇廣告。如果佢喺你部手機上面搵到一個位置，少少支持就可以令佢繼續運作。</string>
+    <string name="donation_prompt_title">享受緊 ZenStream ？</string>
+    <string name="donation_prompt_message">ZenStream 係免費嘅，開放源碼同埋冇廣告。如果佢喺你部手機上面搵到一個位置，少少支持就可以令佢繼續運作。</string>
     <string name="donation_prompt_methods">Open Collective · Patreon · Bitcoin · Ethereum · Solana · USDT · Monero</string>
     <string name="donation_prompt_support">支持發展</string>
     <string name="donation_prompt_later">可能遲啲</string>
@@ -1776,7 +1776,7 @@
     <string name="about_notices_summary">其他項目嘅字列表同代碼</string>
     <string name="about_license_name">GNU GPL v3</string>
     <string name="about_changelog">變更記錄</string>
-    <string name="whats_new_in_flow">Flow 有咩新嘢</string>
+    <string name="whats_new_in_flow">ZenStream 有咩新嘢</string>
     <string name="about_device_info">裝置資訊</string>
     <string name="gnu_license_full_title">GNU 一般公共授權</string>
     <string name="loading_ellipsis">載入緊 ...</string>
@@ -1830,7 +1830,7 @@
     </plurals>
     <string name="remove_selected_playlist_text">佢哋會喺呢個播放清單入面移除。</string>
     <string name="remove_selected_watch_later_text">佢哋遲啲會喺 Watch 入面移除。</string>
-    <string name="welcome_to_flow">歡迎來到 Flow</string>
+    <string name="welcome_to_flow">歡迎來到 ZenStream</string>
     <string name="onboarding_subtitle">話畀我哋知你對啲咩有興趣</string>
     <string name="onboarding_instructions">揀至少3個主題嚟個人化你嘅體驗</string>
     <string name="onboarding_interests_title">你鍾意啲咩？</string>
@@ -1867,7 +1867,7 @@
     <string name="onboarding_step_interests">興趣</string>
     <string name="onboarding_step_channels">頻道</string>
     <string name="onboarding_step_import">進口</string>
-    <string name="onboarding_import_source_flow">Flow 備份</string>
+    <string name="onboarding_import_source_flow">ZenStream 備份</string>
     <string name="onboarding_import_source_youtube">YouTube</string>
     <string name="onboarding_import_footnote">呢度所有嘢都係選擇性嘅。設定有相同嘅匯入。</string>
     <string name="onboarding_import_done">匯入咗</string>
@@ -1889,7 +1889,7 @@
     <plurals name="onboarding_pick_more">
         <item quantity="other">揀多 %d</item>
     </plurals>
-    <string name="onboarding_welcome_title">將 Flow 變成你嘅</string>
+    <string name="onboarding_welcome_title">將 ZenStream 變成你嘅</string>
     <string name="onboarding_welcome_subtitle">圍繞你鍾意嘅嘢嘅影片同音樂。設定需要一分鐘。</string>
     <string name="onboarding_alerts_title">千祈唔好錯過上載</string>
     <string name="onboarding_alerts_subtitle">當你嘅頻道發佈內容嗰陣，請注意。</string>
@@ -1924,7 +1924,7 @@
     <string name="category_creative">創造力</string>
     <string name="category_science_nature">科學同自然</string>
     <string name="category_news_current_events">新聞同時事</string>
-    <string name="flow_control_center">Flow 控制中心</string>
+    <string name="flow_control_center">ZenStream 控制中心</string>
     <string name="action_refresh">刷新</string>
     <string name="loading_neural_matrix">載入神經矩陣 ...</string>
     <string name="neural_interest_map_subtitle">你嘅神經興趣圖</string>
@@ -1939,7 +1939,7 @@
     <string name="persona_initiate_title">入門者</string>
     <string name="persona_initiate_description">啱啱開始。你嘅個人檔案仲係形成緊。</string>
     <string name="persona_audiophile_title">愛聽者</string>
-    <string name="persona_audiophile_description">你用 Flow 多數係為咗音樂。個氣氛係一切。</string>
+    <string name="persona_audiophile_description">你用 ZenStream 多數係為咗音樂。個氣氛係一切。</string>
     <string name="persona_livewire_title">活線</string>
     <string name="persona_livewire_description">你鍾意直播同首映嘅原始能量。</string>
     <string name="persona_night_owl_title">夜猫子</string>
@@ -1968,7 +1968,7 @@
     <string name="stats_topics">主題</string>
     <string name="empty_bubble_cloud_message">睇啲片嚟填補你嘅興趣星雲！</string>
     <string name="export_profile_data">匯出個人檔案資料</string>
-    <string name="flow_neural_profile_export_subject">Flow 神經特徵匯出</string>
+    <string name="flow_neural_profile_export_subject">ZenStream 神經特徵匯出</string>
     <string name="screen_title_music_library">音樂圖書館</string>
     <string name="header_your_collection">你嘅收藏</string>
     <string name="subtitle_liked_music">你鍾意嘅歌</string>
@@ -2064,7 +2064,7 @@
     <string name="settings_resume_from_headphones_title">由耳機恢復</string>
     <string name="settings_resume_from_headphones_summary">耳機上面嘅播放掣會重新啟動你最後嘅歌曲</string>
     <string name="playback_background_restricted_title">背景活動受到限制</string>
-    <string name="playback_background_restricted_subtitle">當你滑動手機嗰陣，你部手機可能會停止 Flow 。㩒一下就可以允許。</string>
+    <string name="playback_background_restricted_subtitle">當你滑動手機嗰陣，你部手機可能會停止 ZenStream 。㩒一下就可以允許。</string>
     <string name="settings_music_side_swipes_title">速度同音量滑動</string>
     <string name="settings_music_side_swipes_summary">滑動左邊就可以睇到速度，滑動右邊就可以睇到音量</string>
     <string name="music_watch_video_desc">喺影片播放器打開音樂影片</string>
@@ -2238,7 +2238,7 @@
     <string name="eq_bass_boost">低音提升</string>
     <string name="eq_edit">編輯均衡器</string>
     <string name="eq_system">系統均衡器</string>
-    <string name="eq_system_desc">加入 Flow 自己嘅均衡器</string>
+    <string name="eq_system_desc">加入 ZenStream 自己嘅均衡器</string>
     <string name="eq_graph_description">响應曲線， %1$d波段。拖一個點嚟改佢。</string>
     <string name="eq_graph_hint">㩒一下曲線就可以加入一條波段</string>
     <string name="eq_name">名字</string>
@@ -2361,7 +2361,7 @@
     <string name="download_menu_style_compact_desc">可編輯嘅標題、下拉式選單同埋訊息串數量</string>
     <string name="download_ask_every_time_title">每次都要問</string>
     <string name="download_ask_every_time_summary">閂咗嗰陣，下載會用你嘅下載質素</string>
-    <string name="share_download_with_flow">用 Flow 下載</string>
+    <string name="share_download_with_flow">用 ZenStream 下載</string>
     <string name="share_download_not_a_video">只可以喺共用連結下載影片</string>
     <string name="downloads_storage_card_title">儲存空間摘要</string>
     <string name="downloads_storage_card_summary">喺「下載」頂部顯示用咗嘅空間同埋免費嘅空間</string>
@@ -2418,7 +2418,7 @@
     <string name="subtitle_timing_step_template">%1$s s</string>
     <string name="download_subtitle_file">字幕檔案</string>
     <string name="download_subtitle_file_subtitle">喺冇選單下載嘅影片旁邊，用你嘅字幕語言儲存字幕</string>
-    <string name="subtitle_add_file_failed">Flow 讀唔到嗰個檔案做字幕</string>
+    <string name="subtitle_add_file_failed">ZenStream 讀唔到嗰個檔案做字幕</string>
     <string name="off">收線</string>
     <string name="on">喺上面</string>
     <string name="player_settings">玩家設定</string>
@@ -2463,13 +2463,13 @@
     <string name="check_for_updates">睇下有冇更新</string>
     <string name="check_for_updates_subtitle">㩒一下就可以檢查最新版本</string>
     <string name="checking_for_updates">檢查緊更新 …</string>
-    <string name="flow_is_up_to_date">Flow 係最新嘅！</string>
+    <string name="flow_is_up_to_date">ZenStream 係最新嘅！</string>
     <string name="update_check_failed">檢查唔到更新。檢查你嘅連線。</string>
     <string name="export_engine_data">匯出引擎設定檔</string>
     <string name="export_engine_data_subtitle">備份你嘅 AI 個性同學習資料</string>
     <string name="export_engine_success">引擎設定檔成功匯出</string>
     <string name="export_engine_failed">匯出唔到引擎設定檔</string>
-    <string name="import_engine_data">匯入 Flow 引擎數據</string>
+    <string name="import_engine_data">匯入 ZenStream 引擎數據</string>
     <string name="import_engine_data_desc">喺備份檔案入面還原你嘅 AI 人格個人檔案</string>
     <string name="import_engine_success">引擎設定檔成功恢復</string>
     <string name="import_engine_failed">匯入引擎設定檔失敗</string>
@@ -2514,16 +2514,16 @@
     <string name="linked_consent_ask">每次都要問</string>
     <string name="linked_consent_allowed">可以嘅</string>
     <string name="linked_consent_declined">唔准</string>
-    <string name="linked_intro">透過你自己嘅 Flow 同步伺服器、 WebDAV 資料夾或者你嘅 Wi-Fi 網絡，將呢部裝置同你嘅其他裝置保持同步。所有嘢都會喺你嘅裝置上面加密；冇伺服器可以讀取佢。</string>
+    <string name="linked_intro">透過你自己嘅 ZenStream 同步伺服器、 WebDAV 資料夾或者你嘅 Wi-Fi 網絡，將呢部裝置同你嘅其他裝置保持同步。所有嘢都會喺你嘅裝置上面加密；冇伺服器可以讀取佢。</string>
     <string name="linked_create_title">建立一個群組</string>
-    <string name="linked_create_body">喺 Flow 同步伺服器、 WebDAV 資料夾或者呢個網絡上面開始連結</string>
+    <string name="linked_create_body">喺 ZenStream 同步伺服器、 WebDAV 資料夾或者呢個網絡上面開始連結</string>
     <string name="linked_where_title">你啲裝置應該喺邊度同步？</string>
     <string name="linked_restore_where_title">嗰個群組喺邊？</string>
-    <string name="linked_where_server">一個 Flow 同步伺服器</string>
+    <string name="linked_where_server">一個 ZenStream 同步伺服器</string>
     <string name="linked_where_server_body">你自己嘅伺服器：即時更新同最快嘅同步。需要佢嘅地址同管理員憑證</string>
     <string name="linked_where_webdav">一個 WebDAV 資料夾</string>
     <string name="linked_where_webdav_body">Nextcloud 或者其他 WebDAV 伺服器。需要資料夾嘅地址、用戶名同密碼</string>
-    <string name="linked_webdav_body">用一個空嘅資料夾只係用嚟做 Flow 。登入資料只會保留喺呢部裝置嘅安全儲存空間，並且會傳送畀你連結嘅裝置。</string>
+    <string name="linked_webdav_body">用一個空嘅資料夾只係用嚟做 ZenStream 。登入資料只會保留喺呢部裝置嘅安全儲存空間，並且會傳送畀你連結嘅裝置。</string>
     <string name="linked_webdav_url">資料夾地址</string>
     <string name="linked_webdav_url_hint">https : / / 雲 . 例子 . org/ 遠端 . php / dav / 檔案 / 你 / 流程同步 /</string>
     <string name="linked_webdav_user">用戶名</string>
@@ -2658,7 +2658,7 @@
     <string name="linked_profile_add_body">呢部裝置上面嘅新個人檔案會同佢同步。</string>
     <string name="linked_profile_add">加</string>
     <string name="linked_profile_limit">呢部裝置已經有 %1$d設定檔。</string>
-    <string name="linked_profile_switch_body">只有用緊嘅設定檔先可以開始同步，所以 Flow 先喺入面重新啟動。然後喺嗰度開同步。</string>
+    <string name="linked_profile_switch_body">只有用緊嘅設定檔先可以開始同步，所以 ZenStream 先喺入面重新啟動。然後喺嗰度開同步。</string>
     <string name="linked_profile_switch">切換去同步</string>
     <string name="sync_default_only_title">切換去 %1$s 嚟同步</string>
     <string name="sync_devices_subtitle">透過本地 Wi-Fi 同步圖書館、記錄同個人檔案</string>
@@ -2729,12 +2729,12 @@
     <string name="sync_error_peer_also_receive">另一部裝置亦都設定為接收。將佢設定為發送，然後試多一次。</string>
     <string name="sync_error_qr_expired">呢個代碼已經過期。叫另一部裝置建立新嘅代碼。如果代碼一直即刻過期，請檢查兩部裝置嘅日期同時間係咪正確。</string>
     <string name="sync_error_qr_wrong_version">另一部裝置上嘅應用程式版本唔兼容。</string>
-    <string name="sync_error_qr_not_flow">呢個唔似有效嘅 Flow 連線數據。</string>
+    <string name="sync_error_qr_not_flow">呢個唔似有效嘅 ZenStream 連線數據。</string>
     <string name="sync_error_qr_bad_address">連線資料缺少有效嘅網絡地址。</string>
-    <string name="sync_error_qr_not_local">呢個代碼指向你本地網絡以外，所以 Flow 唔會連接佢。只可以用你自己裝置顯示嘅代碼。</string>
+    <string name="sync_error_qr_not_local">呢個代碼指向你本地網絡以外，所以 ZenStream 唔會連接佢。只可以用你自己裝置顯示嘅代碼。</string>
     <string name="sync_error_no_peer">喺代碼到期之前冇連接過任何裝置。請檢查兩部裝置係咪連緊同一個 Wi-Fi，然後再試一次。</string>
     <string name="sync_error_unreachable">去唔到另一部裝置。請檢查兩部裝置係咪連緊同一個 Wi-Fi，以及 VPN 或防火牆有冇阻擋連接。</string>
-    <string name="sync_error_timeout">另一部裝置停止回應。 Keep Flow open on both devices and try again.</string>
+    <string name="sync_error_timeout">另一部裝置停止回應。 Keep ZenStream open on both devices and try again.</string>
     <string name="sync_error_peer_closed">另一部裝置閂咗個連線。檢查佢有冇訊息，然後試多一次。</string>
     <string name="sync_error_corrupted">啲數據喺途中受損。再試多次。</string>
     <string name="sync_error_apply_failed">資料到咗，但係儲存唔到。呢部裝置上面冇任何嘢改過。</string>
@@ -2742,7 +2742,7 @@
     <string name="sync_error_code_not_confirmed">驗證碼未確認，所以冇轉移任何嘢。</string>
     <string name="sync_error_code_rejected">另一部裝置冇確認驗證碼，所以冇轉移任何嘢。</string>
     <string name="sync_error_declined">合併被拒絕。冇嘢轉移。</string>
-    <string name="sync_error_protocol">兩部裝置未能就同步步驟達成一致。喺兩部裝置上面更新 Flow，然後再試一次。</string>
+    <string name="sync_error_protocol">兩部裝置未能就同步步驟達成一致。喺兩部裝置上面更新 ZenStream，然後再試一次。</string>
     <string name="sync_error_peer">另一部裝置報告咗個問題： %1$s</string>
     <string name="sync_step_title_send">寄送</string>
     <string name="sync_step_title_receive">收</string>
@@ -2765,8 +2765,8 @@
     <string name="sync_collection_likes_body">鍾意同唔鍾意嘅影片同音樂。</string>
     <string name="sync_collection_subscriptions_body">你追蹤嘅頻道。</string>
     <string name="sync_collection_settings_body">播放、外觀同下載偏好。</string>
-    <string name="sync_collection_recommendation_profile_body">你睇嘅嘢 Flow 學到啲咩。</string>
-    <string name="sync_collection_music_profile_body">你聽嘅嘢 Flow 學到啲咩。</string>
+    <string name="sync_collection_recommendation_profile_body">你睇嘅嘢 ZenStream 學到啲咩。</string>
+    <string name="sync_collection_music_profile_body">你聽嘅嘢 ZenStream 學到啲咩。</string>
     <string name="sync_waiting_for_peer">等緊另一部裝置連接 …</string>
     <string name="sync_cancel_session">取消同步</string>
     <string name="sync_expires_label">二維碼過期</string>
@@ -2838,7 +2838,7 @@
     <string name="error_not_available">影片唔可用</string>
     <string name="error_not_available_hint">呢段影片可能已經被 YouTube 刪除、私有化或者移除。</string>
     <string name="error_not_supported">唔支援內容類型</string>
-    <string name="error_not_supported_hint">呢個格式或者內容類型喺 Flow 入面播放唔到。</string>
+    <string name="error_not_supported_hint">呢個格式或者內容類型喺 ZenStream 入面播放唔到。</string>
     <string name="error_no_internet">冇互聯網連線</string>
     <string name="error_no_internet_hint">檢查你嘅 Wi-Fi 或者流動數據，然後試多一次。</string>
     <string name="error_timeout">連線超時</string>
@@ -2856,7 +2856,7 @@
     <string name="error_playback_failed">播放失敗</string>
     <string name="error_playback_failed_hint">發生咗意外嘅玩家錯誤。唔該再試多次。</string>
     <string name="error_extraction_failed">解析唔到影片數據</string>
-    <string name="error_extraction_failed_hint">YouTube 可能已經更新咗佢嘅格式。 Flow 好快就會更新 — 請遲啲再試。</string>
+    <string name="error_extraction_failed_hint">YouTube 可能已經更新咗佢嘅格式。 ZenStream 好快就會更新 — 請遲啲再試。</string>
     <string name="error_generic">載入唔到影片</string>
     <string name="error_generic_hint">發生咗一個未知嘅錯誤。唔該再試多次。</string>
     <string name="music_playback_warning_forbidden">音樂串流存取權被拒絕。 YouTube 可能係限制緊呢個 IP ；試下重新載入或者切換網絡/ VPN 。</string>
@@ -2909,7 +2909,7 @@
     <string name="settings_item_diagnostics">診斷</string>
     <string name="settings_item_diagnostics_subtitle">睇返錯誤記錄同埋當機報告</string>
     <string name="diagnostics_title">診斷</string>
-    <string name="diagnostics_report_subject">Flow 診斷報告</string>
+    <string name="diagnostics_report_subject">ZenStream 診斷報告</string>
     <string name="diagnostics_tab_session">工作階段記錄</string>
     <string name="diagnostics_tab_crashes">崩潰報告</string>
     <string name="diagnostics_copy">複製報告</string>
@@ -2919,7 +2919,7 @@
     <string name="diagnostics_clear_confirm_body">所有儲存咗嘅當機報告都會被刪除。呢個係復原唔到嘅。</string>
     <string name="diagnostics_reset_session">重設 YouTube 工作階段</string>
     <string name="diagnostics_reset_session_confirm_title">重設 YouTube 工作階段？</string>
-    <string name="diagnostics_reset_session_confirm_body">Flow 將會建立一個新嘅播放身份。如果影片喺一分鐘之後停止或者播放唔到，請試下呢個方法。\n\n播放可能會粗糙一兩分鐘。你儲存咗嘅數據唔會受到影響。</string>
+    <string name="diagnostics_reset_session_confirm_body">ZenStream 將會建立一個新嘅播放身份。如果影片喺一分鐘之後停止或者播放唔到，請試下呢個方法。\n\n播放可能會粗糙一兩分鐘。你儲存咗嘅數據唔會受到影響。</string>
     <string name="diagnostics_reset_session_done">YouTube 工作階段重設。重新打開條片嚟試多一次。</string>
     <string name="diagnostics_profiles_section">個人檔案（調試）</string>
     <string name="diagnostics_profiles_footer">只係調試版本。切換會重新啟動應用程式。</string>
@@ -2986,7 +2986,7 @@
     <string name="profiles_copy_subscriptions">訂閱</string>
     <string name="profiles_copy_subscriptions_summary">頻道同頻道群組</string>
     <string name="profiles_copy_recommendations">建議</string>
-    <string name="profiles_copy_recommendations_summary">Flow 對你嘅品味學到啲咩</string>
+    <string name="profiles_copy_recommendations_summary">ZenStream 對你嘅品味學到啲咩</string>
     <string name="profiles_create_and_switch">建立同切換</string>
     <string name="profiles_create">建立個人檔案</string>
     <string name="profiles_save">保存</string>
@@ -3134,7 +3134,7 @@
     <string name="shorts_playback_speed">播放速度</string>
     <string name="speed_normal">正常</string>
     <string name="export_watch_history_title">睇歷史</string>
-    <string name="export_watch_history_desc">匯出為 YouTube- 歷史 JSON （匯入到 LibreTube 和 Flow ）</string>
+    <string name="export_watch_history_desc">匯出為 YouTube- 歷史 JSON （匯入到 LibreTube 和 ZenStream ）</string>
     <string name="history_export_failed">匯出唔到手錶記錄</string>
     <string name="history_delete_shorts">喺記錄入面刪除 Shorts</string>
     <string name="history_delete_shorts_title">刪除 Shorts ？</string>
@@ -3147,7 +3147,7 @@
     <string name="no_match_found">搵唔到匹配嘅</string>
     <string name="recognition_error">識別失敗</string>
     <string name="try_again">再試多次</string>
-    <string name="search_in_flow">喺 Flow 入面搜尋</string>
+    <string name="search_in_flow">喺 ZenStream 入面搜尋</string>
     <string name="recognition_search_history">搜尋認可嘅歌曲</string>
     <string name="recognition_history_empty">呢度會出現公認嘅歌曲</string>
     <string name="recognition_clear_history">清楚嘅歷史？</string>
@@ -3177,15 +3177,15 @@
     <string name="discord_presence_account">Discord帳戶</string>
     <string name="discord_presence_privacy_section">私隱同帳戶風險</string>
     <string name="discord_presence_privacy_title">私隱</string>
-    <string name="discord_presence_privacy_body">Flow 分享你玩嘅遊戲嘅標題、創作者、藝術品同進度。預設閂咗。你嘅 Discord 憑證已經加密，而且從來都唔會記錄。</string>
+    <string name="discord_presence_privacy_body">ZenStream 分享你玩嘅遊戲嘅標題、創作者、藝術品同進度。預設閂咗。你嘅 Discord 憑證已經加密，而且從來都唔會記錄。</string>
     <string name="discord_presence_gateway_warning">呢個操作會用你嘅 Discord 憑證登入，而唔係用官方登入。呢個操作會違反 Discord 嘅服務條款，同埋可能會限制或者禁止你嘅帳戶。</string>
     <string name="discord_presence_risk_dialog_title">接受 Discord 帳戶風險嗎？</string>
-    <string name="discord_presence_risk_dialog_body">連線會畀 Flow 你嘅 Discord 憑證。呢個資料會喺呢部裝置上面保持加密，只會傳送去 Discord 。呢個方法會違反 Discord 嘅服務條款，所以你嘅帳戶可能會受到限制或者被禁止。</string>
+    <string name="discord_presence_risk_dialog_body">連線會畀 ZenStream 你嘅 Discord 憑證。呢個資料會喺呢部裝置上面保持加密，只會傳送去 Discord 。呢個方法會違反 Discord 嘅服務條款，所以你嘅帳戶可能會受到限制或者被禁止。</string>
     <string name="discord_presence_risk_accept">我明白，連接</string>
     <string name="discord_error_not_initialized">Discord 豐富存在仲未初始化。</string>
     <string name="discord_error_enable_before_connect">喺連接帳戶之前啟用 Discord 豐富存在。</string>
     <string name="discord_error_unavailable">呢個版本入面唔可以用 Discord 豐富嘅存在。</string>
-    <string name="discord_error_open_flow">連接 Discord 之前打開 Flow 。</string>
+    <string name="discord_error_open_flow">連接 Discord 之前打開 ZenStream 。</string>
     <string name="discord_error_connection_in_progress">Discord 連線已經進行緊。</string>
     <string name="discord_error_login_timeout">Discord 登入超時。</string>
     <string name="discord_error_login_cancelled">Discord 連線已經取消。</string>
@@ -3199,7 +3199,7 @@
     <string name="discord_error_heartbeat_unacknowledged">唔承認 Discord 閘道嘅心跳。</string>
     <string name="discord_error_heartbeat_failed">Discord 閘道心跳失敗。</string>
     <string name="discord_account_fallback">Discord 用戶</string>
-    <string name="discord_presence_playing_fallback">喺 Flow 玩緊</string>
+    <string name="discord_presence_playing_fallback">喺 ZenStream 玩緊</string>
     <string name="discord_presence_by_creator">由 %1$s</string>
     <string name="settings_item_interface_mode">介面模式</string>
     <string name="settings_item_interface_mode_subtitle">揀自動、流動或者電視版面配置</string>
@@ -3212,7 +3212,7 @@
     <string name="interface_mode_tv_summary">一定要用遙控器友善嘅電視介面</string>
     <string name="tv_player_queue">排隊</string>
     <string name="tv_remote_guide_title">遙控器同鍵盤指南</string>
-    <string name="tv_remote_guide_subtitle">喺沙發上面導航 Flow 嘅快速參考</string>
+    <string name="tv_remote_guide_subtitle">喺沙發上面導航 ZenStream 嘅快速參考</string>
     <string name="tv_guide_navigation_title">導航</string>
     <string name="tv_guide_search_title">搜尋同瀏覽</string>
     <string name="tv_guide_playback_title">播放</string>
@@ -3244,9 +3244,9 @@
     <string name="tv_guide_player_media">播放、暫停、上一個、下一個、快退、快進同埋字幕鍵可以直接運作。</string>
     <string name="tv_guide_player_back">先閂個面板或者控制項；再撳一次就可以離開播放器。</string>
     <string name="widget_now_playing_label">而家玩緊</string>
-    <string name="widget_now_playing_description">控制 Flow 入面播放緊嘅音樂</string>
+    <string name="widget_now_playing_description">控制 ZenStream 入面播放緊嘅音樂</string>
     <string name="widget_quick_actions_label">快速行動</string>
-    <string name="widget_quick_actions_description">搜尋 Flow ，然後跳到下載、記錄或者識別</string>
+    <string name="widget_quick_actions_description">搜尋 ZenStream ，然後跳到下載、記錄或者識別</string>
     <string name="widget_recognize_label">認識音樂</string>
     <string name="widget_recognize_description">撳一下就可以識別你身邊播放緊嘅歌曲</string>
     <string name="widget_turntable_label">轉盤</string>
@@ -3304,7 +3304,7 @@
     <string name="widget_week_title">最後7日</string>
     <string name="widget_week_top_artist">今個月嘅頂級藝人</string>
     <string name="settings_widgets_title">小工具</string>
-    <string name="settings_widgets_summary">將 Flow 放喺你嘅主畫面</string>
+    <string name="settings_widgets_summary">將 ZenStream 放喺你嘅主畫面</string>
     <string name="settings_widgets_add_header">加入主畫面</string>
     <string name="settings_widgets_footer">㩒一下就可以放置佢，或者長按主畫面。</string>
     <string name="settings_widgets_unsupported">你嘅啟動器加唔到應用程式嘅小工具。長按你嘅主畫面就可以加入一個。</string>
@@ -3320,7 +3320,7 @@
     <string name="ui_navigate">導航</string>
     <string name="ui_options">選項</string>
     <string name="ui_selected">揀咗</string>
-    <string name="ui_flow_logo">Flow 標誌</string>
+    <string name="ui_flow_logo">ZenStream 標誌</string>
     <string name="ui_list_view">清單檢視</string>
     <string name="ui_grid_view">網格視圖</string>
     <string name="ui_back">返回</string>
@@ -3343,7 +3343,7 @@
     <string name="ui_no_crash_logs">冇當機記錄</string>
     <string name="ui_copy_log">複製日誌</string>
     <string name="ui_clear_and_continue">清除同繼續</string>
-    <string name="crash_title">Flow 估唔到閂咗門</string>
+    <string name="crash_title">ZenStream 估唔到閂咗門</string>
     <string name="crash_subtitle">呢份報告會保留喺你嘅裝置上面，直至你分享為止。</string>
     <string name="crash_summary_error">錯誤</string>
     <string name="crash_summary_message">訊息</string>
@@ -3356,7 +3356,7 @@
     <string name="crash_report">報告</string>
     <string name="crash_continue">繼續</string>
     <string name="crash_report_copied">複製咗全部報告。將佢貼入「記錄」欄位。</string>
-    <string name="ui_crashed_last_session">Flow 上次工作階段失敗</string>
+    <string name="ui_crashed_last_session">ZenStream 上次工作階段失敗</string>
     <string name="ui_copy_log_description">複製下面嘅日誌，然後將佢貼入 GitHub 問題，噉就可以修正。</string>
     <string name="ui_search_settings">搜尋設定 …</string>
     <string name="ui_custom_interest_title">加入自訂興趣</string>
@@ -3364,7 +3364,7 @@
     <string name="ui_custom_interest_hint">自訂興趣（例如爵士樂、天體物理學）</string>
     <string name="ui_add_interest">加啲興趣</string>
     <string name="ui_version">版本 %1$s</string>
-    <string name="update_download_prompt">有新版本嘅 Flow （ %1$s ）。下載最新嘅 APK ？</string>
+    <string name="update_download_prompt">有新版本嘅 ZenStream （ %1$s ）。下載最新嘅 APK ？</string>
     <string name="ui_instrumental">工具</string>
     <string name="ui_playlist_empty">播放清單係空嘅</string>
     <plurals name="ui_downloading_videos">
@@ -3427,7 +3427,7 @@
     <string name="notification_downloading">下載： %1$s</string>
     <string name="notification_download_complete">下載完成</string>
     <string name="notification_download_failed">下載失敗</string>
-    <string name="notification_channel_downloads_name">Flow 下載</string>
+    <string name="notification_channel_downloads_name">ZenStream 下載</string>
     <string name="notification_download_paused">暫停咗 — %1$s</string>
     <string name="notification_download_paused_hint">撳一下就可以繼續</string>
     <string name="notification_download_progress">%1$d %% • %2$s / %3$s</string>
@@ -3444,10 +3444,10 @@
     </plurals>
     <string name="notification_update_available">可用更新： %1$s</string>
     <string name="notification_tap_to_update">㩒一下就可以更新到最新版本。</string>
-    <string name="update_downloading_notification">下載緊 Flow %1$s</string>
-    <string name="update_ready_notification">Flow %1$s 準備好喇</string>
+    <string name="update_downloading_notification">下載緊 ZenStream %1$s</string>
+    <string name="update_ready_notification">ZenStream %1$s 準備好喇</string>
     <string name="update_ready_notification_text">已經驗證咗。㩒一下就可以安裝。</string>
-    <string name="update_title">Flow %1$s 喺呢度</string>
+    <string name="update_title">ZenStream %1$s 喺呢度</string>
     <string name="update_version_change">%1$s → %2$s</string>
     <string name="update_not_now">而家唔得</string>
     <string name="update_skip_version">跳過呢個版本</string>
@@ -3459,11 +3459,11 @@
     <string name="update_action_allow">允許安裝</string>
     <string name="update_action_install">安裝更新</string>
     <string name="update_action_installing">安裝緊</string>
-    <string name="update_permission_notice">允許 Flow 安裝更新。 Android 要求呢個一次。</string>
+    <string name="update_permission_notice">允許 ZenStream 安裝更新。 Android 要求呢個一次。</string>
     <string name="update_failed_network">下載停止咗。檢查你嘅連線，然後試多一次。</string>
     <string name="update_failed_storage">更新嘅空間唔夠。</string>
     <string name="update_failed_checksum">個檔案同發佈版本唔啱，所以刪除咗。再試多次。</string>
-    <string name="update_failed_package">呢個檔案唔係 Flow 更新，所以已經刪除咗。</string>
+    <string name="update_failed_package">呢個檔案唔係 ZenStream 更新，所以已經刪除咗。</string>
     <string name="update_failed_install">Android 安裝唔到更新。再試多次。</string>
     <string name="notification_watch_later_reminder">遲啲睇提醒</string>
     <string name="notification_video_live">影片係直播緊</string>
@@ -3537,7 +3537,7 @@
         <item quantity="other">%1$d檔案隱藏咗</item>
     </plurals>
     <string name="local_manage">管理</string>
-    <string name="local_partial_access_title">Flow 只可以睇到你揀嘅影片</string>
+    <string name="local_partial_access_title">ZenStream 只可以睇到你揀嘅影片</string>
     <string name="local_partial_access_body">允許存取所有影片嚟睇其餘嘅影片。</string>
     <string name="local_open_settings">打開設定</string>
     <string name="local_permission_denied_body">喺應用程式設定入面允許存取影片同音樂，喺呢度睇到佢哋。</string>
@@ -3591,7 +3591,7 @@
     <string name="downloads_sort_largest">最大嘅</string>
     <string name="downloads_sort_title">題目</string>
     <string name="downloads_sort_channel">頻道</string>
-    <string name="downloads_storage_used">%1$s 喺 Flow</string>
+    <string name="downloads_storage_used">%1$s 喺 ZenStream</string>
     <string name="downloads_storage_free">%1$s 免費</string>
     <string name="downloads_storage_videos">影片 %1$s</string>
     <string name="downloads_storage_music">音樂 %1$s</string>
@@ -3643,9 +3643,9 @@
     <string name="download_failed_audio_length">攞唔到音訊內容長度</string>
     <string name="download_workers_failed">一個或者多個工人失敗咗</string>
     <string name="download_block_failed">封鎖 %1$s 失敗： %2$s</string>
-    <string name="import_migrate_description">將你嘅訂閱同記錄由其他平台無縫轉移去 Flow 。</string>
+    <string name="import_migrate_description">將你嘅訂閱同記錄由其他平台無縫轉移去 ZenStream 。</string>
     <string name="import_backup_restore">備份同還原</string>
-    <string name="import_manage_backups">管理你嘅 Flow 備份</string>
+    <string name="import_manage_backups">管理你嘅 ZenStream 備份</string>
     <string name="import_external_services">外部服務</string>
     <string name="import_other_youtube_clients">由其他 YouTube 用戶端匯入</string>
     <string name="imported_successfully">%1$s 成功匯入</string>
@@ -3723,7 +3723,7 @@
     <string name="settings_about_summary">版本、授權同連結</string>
     <string name="settings_theme_summary">調色板同淺色或深色風格</string>
     <string name="settings_font_title">字體</string>
-    <string name="settings_font_summary">Flow 所用嘅字體</string>
+    <string name="settings_font_summary">ZenStream 所用嘅字體</string>
     <string name="settings_keywords_font">字體，文字，字母， ttf ， otf</string>
     <string name="font_system_default">系統預設</string>
     <string name="font_condensed">凝縮咗</string>
@@ -3830,14 +3830,14 @@
     <string name="settings_section_watched">睇過嘅影片</string>
     <string name="settings_section_sharing">分享緊</string>
     <string name="settings_section_links">連結</string>
-    <string name="content_settings_open_links_title">喺 Flow 打開 YouTube 連結</string>
+    <string name="content_settings_open_links_title">喺 ZenStream 打開 YouTube 連結</string>
     <string name="content_settings_open_links_subtitle">揀呢度開邊啲連結</string>
     <string name="content_settings_open_links_all">每個 YouTube 地址都開</string>
     <string name="content_settings_open_links_some">開 %1$d嘅 %2$d地址</string>
     <string name="content_settings_open_links_off">收線。喺另一個應用程式入面打開嘅連結</string>
     <string name="content_settings_open_links_system_asks">Android 問要用邊個應用程式</string>
     <string name="content_settings_shared_links_title">共用連結</string>
-    <string name="content_settings_shared_links_subtitle">分享畀 Flow 嘅影片有咩作用</string>
+    <string name="content_settings_shared_links_subtitle">分享畀 ZenStream 嘅影片有咩作用</string>
     <string name="content_settings_shared_links_dialog_body">你喺其他應用程式入面撳嘅連結一直都會播放。</string>
     <string name="content_settings_shared_links_play">即刻玩</string>
     <string name="content_settings_shared_links_ask_while_playing">有啲嘢玩緊嘅時候問下</string>
@@ -3860,7 +3860,7 @@
     <string name="settings_backup_tab_auto">自動</string>
     <string name="settings_backup_full">完整備份</string>
     <string name="settings_backup_individual">個別出口</string>
-    <string name="settings_backup_restore_flow">從 Flow 還原</string>
+    <string name="settings_backup_restore_flow">從 ZenStream 還原</string>
     <string name="settings_backup_source_youtube">YouTube 同谷歌外賣</string>
     <string name="settings_backup_source_newpipe">NewPipe</string>
     <string name="settings_backup_source_libretube">LibreTube</string>
@@ -3882,7 +3882,7 @@
     <string name="settings_storage_access_summary">亦可以畀本地媒體列出其他應用程式儲存嘅檔案</string>
     <string name="settings_storage_usage">%1$s 免 %2$s</string>
     <string name="settings_location_default">預設</string>
-    <string name="settings_music_folder_label">Music/Flow</string>
+    <string name="settings_music_folder_label">Music/ZenStream</string>
     <string name="settings_keywords_downloads">離線儲存，資料夾，儲存空間， SD 卡</string>
     <string name="settings_section_notification_types">通知我</string>
     <string name="settings_keywords_notifications">警示、推送、新上載、背景檢查、短片</string>
@@ -3922,7 +3922,7 @@
     <string name="settings_changelog_all_releases">所有發佈都係喺 GitHub 上面發佈</string>
     <string name="settings_changelog_expand">顯示變更</string>
     <string name="settings_changelog_collapse">隱藏變更</string>
-    <string name="settings_creator_role">Flow 嘅創作者同開發者</string>
+    <string name="settings_creator_role">ZenStream 嘅創作者同開發者</string>
     <string name="device_info_section_device">設備</string>
     <string name="device_info_section_system">系統</string>
     <string name="device_info_section_display">佈置</string>
@@ -3973,7 +3973,7 @@
     <string name="settings_custom_theme_start_from">由</string>
     <string name="settings_custom_theme_count">%1$d嘅 %2$d主題</string>
     <string name="settings_custom_theme_empty">仲未有自訂主題</string>
-    <string name="settings_custom_theme_empty_body">由任何調色板開始，或者匯入用 Flow 桌面製作嘅調色板。</string>
+    <string name="settings_custom_theme_empty_body">由任何調色板開始，或者匯入用 ZenStream 桌面製作嘅調色板。</string>
     <string name="settings_custom_theme_import_failed">嗰個檔案入面冇有效嘅主題</string>
     <string name="settings_custom_theme_limit">你最多可以保留 %1$d嘅主題</string>
     <string name="settings_custom_theme_exported">主題已經匯出</string>
@@ -4004,9 +4004,9 @@
     <string name="settings_custom_theme_in_use">用緊</string>
     <string name="settings_custom_theme_export_failed">個主題儲存唔到</string>
     <string name="taste_title">你嘅口味</string>
-    <string name="taste_summary">Flow 點睇你，同埋點樣塑造你嘅資訊提供</string>
+    <string name="taste_summary">ZenStream 點睇你，同埋點樣塑造你嘅資訊提供</string>
     <string name="taste_keywords">人物、個人檔案、算法、推薦、興趣、腦、引擎、控制中心</string>
-    <string name="taste_card_hint">睇下 Flow 點睇你</string>
+    <string name="taste_card_hint">睇下 ZenStream 點睇你</string>
     <string name="taste_card_loading">睇緊你嘅個人檔案</string>
     <string name="taste_shape_header">味道形狀</string>
     <string name="taste_shape_description">你嘅個人檔案同你喺呢個時間睇緊嘅嘢比較</string>
@@ -4049,16 +4049,16 @@
     <string name="taste_export_music">匯出音樂個人檔案</string>
     <string name="taste_import_music">匯入音樂個人檔案</string>
     <string name="taste_reset_music">重設音樂設定檔</string>
-    <string name="taste_reset_video_body">Flow 唔記得咗佢喺你嘅影片同搜尋入面學到啲咩。記錄、讚好、播放清單同隱藏項目會保留，而 Home 仍然會用佢哋。</string>
+    <string name="taste_reset_video_body">ZenStream 唔記得咗佢喺你嘅影片同搜尋入面學到啲咩。記錄、讚好、播放清單同隱藏項目會保留，而 Home 仍然會用佢哋。</string>
     <string name="taste_reset_music_title">重設音樂個人檔案？</string>
-    <string name="taste_reset_music_body">噉樣就清除咗 Flow 喺你嘅音樂入面學到嘅嘢，然後由零開始。你嘅總結會留低。</string>
+    <string name="taste_reset_music_body">噉樣就清除咗 ZenStream 喺你嘅音樂入面學到嘅嘢，然後由零開始。你嘅總結會留低。</string>
     <string name="taste_trait_now">而家 %1$s</string>
     <string name="taste_reset_done">個人檔案重設</string>
     <string name="diagnostics_engine_header">引擎詳情</string>
     <string name="diagnostics_engine_queries_none">仲未有</string>
     <string name="taste_starter_searches">入門搜尋</string>
-    <string name="taste_starter_searches_detail">%1$s 。用到 Flow 學識你睇嘅嘢。</string>
-    <string name="recap_title">Flow 總結</string>
+    <string name="taste_starter_searches_detail">%1$s 。用到 ZenStream 學識你睇嘅嘢。</string>
+    <string name="recap_title">ZenStream 總結</string>
     <string name="recap_summary">你睇同聽嘅嘢，逐個月</string>
     <string name="recap_keywords">包裝，統計，統計，總結，年份回顧，觀看時間，聽時間，最多人觀看，頂尖藝人</string>
     <string name="recap_period_month">月</string>
@@ -4067,7 +4067,7 @@
     <string name="recap_source_all">所有嘢</string>
     <string name="recap_source_video">影片</string>
     <string name="recap_source_music">音樂</string>
-    <string name="recap_total_time">喺 Flow 嘅時間</string>
+    <string name="recap_total_time">喺 ZenStream 嘅時間</string>
     <string name="recap_delta_up">%1$s 比之前嘅時間多</string>
     <string name="recap_delta_down">%1$s 比之前少咗</string>
     <string name="recap_delta_same">同之前嘅時間大約一樣</string>
@@ -4138,7 +4138,7 @@
         <item quantity="other">%d影片</item>
     </plurals>
     <string name="recap_empty_title">你嘅總結由而家開始</string>
-    <string name="recap_empty_body">Flow 只會喺呢部裝置上面保留呢啲統計資料。睇同聽一陣，佢哋就會填補。</string>
+    <string name="recap_empty_body">ZenStream 只會喺呢部裝置上面保留呢啲統計資料。睇同聽一陣，佢哋就會填補。</string>
     <string name="recap_period_empty">呢段時間冇任何記錄</string>
     <string name="recap_insights_title">有咩突出咗</string>
     <string name="recap_insight_night_owl">夜貓子</string>
@@ -4160,7 +4160,7 @@
     <string name="recap_ready_body">睇下你睇過同聽過啲咩，如果你鍾意就分享下</string>
     <string name="recap_ready_open">打開</string>
     <string name="recap_ready_dismiss">而家唔得</string>
-    <string name="recap_story_intro">你嘅 %1$s Flow</string>
+    <string name="recap_story_intro">你嘅 %1$s ZenStream</string>
     <plurals name="recap_story_intro_body">
         <item quantity="other">喺 %d日子內傳播</item>
     </plurals>
@@ -4182,12 +4182,12 @@
     <string name="recap_story_summary">你嘅 %1$s ，喺一張卡入面</string>
     <string name="recap_story_share">分享</string>
     <string name="recap_story_share_title">分享你嘅總結</string>
-    <string name="recap_story_share_text">我嘅 %1$s 喺 Flow ： %2$s</string>
+    <string name="recap_story_share_text">我嘅 %1$s 喺 ZenStream ： %2$s</string>
     <string name="recap_story_close">閂</string>
     <string name="recap_story_next">下一個</string>
     <string name="recap_story_previous">之前</string>
     <string name="recap_story_page">%1$d嘅 %2$d頁</string>
-    <string name="recap_story_made_with">用 Flow 製成</string>
+    <string name="recap_story_made_with">用 ZenStream 製成</string>
     <string name="recap_story_pause">暫停</string>
     <string name="recap_story_play">玩</string>
     <string name="recap_summary_top_channel">頂級頻道</string>
@@ -4201,8 +4201,8 @@
     <string name="playlist_exported">儲存咗嘅播放清單</string>
     <string name="playlist_export_failed">儲存唔到播放清單</string>
     <string name="playlist_share_failed">分享唔到播放清單</string>
-    <string name="playlist_import_not_a_playlist">呢個檔案唔係 Flow 播放清單</string>
-    <string name="playlist_import_too_new">呢個播放清單需要一個較新版本嘅 Flow</string>
+    <string name="playlist_import_not_a_playlist">呢個檔案唔係 ZenStream 播放清單</string>
+    <string name="playlist_import_too_new">呢個播放清單需要一個較新版本嘅 ZenStream</string>
     <string name="playlist_import_empty">呢個播放清單冇影片可以匯入</string>
     <string name="playlist_import_unreadable">讀唔到呢個檔案</string>
     <plurals name="playlist_imported">
@@ -4395,7 +4395,7 @@
     <string name="scrobbling_import">匯入你嘅頂級藝術家</string>
     <string name="scrobbling_import_summary">將你最多人玩嘅藝人加入你嘅最愛</string>
     <string name="scrobbling_import_offer_title">用 %1$s 塑造你嘅音樂？</string>
-    <string name="scrobbling_import_offer_body">Flow 將你過去一年最多人玩嘅20位藝人加入你最鍾意嘅藝人。你遲啲可以移除任何一個。</string>
+    <string name="scrobbling_import_offer_body">ZenStream 將你過去一年最多人玩嘅20位藝人加入你最鍾意嘅藝人。你遲啲可以移除任何一個。</string>
     <string name="scrobbling_import_action">進口</string>
     <string name="scrobbling_import_later">而家唔得</string>
     <plurals name="scrobbling_import_done">

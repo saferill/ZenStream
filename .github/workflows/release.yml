@@ -61,6 +61,7 @@ jobs:
           TAG="${{ steps.tag.outputs.tag }}"
           if gh release view "$TAG" >/dev/null 2>&1; then
             gh release upload "$TAG" "ZenStream-${TAG}.apk" --clobber
+            gh release edit "$TAG" --notes-file release-notes.md
           else
-            gh release create "$TAG" "ZenStream-${TAG}.apk" --title "ZenStream $TAG" --generate-notes
+            gh release create "$TAG" "ZenStream-${TAG}.apk" --title "ZenStream $TAG" --notes-file release-notes.md
           fi

@@ -124,7 +124,7 @@
     <string name="copy_logs">로그 복사</string>
     <string name="logs_copied">로그를 복사했습니다</string>
     <string name="logs_copy_failed">로그를 복사할 수 없습니다</string>
-    <string name="channel_error_log_clip_label">Flow 채널 오류 로그</string>
+    <string name="channel_error_log_clip_label">ZenStream 채널 오류 로그</string>
     <string name="song">노래</string>
     <string name="playlist_filter_owned">내가 만든 항목</string>
     <string name="playlist_creation_menu_open">재생목록 만들기</string>
@@ -243,7 +243,7 @@
     <string name="new_update_available">새 업데이트가 있습니다</string>
     <string name="update_available_template">%1$s 버전을 사용할 수 있습니다</string>
     <string name="release_notes">업데이트 내용</string>
-    <string name="update_flow">Flow 업데이트</string>
+    <string name="update_flow">ZenStream 업데이트</string>
     <string name="maybe_later">나중에</string>
     <string name="nav_home">홈</string>
     <string name="nav_shorts">Shorts</string>
@@ -382,14 +382,14 @@
     <string name="peace_and_quiet">조용하네요</string>
     <string name="notifications_empty_body">모든 알림을 확인했습니다! 구독 채널의 새 소식이 여기에 표시됩니다.</string>
     <string name="settings_title">설정</string>
-    <string name="settings_flow_engine_header">Flow 엔진</string>
+    <string name="settings_flow_engine_header">ZenStream 엔진</string>
     <string name="settings_active_learning">활성 학습 중</string>
-    <string name="settings_reset_brain_title">Flow 성향을 초기화할까요?</string>
-    <string name="settings_reset_brain_body">‘Flow Brain’ 관심사 프로필이 완전히 삭제됩니다.\n\n• 학습한 모든 주제를 잊습니다.\n• 성향 특성이 중립으로 초기화됩니다.\n• 추천이 기본값으로 돌아갑니다.\n\n이 작업은 되돌릴 수 없습니다.</string>
+    <string name="settings_reset_brain_title">ZenStream 성향을 초기화할까요?</string>
+    <string name="settings_reset_brain_body">‘ZenStream Brain’ 관심사 프로필이 완전히 삭제됩니다.\n\n• 학습한 모든 주제를 잊습니다.\n• 성향 특성이 중립으로 초기화됩니다.\n• 추천이 기본값으로 돌아갑니다.\n\n이 작업은 되돌릴 수 없습니다.</string>
     <string name="settings_reset_everything">모두 초기화</string>
     <string name="settings_analyzing_interactions">상호작용을 분석하는 중...</string>
     <string name="settings_view_analytics">분석 보기</string>
-    <string name="deep_flow_mode_title">Deep Flow 모드</string>
+    <string name="deep_flow_mode_title">Deep ZenStream 모드</string>
     <string name="deep_flow_mode_subtitle">학습을 일시중지하여 프로필에 영향을 주지 않고 둘러봅니다</string>
     <string name="deep_flow_learning_paused">학습 일시중지됨</string>
     <string name="deep_flow_expires_in">%s 후 종료</string>
@@ -401,7 +401,7 @@
     <string name="deep_flow_dialog_body">학습을 얼마나 오래 일시중지할까요?</string>
     <string name="deep_flow_enabled_message">Deep Flow를 사용 설정했습니다</string>
     <string name="deep_flow_disabled_message">Deep Flow를 사용 중지했습니다</string>
-    <string name="deep_flow_expired_message">Deep Flow 타이머가 종료되었습니다</string>
+    <string name="deep_flow_expired_message">Deep ZenStream 타이머가 종료되었습니다</string>
     <string name="deep_flow_active_until_disabled">직접 끌 때까지 Deep Flow가 유지됩니다</string>
     <string name="deep_flow_duration_never">제한 없음</string>
     <string name="deep_flow_duration_1h">1시간</string>
@@ -426,7 +426,7 @@
     <string name="notif_type_reminders">화면 사용 시간 알림</string>
     <string name="notif_type_reminders_subtitle">시간 관리의 취침 시간 및 휴식 알림</string>
     <string name="notif_type_updates">앱 업데이트</string>
-    <string name="notif_type_updates_subtitle">새 Flow 버전이 출시되면 알림을 받습니다</string>
+    <string name="notif_type_updates_subtitle">새 ZenStream 버전이 출시되면 알림을 받습니다</string>
     <string name="notif_type_general">일반 알림</string>
     <string name="notif_type_general_subtitle">기타 앱 알림 및 공지</string>
     <string name="notif_system_settings">시스템 알림 설정</string>
@@ -475,17 +475,17 @@
     <string name="settings_item_export_data_subtitle">데이터를 백업합니다</string>
     <string name="settings_item_import_data">데이터 가져오기</string>
     <string name="settings_item_import_data_subtitle">백업을 복원하거나 다른 앱에서 가져옵니다</string>
-    <string name="settings_item_about_flow">Flow 정보</string>
+    <string name="settings_item_about_flow">ZenStream 정보</string>
     <string name="settings_item_about_flow_subtitle">버전, 라이선스, 기여자</string>
     <string name="settings_item_support">후원 및 기부</string>
-    <string name="settings_item_support_subtitle">Flow 개발을 후원합니다</string>
+    <string name="settings_item_support_subtitle">ZenStream 개발을 후원합니다</string>
     <string name="settings_region_dialog_title">지역 선택</string>
     <string name="settings_language_dialog_title">앱 언어 선택</string>
     <string name="settings_language_system_default">시스템 기본값</string>
     <string name="settings_export_success">데이터를 내보냈습니다</string>
     <string name="settings_export_failed">내보내기 실패: %1$s</string>
     <string name="appearance_title">화면 및 테마</string>
-    <string name="appearance_subtitle">Flow 사용 환경을 맞춤설정하세요</string>
+    <string name="appearance_subtitle">ZenStream 사용 환경을 맞춤설정하세요</string>
     <string name="appearance_current_theme">현재 테마</string>
     <string name="appearance_category_all">전체</string>
     <string name="appearance_category_light">라이트</string>
@@ -554,9 +554,9 @@
     <string name="app_icon_picker_subtitle">런처 아이콘 스타일을 선택하세요. 변경 사항은 즉시 적용되며 런처가 잠시 새로고침됩니다.</string>
     <string name="app_icon_picker_warning">알림: 아이콘 전환에는 Android 시스템 기능이 사용되므로 홈 화면의 앱 바로가기가 잠시 사라질 수 있습니다. 필요하면 런처를 길게 눌러 다시 추가하세요.</string>
     <string name="app_icon_apply_toast">아이콘이 업데이트되었습니다. 런처가 새로고침됩니다</string>
-    <string name="icon_name_flow_red">Flow 레드</string>
-    <string name="icon_name_flow_light">Flow 라이트</string>
-    <string name="icon_name_flow_play">Flow 플레이</string>
+    <string name="icon_name_flow_red">ZenStream 레드</string>
+    <string name="icon_name_flow_light">ZenStream 라이트</string>
+    <string name="icon_name_flow_play">ZenStream 플레이</string>
     <string name="icon_name_amoled">AMOLED 다크</string>
     <string name="icon_name_monochrome">모노크롬</string>
     <string name="icon_name_ghost">고스트</string>
@@ -585,7 +585,7 @@
     <string name="shorts_unsaved">Shorts 저장을 취소했습니다</string>
     <string name="settings_item_player_appearance">플레이어 모양</string>
     <string name="settings_item_player_appearance_subtitle">진행률 표시줄 스타일을 맞춤설정합니다</string>
-    <string name="style_default">기본(Flow)</string>
+    <string name="style_default">기본(ZenStream)</string>
     <string name="style_metrolist">Metrolist(굵게)</string>
     <string name="style_metrolist_slim">Metrolist(얇게)</string>
     <string name="style_squiggly">물결 모양</string>
@@ -646,7 +646,7 @@
     <string name="theme_desc_sky_blue">탁 트이고 산뜻함</string>
     <string name="theme_name_cream_paper">크림 페이퍼</string>
     <string name="theme_desc_cream_paper">따뜻하고 포근함</string>
-    <string name="theme_name_classic_dark">Flow 클래식</string>
+    <string name="theme_name_classic_dark">ZenStream 클래식</string>
     <string name="theme_desc_classic_dark">YouTube 빨간색 포인트가 있는 Flow의 원래 팔레트</string>
     <string name="theme_name_true_black">트루 블랙</string>
     <string name="theme_desc_true_black">완전한 OLED 블랙</string>
@@ -733,7 +733,7 @@
     <string name="content_settings_video_card_mark_watched_title">동영상 카드의 시청 완료 버튼</string>
     <string name="content_settings_video_card_mark_watched_subtitle">전체 및 간결한 동영상 카드에 눈 모양 버튼을 표시하여 빠르게 시청한 것으로 표시합니다</string>
     <string name="content_settings_show_app_logo_title">앱 로고 아이콘 표시</string>
-    <string name="content_settings_show_app_logo_subtitle">홈 화면 상단 표시줄에서 앱 이름 옆에 Flow 로고를 표시합니다</string>
+    <string name="content_settings_show_app_logo_subtitle">홈 화면 상단 표시줄에서 앱 이름 옆에 ZenStream 로고를 표시합니다</string>
     <string name="content_settings_header_content_components">콘텐츠 구성요소</string>
     <string name="content_settings_restored_music_mini_player_title">복원된 음악 미니 플레이어 표시</string>
     <string name="content_settings_restored_music_mini_player_subtitle">마지막 음악 세션이 복원되면 자동으로 표시합니다</string>
@@ -1098,12 +1098,12 @@
     <string name="period_six_months">6개월</string>
     <string name="period_one_year">1년</string>
     <string name="import_data_title">데이터 가져오기</string>
-    <string name="import_flow_backup_success">Flow 백업을 가져왔습니다</string>
-    <string name="import_flow_backup_failed_template">Flow 백업을 가져오지 못했습니다: %1$s</string>
+    <string name="import_flow_backup_success">ZenStream 백업을 가져왔습니다</string>
+    <string name="import_flow_backup_failed_template">ZenStream 백업을 가져오지 못했습니다: %1$s</string>
     <string name="import_newpipe_failed_template">NewPipe 백업을 가져오지 못했습니다: %1$s</string>
     <string name="import_youtube_failed_template">YouTube 백업을 가져오지 못했습니다: %1$s</string>
-    <string name="import_flow_backup_item_title">Flow 백업 가져오기</string>
-    <string name="import_flow_backup_desc">Flow 백업 파일에서 기록, 설정 및 구독을 복원합니다.</string>
+    <string name="import_flow_backup_item_title">ZenStream 백업 가져오기</string>
+    <string name="import_flow_backup_desc">ZenStream 백업 파일에서 기록, 설정 및 구독을 복원합니다.</string>
     <string name="import_from_newpipe">NewPipe에서 가져오기</string>
     <string name="import_from_newpipe_desc">NewPipe 내보내기 파일(JSON)에서 구독을 가져옵니다.</string>
     <string name="import_from_libretube">LibreTube에서 가져오기</string>
@@ -1173,8 +1173,8 @@
     <string name="location_dialog_subtitle">다운로드한 파일을 기기에 저장할 위치를 선택하세요.</string>
     <string name="location_preset_header">미리 설정된 위치</string>
     <string name="location_custom_header">사용자 지정 위치</string>
-    <string name="location_downloads_label">다운로드/Flow</string>
-    <string name="location_movies_label">영화/Flow</string>
+    <string name="location_downloads_label">다운로드/ZenStream</string>
+    <string name="location_movies_label">영화/ZenStream</string>
     <string name="location_internal_app_label">앱 내부 저장공간</string>
     <string name="location_internal_app_desc">앱 전용 공간 — 앱을 삭제하면 파일도 삭제될 수 있습니다</string>
     <string name="location_custom_saf_label">찾아보기…</string>
@@ -1188,9 +1188,9 @@
     <string name="location_badge_active">사용 중</string>
     <string name="select_threads_count_desc">스레드 수 선택(1~8):</string>
     <string name="support_donations_title">후원 및 기부</string>
-    <string name="support_flow_dev_title">Flow 개발 후원</string>
+    <string name="support_flow_dev_title">ZenStream 개발 후원</string>
     <string name="support_flow_dev_desc">Flow가 유용하고 개발을 후원하고 싶다면 Open Collective, Patreon 또는 아래 암호화폐 주소로 지원할 수 있습니다. 여러분의 후원은 프로젝트를 계속 유지하는 데 큰 도움이 됩니다!</string>
-    <string name="support_flow_patreon">Patreon에서 Flow 후원</string>
+    <string name="support_flow_patreon">Patreon에서 ZenStream 후원</string>
     <string name="thank_you_support_message">후원해 주셔서 감사합니다! ❤️</string>
     <string name="address_copied_toast">주소를 클립보드에 복사했습니다</string>
     <string name="donation_address_clip_label">기부 주소</string>
@@ -1294,7 +1294,7 @@
     <string name="category_creative">창작</string>
     <string name="category_science_nature">과학 및 자연</string>
     <string name="category_news_current_events">뉴스 및 시사</string>
-    <string name="flow_control_center">Flow 제어 센터</string>
+    <string name="flow_control_center">ZenStream 제어 센터</string>
     <string name="action_refresh">새로고침</string>
     <string name="loading_neural_matrix">신경 매트릭스를 불러오는 중...</string>
     <string name="neural_interest_map_subtitle">나의 신경 관심사 지도</string>
@@ -1338,7 +1338,7 @@
     <string name="stats_topics">주제</string>
     <string name="empty_bubble_cloud_message">동영상을 시청하여 관심사 성운을 채워 보세요!</string>
     <string name="export_profile_data">프로필 데이터 내보내기</string>
-    <string name="flow_neural_profile_export_subject">Flow 신경 프로필 내보내기</string>
+    <string name="flow_neural_profile_export_subject">ZenStream 신경 프로필 내보내기</string>
     <string name="screen_title_music_library">음악 라이브러리</string>
     <string name="header_your_collection">내 컬렉션</string>
     <string name="subtitle_liked_music">좋아요 표시한 노래</string>
@@ -1552,7 +1552,7 @@
     <string name="export_engine_data_subtitle">AI 성향 및 학습 데이터를 백업합니다</string>
     <string name="export_engine_success">엔진 프로필을 내보냈습니다</string>
     <string name="export_engine_failed">엔진 프로필을 내보내지 못했습니다</string>
-    <string name="import_engine_data">Flow 엔진 데이터 가져오기</string>
+    <string name="import_engine_data">ZenStream 엔진 데이터 가져오기</string>
     <string name="import_engine_data_desc">백업 파일에서 AI 성향 프로필을 복원합니다</string>
     <string name="import_engine_success">엔진 프로필을 복원했습니다</string>
     <string name="import_engine_failed">엔진 프로필을 가져오지 못했습니다</string>
@@ -1622,7 +1622,7 @@
     <string name="sync_error_peer_also_receive">다른 기기도 받기로 설정되어 있습니다. 다른 기기를 보내기로 설정한 뒤 다시 스캔하세요.</string>
     <string name="sync_error_qr_expired">이 QR 코드는 만료되었습니다. 다른 기기에서 새 코드를 표시하세요.</string>
     <string name="sync_error_qr_wrong_version">다른 기기의 앱 버전과 호환되지 않습니다.</string>
-    <string name="sync_error_qr_not_flow">Flow 동기화 코드가 아닌 것 같습니다.</string>
+    <string name="sync_error_qr_not_flow">ZenStream 동기화 코드가 아닌 것 같습니다.</string>
     <string name="sync_error_qr_bad_address">동기화 코드에 올바른 네트워크 주소가 없습니다.</string>
     <string name="auto_backup_title">자동 백업</string>
     <string name="auto_backup_subtitle">폴더에 자동 백업 일정을 설정합니다</string>
@@ -1919,7 +1919,7 @@
     <string name="ui_navigate">이동</string>
     <string name="ui_options">옵션</string>
     <string name="ui_selected">선택됨</string>
-    <string name="ui_flow_logo">Flow 로고</string>
+    <string name="ui_flow_logo">ZenStream 로고</string>
     <string name="ui_list_view">목록 보기</string>
     <string name="ui_grid_view">그리드 보기</string>
     <string name="ui_back">뒤로</string>
@@ -1950,7 +1950,7 @@
     <string name="ui_custom_interest_hint">사용자 지정 관심사(예: 재즈, 천체물리학)</string>
     <string name="ui_add_interest">관심사 추가</string>
     <string name="ui_version">버전 %1$s</string>
-    <string name="update_download_prompt">새 Flow 버전(%1$s)을 사용할 수 있습니다. 최신 APK를 다운로드할까요?</string>
+    <string name="update_download_prompt">새 ZenStream 버전(%1$s)을 사용할 수 있습니다. 최신 APK를 다운로드할까요?</string>
     <string name="ui_instrumental">연 주 곡</string>
     <string name="ui_playlist_empty">재생목록이 비어 있습니다</string>
     <string name="ui_playlist_saved_to_library">재생목록을 라이브러리에 저장했습니다</string>
@@ -2059,7 +2059,7 @@
     <string name="download_block_failed">블록 %1$s 실패: %2$s</string>
     <string name="import_migrate_description">다른 플랫폼의 구독과 기록을 Flow로 간편하게 이전하세요.</string>
     <string name="import_backup_restore">백업 및 복원</string>
-    <string name="import_manage_backups">Flow 백업 관리</string>
+    <string name="import_manage_backups">ZenStream 백업 관리</string>
     <string name="import_external_services">외부 서비스</string>
     <string name="import_other_youtube_clients">다른 YouTube 클라이언트에서 가져오기</string>
     <string name="imported_successfully">%1$s을(를) 가져왔습니다</string>
@@ -2224,7 +2224,7 @@
     <string name="player_time_separator">/</string>
     <string name="you">너</string>
     <string name="downloads_recover_title">이전 설치에서 다운로드 찾기</string>
-    <string name="downloads_recover_body">Flow는 Download/Flow 및 Music/Flow에 다운로드를 저장합니다. 이전 설치가 여기에 저장한 파일을 나열하려면 비디오 및 오디오에 대한 액세스를 허용하십시오.</string>
+    <string name="downloads_recover_body">Flow는 Download/ZenStream 및 Music/Flow에 다운로드를 저장합니다. 이전 설치가 여기에 저장한 파일을 나열하려면 비디오 및 오디오에 대한 액세스를 허용하십시오.</string>
     <string name="downloads_recover_allow">액세스 허용</string>
     <string name="downloads_recover_dismiss">지금은 아님</string>
     <plurals name="downloads_recovered_count">
@@ -2346,12 +2346,12 @@
         <item quantity="other">%d개의 알림이 제거됩니다. 이 작업은 취소할 수 없습니다.</item>
     </plurals>
     <string name="notifications_clear_confirm">모두 지우기</string>
-    <string name="deep_flow_scrobble_title">딥 Flow 중 스크러블</string>
+    <string name="deep_flow_scrobble_title">딥 ZenStream 중 스크러블</string>
     <string name="taste_learning_paused">Deep Flow가 켜져 있고 학습이 일시 중지되었습니다.</string>
     <string name="deep_flow_scrobble_subtitle">Last.fm, Libre.fm 및 ListenBrainz에 대한 청취를 계속 보내십시오.</string>
     <string name="deep_flow_on_search_title">검색에 표시</string>
-    <string name="deep_flow_on_search_subtitle">최근 검색 위의 Deep Flow 스위치</string>
-    <string name="deep_flow_long_press_hint">Deep Flow를 전환하려면 홈에서 Flow 로고나 이름을 길게 누르세요.</string>
+    <string name="deep_flow_on_search_subtitle">최근 검색 위의 Deep ZenStream 스위치</string>
+    <string name="deep_flow_long_press_hint">Deep Flow를 전환하려면 홈에서 ZenStream 로고나 이름을 길게 누르세요.</string>
     <plurals name="deep_flow_duration_hours">
         <item quantity="other">%1$d시간</item>
     </plurals>
@@ -2661,7 +2661,7 @@
     <plurals name="threads_count_label">
         <item quantity="other">%1$d 스레드</item>
     </plurals>
-    <string name="support_flow_open_collective">Open Collective에서 Flow 지원</string>
+    <string name="support_flow_open_collective">Open Collective에서 ZenStream 지원</string>
     <string name="about_creator_name">A-EDev</string>
     <string name="about_website_address">flow-tube.org</string>
     <string name="about_reddit">레딧</string>
@@ -2692,7 +2692,7 @@
     <string name="onboarding_step_interests">이해</string>
     <string name="onboarding_step_channels">채널</string>
     <string name="onboarding_step_import">수입</string>
-    <string name="onboarding_import_source_flow">Flow 백업</string>
+    <string name="onboarding_import_source_flow">ZenStream 백업</string>
     <string name="onboarding_import_source_youtube">YouTube</string>
     <string name="onboarding_import_footnote">여기의 모든 것은 선택 사항입니다. 설정에는 동일한 가져오기가 있습니다.</string>
     <string name="onboarding_import_done">수입됨</string>
@@ -3052,12 +3052,12 @@
     <string name="linked_consent_ask">매번 물어보세요</string>
     <string name="linked_consent_allowed">허용된</string>
     <string name="linked_consent_declined">허용되지 않음</string>
-    <string name="linked_intro">자체 Flow 동기화 서버, WebDAV 폴더 또는 Wi-Fi 네트워크를 통해 이 장치를 다른 장치와 동기화 상태로 유지하세요. 귀하의 장치에서는 모든 것이 암호화됩니다. 어떤 서버도 그것을 읽을 수 없습니다.</string>
+    <string name="linked_intro">자체 ZenStream 동기화 서버, WebDAV 폴더 또는 Wi-Fi 네트워크를 통해 이 장치를 다른 장치와 동기화 상태로 유지하세요. 귀하의 장치에서는 모든 것이 암호화됩니다. 어떤 서버도 그것을 읽을 수 없습니다.</string>
     <string name="linked_create_title">그룹 만들기</string>
-    <string name="linked_create_body">Flow 동기화 서버, WebDAV 폴더 또는 이 네트워크에서 연결 시작</string>
+    <string name="linked_create_body">ZenStream 동기화 서버, WebDAV 폴더 또는 이 네트워크에서 연결 시작</string>
     <string name="linked_where_title">장치를 어디에서 동기화해야 합니까?</string>
     <string name="linked_restore_where_title">그룹은 어디에 있나요?</string>
-    <string name="linked_where_server">Flow 동기화 서버</string>
+    <string name="linked_where_server">ZenStream 동기화 서버</string>
     <string name="linked_where_server_body">나만의 서버: 실시간 업데이트 및 가장 빠른 동기화. 주소와 관리자 토큰이 필요합니다.</string>
     <string name="linked_where_webdav">WebDAV 폴더</string>
     <string name="linked_where_webdav_body">Nextcloud 또는 다른 WebDAV 서버. 폴더의 주소, 사용자 이름 및 비밀번호가 필요합니다.</string>
@@ -3282,7 +3282,7 @@
     <string name="player_settings_overlay_sponsorblock_subtitle">SponsorBlock가 켜져 있고 비디오에 세그먼트가 있을 때 표시됩니다.</string>
     <string name="player_settings_overlay_next_prev">이전 및 다음 버튼</string>
     <string name="player_settings_overlay_next_prev_subtitle">비디오 플레이어 오버레이에 이전 및 다음 비디오 버튼 표시</string>
-    <string name="diagnostics_report_subject">Flow 진단 보고서</string>
+    <string name="diagnostics_report_subject">ZenStream 진단 보고서</string>
     <string name="diagnostics_reset_session">YouTube 세션 재설정</string>
     <string name="diagnostics_reset_session_confirm_title">YouTube 세션을 재설정하시겠습니까?</string>
     <string name="diagnostics_reset_session_confirm_body">Flow는 새로운 재생 ID를 구축합니다. 동영상이 1분 후에 중지되거나 재생되지 않는 경우 이 방법을 시도해 보세요.\n\n1~2분 정도 재생이 어려울 수 있습니다. 저장된 데이터는 영향을 받지 않습니다.</string>
@@ -3434,7 +3434,7 @@
     <string name="interface_mode_tv_summary">항상 원격 친화적인 TV 인터페이스를 사용하세요.</string>
     <string name="tv_player_queue">대기줄</string>
     <string name="tv_remote_guide_title">리모컨 및 키패드 가이드</string>
-    <string name="tv_remote_guide_subtitle">소파에서 Flow 탐색에 대한 빠른 참조</string>
+    <string name="tv_remote_guide_subtitle">소파에서 ZenStream 탐색에 대한 빠른 참조</string>
     <string name="tv_guide_navigation_title">항해</string>
     <string name="tv_guide_search_title">검색 및 찾아보기</string>
     <string name="tv_guide_playback_title">재생</string>
@@ -3542,7 +3542,7 @@
     <string name="playlist_move_to_videos">비디오로 이동</string>
     <string name="playlist_moved_to_music">음악으로 이동</string>
     <string name="playlist_moved_to_videos">동영상으로 이동됨</string>
-    <string name="notification_channel_downloads_name">Flow 다운로드</string>
+    <string name="notification_channel_downloads_name">ZenStream 다운로드</string>
     <string name="notification_download_paused">일시중지됨 — %1$s</string>
     <string name="notification_download_paused_hint">다시 시작하려면 탭하세요.</string>
     <string name="notification_download_progress">%1$d%% • %2$s / %3$s</string>
@@ -3555,10 +3555,10 @@
     <plurals name="notification_new_videos_from_subscriptions">
         <item quantity="other">구독 채널의 새 동영상 %1$d개</item>
     </plurals>
-    <string name="update_downloading_notification">Flow %1$s 다운로드 중</string>
-    <string name="update_ready_notification">Flow %1$s이 준비되었습니다</string>
+    <string name="update_downloading_notification">ZenStream %1$s 다운로드 중</string>
+    <string name="update_ready_notification">ZenStream %1$s이 준비되었습니다</string>
     <string name="update_ready_notification_text">확인되었습니다. 탭하여 설치하세요.</string>
-    <string name="update_title">Flow %1$s 여기 있습니다</string>
+    <string name="update_title">ZenStream %1$s 여기 있습니다</string>
     <string name="update_version_change">%1$s → %2$s</string>
     <string name="update_not_now">지금은 아님</string>
     <string name="update_skip_version">이 버전 건너뛰기</string>
@@ -3574,7 +3574,7 @@
     <string name="update_failed_network">다운로드가 중지되었습니다. 연결을 확인하고 다시 시도하세요.</string>
     <string name="update_failed_storage">업데이트할 공간이 부족합니다.</string>
     <string name="update_failed_checksum">파일이 릴리스와 일치하지 않아 삭제되었습니다. 다시 시도해 보세요.</string>
-    <string name="update_failed_package">해당 파일은 Flow 업데이트가 아니어서 삭제되었습니다.</string>
+    <string name="update_failed_package">해당 파일은 ZenStream 업데이트가 아니어서 삭제되었습니다.</string>
     <string name="update_failed_install">Android가 업데이트를 설치할 수 없습니다. 다시 시도해 보세요.</string>
     <string name="error_channel_link_not_found">이 링크가 가리키는 채널을 찾을 수 없습니다</string>
     <string name="error_failed_to_load_artist">이 아티스트를 로드할 수 없습니다.</string>
@@ -3750,7 +3750,7 @@
     <string name="settings_about_summary">버전, 라이센스 및 링크</string>
     <string name="settings_theme_summary">팔레트와 밝거나 어두운 스타일</string>
     <string name="settings_font_title">세례반</string>
-    <string name="settings_font_summary">Flow 전체에 사용되는 서체</string>
+    <string name="settings_font_summary">ZenStream 전체에 사용되는 서체</string>
     <string name="settings_keywords_font">서체, 텍스트, 글자, ttf, otf</string>
     <string name="font_system_default">시스템 기본값</string>
     <string name="font_condensed">응축됨</string>
@@ -3909,7 +3909,7 @@
     <string name="settings_storage_access_summary">또한 다른 앱에서 저장한 로컬 미디어 목록 파일도 허용합니다.</string>
     <string name="settings_storage_usage">%2$s가 없는 %1$s</string>
     <string name="settings_location_default">기본</string>
-    <string name="settings_music_folder_label">음악 / Flow</string>
+    <string name="settings_music_folder_label">음악 / ZenStream</string>
     <string name="settings_keywords_downloads">오프라인 저장, 폴더, 저장소, SD 카드</string>
     <string name="settings_section_notification_types">나에게 알림</string>
     <string name="settings_keywords_notifications">알림, 푸시, 새 업로드, 신원 조사, 반바지</string>
@@ -4000,7 +4000,7 @@
     <string name="settings_custom_theme_start_from">다음에서 시작</string>
     <string name="settings_custom_theme_count">테마 %2$d개 중 %1$d개</string>
     <string name="settings_custom_theme_empty">아직 맞춤 테마가 없습니다.</string>
-    <string name="settings_custom_theme_empty_body">팔레트에서 시작하거나 Flow Desktop에서 만든 팔레트를 가져오세요.</string>
+    <string name="settings_custom_theme_empty_body">팔레트에서 시작하거나 ZenStream Desktop에서 만든 팔레트를 가져오세요.</string>
     <string name="settings_custom_theme_import_failed">해당 파일에 유효한 테마가 없습니다.</string>
     <string name="settings_custom_theme_limit">최대 %1$d개의 테마를 유지할 수 있습니다.</string>
     <string name="settings_custom_theme_exported">테마를 내보냈습니다.</string>
@@ -4085,7 +4085,7 @@
     <string name="diagnostics_engine_queries_none">아직 없음</string>
     <string name="taste_starter_searches">초보 검색</string>
     <string name="taste_starter_searches_detail">%1$s. Flow가 사용자가 시청하는 내용을 학습할 때까지 사용됩니다.</string>
-    <string name="recap_title">Flow 요약</string>
+    <string name="recap_title">ZenStream 요약</string>
     <string name="recap_summary">매달 보고 들은 것</string>
     <string name="recap_keywords">래핑됨, 통계, 통계, 요약, 올해 리뷰, 시청 시간, 청취 시간, 가장 많이 시청한 항목, 인기 아티스트</string>
     <string name="recap_period_month">월</string>
@@ -4228,7 +4228,7 @@
     <string name="playlist_exported">재생목록이 저장되었습니다</string>
     <string name="playlist_export_failed">재생목록을 저장할 수 없습니다.</string>
     <string name="playlist_share_failed">재생목록을 공유할 수 없습니다.</string>
-    <string name="playlist_import_not_a_playlist">이 파일은 Flow 재생 목록이 아닙니다.</string>
+    <string name="playlist_import_not_a_playlist">이 파일은 ZenStream 재생 목록이 아닙니다.</string>
     <string name="playlist_import_too_new">이 재생목록에는 최신 버전의 Flow가 필요합니다.</string>
     <string name="playlist_import_empty">이 재생목록에는 가져올 동영상이 없습니다.</string>
     <string name="playlist_import_unreadable">이 파일을 읽을 수 없습니다.</string>

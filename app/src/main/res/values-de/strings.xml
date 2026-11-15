@@ -164,7 +164,7 @@
     <string name="release_notes">VERSIONSHINWEISE</string>
     <string name="premiere_date_prefix">Premieren %1$s</string>
     <string name="maybe_later">Vielleicht später</string>
-    <string name="update_flow">Flow Aktualisieren</string>
+    <string name="update_flow">ZenStream Aktualisieren</string>
     <string name="nav_home">Startseite</string>
     <string name="nav_shorts">Shorts</string>
     <string name="nav_music">Musik</string>
@@ -278,14 +278,14 @@
     <string name="peace_and_quiet">Ruhe und Frieden</string>
     <string name="notifications_empty_body">Jetzt bist du auf dem neuesten Stand! Neue Updates aus deinen Abonnements werden hier angezeigt.</string>
     <string name="settings_title">Einstellungen</string>
-    <string name="settings_flow_engine_header">Flow Engine</string>
+    <string name="settings_flow_engine_header">ZenStream Engine</string>
     <string name="settings_active_learning">AKTIVES LERNEN</string>
-    <string name="settings_reset_brain_title">Flow-Persönlichkeit zurücksetzen?</string>
-    <string name="settings_reset_brain_body">Dadurch wird dein „Flow Brain“-Profil gelöscht.\n\n• Erlernte Themen werden vergessen.\n• Persönlichkeitsmerkmale werden zurückgesetzt.\n• Empfehlungen werden auf die Standardeinstellungen zurückgesetzt.\n\nDies kann nicht rückgängig gemacht werden.</string>
+    <string name="settings_reset_brain_title">ZenStream-Persönlichkeit zurücksetzen?</string>
+    <string name="settings_reset_brain_body">Dadurch wird dein „ZenStream Brain“-Profil gelöscht.\n\n• Erlernte Themen werden vergessen.\n• Persönlichkeitsmerkmale werden zurückgesetzt.\n• Empfehlungen werden auf die Standardeinstellungen zurückgesetzt.\n\nDies kann nicht rückgängig gemacht werden.</string>
     <string name="settings_reset_everything">Alles zurücksetzen</string>
     <string name="settings_analyzing_interactions">Analysieren Sie Ihre Interaktionen...</string>
     <string name="settings_view_analytics">Analysen anzeigen</string>
-    <string name="deep_flow_mode_title">Deep-Flow-Modus</string>
+    <string name="deep_flow_mode_title">Deep-ZenStream-Modus</string>
     <string name="deep_flow_mode_subtitle">Lernen unterbrechen – während du stöberst</string>
     <string name="deep_flow_learning_paused">Lernen pausiert</string>
     <string name="deep_flow_expires_in">Läuft in %s ab</string>
@@ -293,10 +293,10 @@
     <string name="deep_flow_expire_duration_subtitle">Das Lernen wird automatisch nach %s fortgesetzt</string>
     <string name="deep_flow_dialog_title">Pausendauer</string>
     <string name="deep_flow_dialog_body">Wie lange sollte das Lernen unterbrochen bleiben?</string>
-    <string name="deep_flow_enabled_message">Deep Flow aktiviert</string>
-    <string name="deep_flow_disabled_message">Deep Flow deaktiviert</string>
-    <string name="deep_flow_expired_message">Der Deep Flow-Timer ist abgelaufen</string>
-    <string name="deep_flow_active_until_disabled">Deep Flow bleibt aktiv, bis Sie es ausschalten</string>
+    <string name="deep_flow_enabled_message">Deep ZenStream aktiviert</string>
+    <string name="deep_flow_disabled_message">Deep ZenStream deaktiviert</string>
+    <string name="deep_flow_expired_message">Der Deep ZenStream-Timer ist abgelaufen</string>
+    <string name="deep_flow_active_until_disabled">Deep ZenStream bleibt aktiv, bis Sie es ausschalten</string>
     <string name="deep_flow_duration_never">Niemals</string>
     <string name="deep_flow_duration_1h">1 Stunde</string>
     <string name="deep_flow_duration_2h">2 Stunden</string>
@@ -311,7 +311,7 @@
     <string name="settings_header_about">Über</string>
     <string name="settings_header_notifications">Benachrichtigungen</string>
     <string name="settings_item_notifications">Benachrichtigungseinstellungen</string>
-    <string name="settings_item_notifications_subtitle">Steuern Sie, welche Benachrichtigungen Flow senden kann</string>
+    <string name="settings_item_notifications_subtitle">Steuern Sie, welche Benachrichtigungen ZenStream senden kann</string>
     <string name="notif_settings_title">Benachrichtigungseinstellungen</string>
     <string name="notif_type_new_videos">Neue Videos</string>
     <string name="notif_type_new_videos_subtitle">Benachrichtigen, wenn abonnierte Kanäle neue Videos hochladen</string>
@@ -320,7 +320,7 @@
     <string name="notif_type_reminders">Bildschirmzeit-Erinnerungen</string>
     <string name="notif_type_reminders_subtitle">Erinnerungen an die Schlafenszeit und Pausen von „Zeitmanagement“</string>
     <string name="notif_type_updates">App-Updates</string>
-    <string name="notif_type_updates_subtitle">Werden Sie benachrichtigt, wenn eine neue Version von Flow verfügbar ist</string>
+    <string name="notif_type_updates_subtitle">Werden Sie benachrichtigt, wenn eine neue Version von ZenStream verfügbar ist</string>
     <string name="notif_type_general">Allgemeine Benachrichtigungen</string>
     <string name="notif_type_general_subtitle">Verschiedene App-Benachrichtigungen und Ankündigungen</string>
     <string name="notif_system_settings">Einstellungen für die Systembenachrichtigung</string>
@@ -329,7 +329,7 @@
     <string name="notif_check_interval">Neue Videos – Überprüfungsintervall</string>
     <string name="notif_check_interval_subtitle_template">Überprüfen Sie alle %s</string>
     <string name="notif_check_interval_dialog_title">Prüfintervall</string>
-    <string name="notif_check_interval_dialog_body">Wie oft überprüft Flow nach neuen Videos aus Ihren abonnierten Kanälen.</string>
+    <string name="notif_check_interval_dialog_body">Wie oft überprüft ZenStream nach neuen Videos aus Ihren abonnierten Kanälen.</string>
     <string name="notif_interval_15m">15 Minuten</string>
     <string name="notif_interval_30m">30 Minuten</string>
     <string name="notif_interval_1h">1 Stunde</string>
@@ -366,17 +366,17 @@
     <string name="settings_item_export_data_subtitle">Sichern Sie Ihre Daten</string>
     <string name="settings_item_import_data">Daten importieren</string>
     <string name="settings_item_import_data_subtitle">Aus einem Backup wiederherstellen oder Import aus anderen Apps</string>
-    <string name="settings_item_about_flow">Über Flow</string>
+    <string name="settings_item_about_flow">Über ZenStream</string>
     <string name="settings_item_about_flow_subtitle">Version, Lizenz, Mitwirkende</string>
     <string name="settings_item_support">Unterstützung &amp; Spenden</string>
-    <string name="settings_item_support_subtitle">Unterstützung bei der Entwicklung von Flow</string>
+    <string name="settings_item_support_subtitle">Unterstützung bei der Entwicklung von ZenStream</string>
     <string name="settings_region_dialog_title">Region auswählen</string>
     <string name="settings_language_dialog_title">App-Sprache auswählen</string>
     <string name="settings_language_system_default">System-Standard</string>
     <string name="settings_export_success">Daten erfolgreich exportiert</string>
     <string name="settings_export_failed">Export fehlgeschlagen: %1$s</string>
     <string name="appearance_title">Aussehen</string>
-    <string name="appearance_subtitle">Personalisieren Sie Ihre Flow-Erfahrung</string>
+    <string name="appearance_subtitle">Personalisieren Sie Ihre ZenStream-Erfahrung</string>
     <string name="appearance_current_theme">AKTUELLES DESIGN</string>
     <string name="appearance_category_all">Alle</string>
     <string name="appearance_category_light">Hell</string>
@@ -425,7 +425,7 @@
     <string name="app_icon_picker_subtitle">Wählen Sie einen Launcher-Symbol-Stil. Die Änderung wird sofort wirksam und der Launcher wird kurz aktualisiert.</string>
     <string name="app_icon_picker_warning">Achtung: Beim Wechseln der Symbole wird ein Android-Systemmechanismus verwendet, der die App-Verknüpfung möglicherweise kurzzeitig von deinem Startbildschirm entfernt. Halte den Launcher bei Bedarf lange gedrückt, um sie wieder hinzuzufügen.</string>
     <string name="app_icon_apply_toast">Symbol aktualisiert - Ihr Launcher wird neu geladen</string>
-    <string name="icon_name_flow_red">Flow Rot</string>
+    <string name="icon_name_flow_red">ZenStream Rot</string>
     <string name="icon_name_amoled">AMOLED Dunkel</string>
     <string name="icon_name_monochrome">Monochrom</string>
     <string name="icon_name_ghost">Geist</string>
@@ -458,8 +458,8 @@
     <string name="theme_desc_sky_blue">Eine leichte luftige Farbpalette mit offenem Himmelsblau.</string>
     <string name="theme_name_cream_paper">Cremepapier</string>
     <string name="theme_desc_cream_paper">Warme Papiertöne für gemütliches tägliches Lesen.</string>
-    <string name="theme_name_classic_dark">Flow Standard</string>
-    <string name="theme_desc_classic_dark">Die ursprüngliche Flow Farbpalette mit dem YouTube Rot.</string>
+    <string name="theme_name_classic_dark">ZenStream Standard</string>
+    <string name="theme_desc_classic_dark">Die ursprüngliche ZenStream Farbpalette mit dem YouTube Rot.</string>
     <string name="theme_name_true_black">Echtes Schwarz</string>
     <string name="theme_desc_true_black">Reines OLED</string>
     <string name="theme_name_monochrome">Monochrom</string>
@@ -542,7 +542,7 @@
     <string name="content_settings_video_card_mark_watched_title">Schaltfläche „Als angesehen markieren“-Button anzeigen</string>
     <string name="content_settings_video_card_mark_watched_subtitle">Zeige auf den Vollbild- und Kompakt-Videokarten eine „Auge“-Schaltfläche an, um Videos schnell als angesehen zu markieren</string>
     <string name="content_settings_show_app_logo_title">App-Logo-Symbol anzeigen</string>
-    <string name="content_settings_show_app_logo_subtitle">Das Flow-Logo neben dem App-Namen in der oberen Leiste des Startbildschirms anzeigen</string>
+    <string name="content_settings_show_app_logo_subtitle">Das ZenStream-Logo neben dem App-Namen in der oberen Leiste des Startbildschirms anzeigen</string>
     <string name="content_settings_header_content_components">Inhaltskomponenten</string>
     <string name="content_settings_hide_watched_title">Angesehene Videos Ausblenden</string>
     <string name="content_settings_hide_watched_subtitle">Filtern Sie Videos, die Sie bereits von Ihrem Home-Feed und Abonnements angesehen haben</string>
@@ -590,7 +590,7 @@
     <string name="hide_channel_shorts">Shorts dieses Kanals ausblenden</string>
     <string name="show_channel_shorts">Shorts dieses Kanals anzeigen</string>
     <string name="notif_master_toggle">Benachrichtigungen aktivieren</string>
-    <string name="notif_master_toggle_subtitle">Lasse Flow, im Hintergrund nach neuen Videos suchen</string>
+    <string name="notif_master_toggle_subtitle">Lasse ZenStream, im Hintergrund nach neuen Videos suchen</string>
     <string name="notif_check_interval_disabled">Hintergrundüberprüfungen sind deaktiviert</string>
     <string name="appearance_role_surface_variant">Oberflächenvariante</string>
     <string name="appearance_role_on_surface_variant">Zur Surface-Variante</string>
@@ -640,7 +640,7 @@
     <string name="categories_switch_to_list">Zur Listenansicht wechseln</string>
     <string name="category_all">Alle</string>
     <string name="category_trending">Im Trend</string>
-    <string name="icon_name_flow_light">Flow hell</string>
+    <string name="icon_name_flow_light">ZenStream hell</string>
     <string name="lyrics_provider_lyrics_plus">LyricsPlus</string>
     <string name="content_settings_subs_show_shorts_subtitle">„Shorts“ im Abonnement-Feed anzeigen</string>
     <string name="content_settings_subs_show_live_title">Live-Streams im Abonnement</string>
@@ -885,7 +885,7 @@
     <string name="interests_tab">Interessen</string>
     <string name="blocked_tab">Gesperrt</string>
     <string name="your_interests_title">Deine Interessen</string>
-    <string name="your_interests_desc">Die von dir ausgewählten Themen helfen Flow dabei, dir passendere Inhalte vorzuschlagen. Tippe unten auf die Themen, um sie hinzuzufügen oder zu entfernen.</string>
+    <string name="your_interests_desc">Die von dir ausgewählten Themen helfen ZenStream dabei, dir passendere Inhalte vorzuschlagen. Tippe unten auf die Themen, um sie hinzuzufügen oder zu entfernen.</string>
     <string name="currently_following">Derzeit abonniert</string>
     <string name="tap_to_remove">Zum Entfernen antippen</string>
     <string name="add_topics">Themen hinzufügen</string>
@@ -938,7 +938,7 @@
     <string name="local_media_empty_title">Es wurden keine %1$s gefunden</string>
     <string name="local_media_empty_body">Die auf diesem Gerät gespeicherten Videos und Musikdateien werden hier angezeigt.</string>
     <string name="local_media_permission_title">Erforderliche Berechtigung</string>
-    <string name="local_media_permission_body">Erlauben Sie den Zugriff auf Ihre Medien, damit Flow lokale Videos und Musik finden und abspielen kann.</string>
+    <string name="local_media_permission_body">Erlauben Sie den Zugriff auf Ihre Medien, damit ZenStream lokale Videos und Musik finden und abspielen kann.</string>
     <string name="local_media_grant">Zugriff gewähren</string>
     <string name="history_tab_local_videos">Lokale Videos</string>
     <string name="history_tab_local_music">Lokale Musik</string>
@@ -1000,12 +1000,12 @@
     <string name="shorts_player_ui_impressive">Beeindruckend</string>
     <string name="shorts_saved">Short gespeichert</string>
     <string name="shorts_unsaved">Short, nicht gespeichert</string>
-    <string name="import_flow_backup_success">Flow-Backup erfolgreich importiert</string>
-    <string name="import_flow_backup_failed_template">Der Import des Flow-Backups ist fehlgeschlagen: %1$s</string>
+    <string name="import_flow_backup_success">ZenStream-Backup erfolgreich importiert</string>
+    <string name="import_flow_backup_failed_template">Der Import des ZenStream-Backups ist fehlgeschlagen: %1$s</string>
     <string name="import_newpipe_failed_template">Der Import des NewPipe-Backups ist fehlgeschlagen: %1$s</string>
     <string name="import_youtube_failed_template">Der Import des YouTube-Backups ist fehlgeschlagen: %1$s</string>
-    <string name="import_flow_backup_item_title">Flow-Backup importieren</string>
-    <string name="import_flow_backup_desc">Stellen Sie Ihren Verlauf, Ihre Einstellungen und Ihre Abonnements aus einer Flow-Backup wieder her.</string>
+    <string name="import_flow_backup_item_title">ZenStream-Backup importieren</string>
+    <string name="import_flow_backup_desc">Stellen Sie Ihren Verlauf, Ihre Einstellungen und Ihre Abonnements aus einer ZenStream-Backup wieder her.</string>
     <string name="import_from_newpipe">Aus NewPipe importieren</string>
     <string name="player_settings_display">Anzeige</string>
     <string name="sleep_timer_stops_in">Schaltet sich nach</string>
@@ -1257,7 +1257,7 @@
     <string name="subtitle_background_color">Hintergrundfarbe</string>
     <string name="check_for_updates">Nach Updates suchen</string>
     <string name="checking_for_updates">Suche nach Updates…</string>
-    <string name="flow_is_up_to_date">Flow ist auf dem neuesten Stand!</string>
+    <string name="flow_is_up_to_date">ZenStream ist auf dem neuesten Stand!</string>
     <string name="update_check_failed">Konnte nicht nach Updates suchen. Überprüfe deine Verbindung.</string>
     <string name="sync_devices_title">Synchronisiere Geräte</string>
     <string name="sync_notification_title">Geräte synchronisieren</string>
@@ -1367,7 +1367,7 @@
     <string name="processing">Verarbeiten…</string>
     <string name="recognition_error">Erkennung fehlgeschlagen</string>
     <string name="try_again">Erneut versuchen</string>
-    <string name="search_in_flow">In Flow suchen</string>
+    <string name="search_in_flow">In ZenStream suchen</string>
     <string name="recognition_clear_history">Verlauf leeren?</string>
     <string name="appearance_variant_title">Designstil</string>
     <string name="appearance_variant_amoled">AMOLED</string>
@@ -1435,11 +1435,11 @@
     <string name="import_yt_music_playlist">YouTube-Musik-Playlist importieren</string>
     <string name="import_yt_music_playlist_desc">Importieren Sie eine Musik-Playlist aus einer YouTube Music Auszug-CSV-Datei. Diese wird unter „Musik-Playlists“ angezeigt.</string>
     <string name="import_yt_history_failed_template">Der Import des Wiedergabesverlaufs ist fehlgeschlagen: %1$s</string>
-    <string name="channel_error_log_clip_label">Flow Kanal-Fehlerprotokoll</string>
+    <string name="channel_error_log_clip_label">ZenStream Kanal-Fehlerprotokoll</string>
     <string name="thank_you_support_message">Vielen Dank für eure Unterstützung! ❤️</string>
     <string name="donation_address_clip_label">Adresse für Spenden</string>
-    <string name="donation_prompt_title">Gefällt dir „Flow“?</string>
-    <string name="donation_prompt_message">Flow ist kostenlos, Open Source und ohne Werbung oder Tracker entwickelt. Wenn die App sich einen Platz auf Ihrem Gerät verdient hat, denken Sie bitte darüber nach, die Entwicklung zu unterstützen – das trägt wirklich dazu bei, das Projekt am Leben zu erhalten.</string>
+    <string name="donation_prompt_title">Gefällt dir „ZenStream“?</string>
+    <string name="donation_prompt_message">ZenStream ist kostenlos, Open Source und ohne Werbung oder Tracker entwickelt. Wenn die App sich einen Platz auf Ihrem Gerät verdient hat, denken Sie bitte darüber nach, die Entwicklung zu unterstützen – das trägt wirklich dazu bei, das Projekt am Leben zu erhalten.</string>
     <string name="about_creator">Entwickler</string>
     <string name="about_creator_name">A-EDev</string>
     <string name="about_website_address">flow.aedev.me</string>
@@ -1449,7 +1449,7 @@
     <string name="newpipe_extractor_title">NewPipe Extractor</string>
     <string name="about_license_name">GNU GPL v3</string>
     <string name="about_changelog">Änderungsprotokoll</string>
-    <string name="whats_new_in_flow">Was gibt es Neues bei Flow?</string>
+    <string name="whats_new_in_flow">Was gibt es Neues bei ZenStream?</string>
     <string name="no_changelog_found_message">Es wurde kein Änderungsprotokoll gefunden.</string>
     <string name="error_changelog_load">Die Änderungsprotokoll-Datei konnte nicht geladen werden.</string>
     <string name="app_logo_desc">App Logo</string>
@@ -1478,7 +1478,7 @@
     <string name="playlist_sort_date_published_oldest">Veröffentlichungsdatum (ältestes)</string>
     <string name="remove_selected_playlist_text">Sie werden aus dieser Playlist entfernt.</string>
     <string name="remove_selected_watch_later_text">Sie werden aus „Später ansehen“ entfernt.</string>
-    <string name="welcome_to_flow">Willkommen bei Flow</string>
+    <string name="welcome_to_flow">Willkommen bei ZenStream</string>
     <string name="onboarding_interests_title">Was macht dir Spaß?</string>
     <string name="onboarding_interests_hint">Wähle mindestens %1$d Themen aus, um deinen Feed individuell anzupassen. Es fehlen noch %2$d.</string>
     <string name="onboarding_channels_empty_prompt">Gib einen Kanalnamen ein, um danach zu suchen</string>
@@ -1489,7 +1489,7 @@
     <string name="onboarding_btn_continue">Weiter</string>
     <string name="category_creative">Kreativ</string>
     <string name="category_news_current_events">Nachrichten &amp; Aktuelles</string>
-    <string name="flow_control_center">Flow Kontrollzentrum</string>
+    <string name="flow_control_center">ZenStream Kontrollzentrum</string>
     <string name="filter_deep_cuts">Deep cuts</string>
     <string name="player_portrait_seekbar_width_title">Breite der Suchleiste im Hochformat</string>
     <string name="player_settings_stable_voice">Stabiler Ton</string>
@@ -1506,8 +1506,8 @@
     <string name="location_dialog_subtitle">Wählen Sie aus, wo die heruntergeladenen Dateien auf Ihrem Gerät gespeichert werden sollen.</string>
     <string name="location_preset_header">Voreingestellte Standorte</string>
     <string name="location_custom_header">Benutzerdefinierter Standort</string>
-    <string name="location_downloads_label">Downloads / Flow</string>
-    <string name="location_movies_label">Movies / Flow</string>
+    <string name="location_downloads_label">Downloads / ZenStream</string>
+    <string name="location_movies_label">Movies / ZenStream</string>
     <string name="location_internal_app_label">Interner App-Speicher</string>
     <string name="location_internal_app_desc">Nur in der App verfügbar – Dateien werden möglicherweise gelöscht, wenn Sie die App deinstallieren</string>
     <string name="location_custom_saf_desc">Wählen Sie mithilfe der System-Dateiauswahl einen beliebigen Ordner aus.</string>
@@ -1521,8 +1521,8 @@
     <string name="persona_scholar_title">Der Gelehrte</string>
     <string name="persona_scholar_description">Inhalte mit hohem Komplexitätsgrad. Wir sind hier, um uns weiterzuentwickeln – nicht nur, um uns unterhalten zu lassen.</string>
     <string name="persona_deep_diver_title">Der Tieftaucher</string>
-    <string name="support_flow_dev_desc">Wenn Sie Flow nützlich finden und die Entwicklung des Projekts unterstützen möchten, können Sie dies auf Open Collective oder Patreon tun oder über die unten angegebenen Krypto-Adressen spenden. Ihre Unterstützung hilft dabei, das Projekt am Leben zu erhalten!</string>
-    <string name="support_flow_patreon">Unterstütze Flow auf Patreon</string>
+    <string name="support_flow_dev_desc">Wenn Sie ZenStream nützlich finden und die Entwicklung des Projekts unterstützen möchten, können Sie dies auf Open Collective oder Patreon tun oder über die unten angegebenen Krypto-Adressen spenden. Ihre Unterstützung hilft dabei, das Projekt am Leben zu erhalten!</string>
+    <string name="support_flow_patreon">Unterstütze ZenStream auf Patreon</string>
     <string name="persona_specialist_description">Ganz gezielt auf einige wenige Nischen ausgerichtet. Du weißt, was dir gefällt.</string>
     <string name="persona_explorer_description">Chaotisch und wunderschön. Von allem etwas.</string>
     <string name="channel_memory_empty">Es sind keine Kanäle im Speicher vorhanden.</string>
@@ -1550,7 +1550,7 @@
     <string name="persona_initiate_title">Der Eingeweihte</string>
     <string name="persona_initiate_description">Du fängst gerade erst an. Dein Profil ist noch im Aufbau.</string>
     <string name="persona_audiophile_title">Der Audiophile</string>
-    <string name="persona_audiophile_description">Du nutzt Flow hauptsächlich für Musik. Die Stimmung ist das Wichtigste.</string>
+    <string name="persona_audiophile_description">Du nutzt ZenStream hauptsächlich für Musik. Die Stimmung ist das Wichtigste.</string>
     <string name="persona_skimmer_title">Der Skimmer</string>
     <string name="persona_skimmer_description">Rasante, kurze Inhalte. Dopamin auf Abruf.</string>
     <string name="screen_title_music_library">Bildschirm „Musik-Playlists“</string>
@@ -1649,10 +1649,10 @@
     <string name="sync_receive_scan_hint">Verwenden Sie diese Option, wenn dieses Gerät über eine Kamera verfügt und auf dem anderen Gerät ein sende QR-Code angezeigt wird.</string>
     <string name="playlist_filter_owned">Im Besitz</string>
     <string name="notif_background_restricted_title">Hintergrund Prüfungen sind beschränkt</string>
-    <string name="notif_background_restricted_subtitle">Android hindert Flow im Hintergrund nach neuen Videos zu suchen. Klicke hier um uneingeschränkte Hintergrundaktivitäten zuzulassen.</string>
+    <string name="notif_background_restricted_subtitle">Android hindert ZenStream im Hintergrund nach neuen Videos zu suchen. Klicke hier um uneingeschränkte Hintergrundaktivitäten zuzulassen.</string>
     <string name="player_appearance_long_press_speed_title">Wiedergabetempo beim gedrückthalten</string>
     <string name="select_threads_count_desc">Wähle die Anzahl der Threads (1-8):</string>
-    <string name="support_flow_dev_title">Unterstützte die Flow Entwicklung</string>
+    <string name="support_flow_dev_title">Unterstützte die ZenStream Entwicklung</string>
     <string name="topic_weights_subtitle">Volle Transparenz wodurch dein Feed beeinflusst wird</string>
     <string name="persona_deep_diver_description">Lamge Videobeiträge und Dokumentationen sind deine Welt</string>
     <string name="status_playing">Spielt</string>
@@ -1677,7 +1677,7 @@
     <string name="diagnostics_clear_crashes">Absturzberichte löschen</string>
     <string name="diagnostics_clear_confirm_title">Absturzberichte löschen?</string>
     <string name="diagnostics_clear_confirm_body">Alle gespeicherten Absturzberichte werden endgültig gelöscht. Dieser Vorgang kann nicht rückgängig gemacht werden.</string>
-    <string name="tv_settings_flow_engine">Flow Engine</string>
+    <string name="tv_settings_flow_engine">ZenStream Engine</string>
     <string name="newpipe_extractor_subtitle">Kern-Extraktionsbibliothek</string>
     <string name="onboarding_step_interests">Interessen</string>
     <plurals name="subscriptions_refresh_progress_template">
@@ -1696,7 +1696,7 @@
     <string name="import_master_backup_desc">App-Daten als auch das Engine-Profil aus einer einzigen Master-Backup Datei wiederherstellen</string>
     <string name="import_master_backup_success">Master Backup erfolgreich wiederhergestellt</string>
     <string name="import_master_backup_failed">Master Backup Import fehlgeschlagen</string>
-    <string name="import_engine_data">Flow Engine Daten importieren</string>
+    <string name="import_engine_data">ZenStream Engine Daten importieren</string>
     <string name="import_engine_data_desc">Stellen Sie Ihr KI-Persönlichkeitsprofil aus einer Backup Datei wieder her</string>
     <string name="sync_devices_subtitle">Bibliothek, Verlauf und Profil über lokales WLAN synchronisieren</string>
     <string name="sync_send_option_body">Kopieren Sie die Bibliothek dieses Geräts auf ein anderes Gerät.</string>
@@ -1748,8 +1748,8 @@
     <string name="profile_action_import_detail">Ein Profil Backup wiederherstellen</string>
     <string name="notification_import_complete">Import abgeschlossen!</string>
     <string name="notification_channel_import_description">Zeigt den Fortschritt beim Importieren von Abonnements oder des Wiedergabeverlaufs an</string>
-    <string name="import_migrate_description">Übertragen Sie Ihre Abonnements und Ihren Verlauf nahtlos von anderen Plattformen auf Flow.</string>
-    <string name="import_manage_backups">Verwalten Sie Ihre Flow Backups</string>
+    <string name="import_migrate_description">Übertragen Sie Ihre Abonnements und Ihren Verlauf nahtlos von anderen Plattformen auf ZenStream.</string>
+    <string name="import_manage_backups">Verwalten Sie Ihre ZenStream Backups</string>
     <string name="import_label_newpipe_subscriptions">NewPipe Abonnements</string>
     <string name="import_label_youtube_subscriptions">YouTube-Abonnements</string>
     <string name="import_label_youtube_watch_history">YouTube Wiedergabeverlauf</string>
@@ -1761,7 +1761,7 @@
     <string name="import_label_libretube_playlists">LibreTube Playlisten</string>
     <string name="import_label_youtube_takeout">YouTube-Auszug</string>
     <string name="imported_from_google_takeout">Aus Google-Auszug importieren</string>
-    <string name="flow_neural_profile_export_subject">Flow Neural Profil Export</string>
+    <string name="flow_neural_profile_export_subject">ZenStream Neural Profil Export</string>
     <string name="export_music_brain_title">Export Musik Engine Daten</string>
     <string name="export_music_brain_desc">Speichere Sie ihr Musikgeschmacksprofil als JSON-Datei</string>
     <string name="music_brain_export_success">Musik Engine Daten exportiert</string>
@@ -1778,7 +1778,7 @@
     <string name="export_newpipe_subs_failed">NewPipe Abonnements Export fehlgeschlagen</string>
     <string name="export_app_data_title">App Daten Backup</string>
     <string name="export_app_data_desc">Exportieren Sie Ihre Abonnements, Wiedergabeverläufe, Wiedergabelisten und Einstellungen</string>
-    <string name="export_watch_history_desc">Export als YouTube-Verlauf JSON (importierbar in LibreTube und Flow)</string>
+    <string name="export_watch_history_desc">Export als YouTube-Verlauf JSON (importierbar in LibreTube und ZenStream)</string>
     <string name="history_export_failed">Wiedergabeverlauf Export fehlgeschlagen</string>
     <string name="shorts_quality_settings_subtitle">Qualität beim Anschauen von Shorts</string>
     <string name="ui_custom_interest_title">Benutzerdefinierte Interessen hinzufügen</string>
@@ -1921,7 +1921,7 @@
         <item quantity="one">%1$d Stunde</item>
         <item quantity="other">%1$d Stunden</item>
     </plurals>
-    <string name="icon_name_flow_play">Flow Play</string>
+    <string name="icon_name_flow_play">ZenStream Play</string>
     <string name="player_appearance_haptics_title">Vibration</string>
     <string name="player_appearance_gesture_overlay_subtitle">Wie Lautstärke und Helligkeit gezeigt werden, während du wischst</string>
     <string name="gesture_overlay_style_vertical">Vertikal</string>
@@ -1947,7 +1947,7 @@
         <item quantity="one">%1$d Eintrag</item>
         <item quantity="other">%1$d Einträge</item>
     </plurals>
-    <string name="downloads_recover_body">Flow speichert Dowloads in Download/Flow und Music/Flow. Um die Dateien aufzulisten, die eine frühere Installation dort gespeichert hat, erlaube Zugriff auf Videos und Musik.</string>
+    <string name="downloads_recover_body">ZenStream speichert Dowloads in Download/ZenStream und Music/ZenStream. Um die Dateien aufzulisten, die eine frühere Installation dort gespeichert hat, erlaube Zugriff auf Videos und Musik.</string>
     <string name="downloads_recover_allow">Zugriff erlauben</string>
     <string name="downloads_recover_dismiss">Nicht jetzt</string>
     <plurals name="downloads_recovered_count">
@@ -2126,7 +2126,7 @@
         <item quantity="other">%1$d Videos entfernen?</item>
     </plurals>
     <string name="onboarding_channels_results_header">Kanäle</string>
-    <string name="onboarding_import_source_flow">Flow Backup</string>
+    <string name="onboarding_import_source_flow">ZenStream Backup</string>
     <string name="onboarding_import_source_youtube">YouTube</string>
     <string name="onboarding_import_done">Importiert</string>
     <string name="onboarding_progress">Schritt %1$d von %2$d</string>
@@ -2332,8 +2332,8 @@
     <string name="lyrics_source_embedded">Eingebettete Liedtexte</string>
     <string name="lyrics_display_header">Anzeige</string>
     <string name="check_out_short_template">Schauen Sie sich diesen Kurzfilm an: %1$s\nhttps://youtube.com/shorts/%2$s</string>
-    <string name="link_not_supported">Flow kann diese Art von Link nicht öffnen</string>
-    <string name="music_service_disabled">Musik kann nicht abgespielt werden. Der Musikdienst von Flow ist auf diesem Gerät deaktiviert.</string>
+    <string name="link_not_supported">ZenStream kann diese Art von Link nicht öffnen</string>
+    <string name="music_service_disabled">Musik kann nicht abgespielt werden. Der Musikdienst von ZenStream ist auf diesem Gerät deaktiviert.</string>
     <string name="quick_action_go_to">Gehe zu</string>
     <string name="mark_as_unwatched">Als unbeobachtet markieren</string>
     <string name="mark_as_unwatched_toast">Als unbeobachtet markiert</string>
@@ -2399,12 +2399,12 @@
     <string name="content_settings_video_notes_subtitle">Zeigen Sie einen Hinweis in der Videobeschreibung an</string>
     <string name="notifications_already_in_watch_later">Bereits in Watch Later</string>
     <string name="notifications_save_to_watch_later">Speichern, um es später anzusehen</string>
-    <string name="deep_flow_scrobble_title">Scrobble während Deep Flow</string>
-    <string name="taste_learning_paused">Deep Flow ist eingeschaltet, das Lernen ist pausiert</string>
+    <string name="deep_flow_scrobble_title">Scrobble während Deep ZenStream</string>
+    <string name="taste_learning_paused">Deep ZenStream ist eingeschaltet, das Lernen ist pausiert</string>
     <string name="deep_flow_scrobble_subtitle">Senden Sie weiterhin Hörproben an Last.fm, Libre.fm und ListenBrainz</string>
     <string name="deep_flow_on_search_title">Bei der Suche anzeigen</string>
-    <string name="deep_flow_on_search_subtitle">Ein tiefer Flow-Schalter über den letzten Suchanfragen</string>
-    <string name="deep_flow_long_press_hint">Drücken Sie lange auf das Flow-Logo oder den Namen auf der Startseite, um Deep Flow zu wechseln</string>
+    <string name="deep_flow_on_search_subtitle">Ein tiefer ZenStream-Schalter über den letzten Suchanfragen</string>
+    <string name="deep_flow_long_press_hint">Drücken Sie lange auf das ZenStream-Logo oder den Namen auf der Startseite, um Deep ZenStream zu wechseln</string>
     <string name="notif_type_shorts_subtitle">Fügen Sie Shorts in Benachrichtigungen zu neuen Videos aus Abonnements ein</string>
     <string name="notif_check_interval_off_new_videos">Aus, während „Neue Videos“ ausgeschaltet ist</string>
     <string name="appearance_role_surface_container_lowest">Oberflächenbehälter am niedrigsten</string>
@@ -2485,7 +2485,7 @@
     <string name="content_settings_video_card_progress_subtitle">Eine Leiste auf den Miniaturansichten zeigt an, wie viel Sie gesehen haben</string>
     <string name="content_settings_home_subscriptions_title">Abonnements auf Startseite</string>
     <string name="content_settings_home_subscriptions_subtitle">Mischen Sie Videos von Kanälen, denen Sie folgen, in Home</string>
-    <string name="pause_watch_history_subtitle">Hören Sie auf, das, was Sie sehen, zu speichern. Deep Flow pausiert auch das Lernen</string>
+    <string name="pause_watch_history_subtitle">Hören Sie auf, das, was Sie sehen, zu speichern. Deep ZenStream pausiert auch das Lernen</string>
     <string name="content_settings_shorts_content_subtitle">Verstecke Shorts überall. Gespeicherte Shorts und Verlauf bleiben erhalten.</string>
     <string name="content_settings_channel_shorts_tab_title">Registerkarte Shorts auf Kanälen</string>
     <string name="content_settings_channel_shorts_tab_subtitle">Behalten Sie die Registerkarte Shorts eines Kanals bei, während Shorts ausgeblendet ist</string>
@@ -2503,8 +2503,8 @@
     <string name="categories_shelf_back">Zurück zu allen Regalen</string>
     <string name="proxy_settings_vpn_paused_subtitle">Ein VPN ist aktiviert, sodass der Datenverkehr direkt verbunden wird.</string>
     <string name="pip_listen_in_background">Hören Sie im Hintergrund zu</string>
-    <string name="player_settings_keep_playing_after_swipe">Spielen Sie weiter, nachdem Sie Flow geschlossen haben</string>
-    <string name="player_settings_keep_playing_after_swipe_subtitle">Die Wiedergabe wird fortgesetzt, wenn Sie Flow von den zuletzt verwendeten Apps wegwischen</string>
+    <string name="player_settings_keep_playing_after_swipe">Spielen Sie weiter, nachdem Sie ZenStream geschlossen haben</string>
+    <string name="player_settings_keep_playing_after_swipe_subtitle">Die Wiedergabe wird fortgesetzt, wenn Sie ZenStream von den zuletzt verwendeten Apps wegwischen</string>
     <string name="player_settings_shorts_pip_subtitle">Bewahren Sie den Kurzfilm beim Verlassen in einem schwebenden Fenster auf</string>
     <string name="player_settings_shorts_continue_into_feed">Fahren Sie mit den Empfehlungen fort</string>
     <string name="player_settings_shorts_continue_into_feed_subtitle">Spielen Sie das empfohlene Shorts weiter, wenn eine Warteschlange endet</string>
@@ -2521,7 +2521,7 @@
     <string name="player_settings_normalize_volume_summary">Drehen Sie laute Videos auf den Pegel von YouTube herunter</string>
     <string name="dearrow_random_frame">Verwenden Sie einen Videorahmen</string>
     <string name="dearrow_random_frame_subtitle">Wenn nichts übermittelt wird, zeigen Sie einen Frame aus dem Video</string>
-    <string name="player_settings_subtitle_language_dialog_body">Untertitel werden in dieser Sprache geöffnet, sofern verfügbar. Andernfalls übersetzt Flow einen vorhandenen Track.</string>
+    <string name="player_settings_subtitle_language_dialog_body">Untertitel werden in dieser Sprache geöffnet, sofern verfügbar. Andernfalls übersetzt ZenStream einen vorhandenen Track.</string>
     <string name="player_settings_subtitle_language_none_desc">Verwenden Sie den ersten Untertitel, den das Video bietet</string>
     <string name="player_settings_auto_enable_subtitles">Untertitel automatisch aktivieren</string>
     <string name="player_settings_auto_enable_subtitles_subtitle">Aktivieren Sie Untertitel in Ihrer bevorzugten Sprache</string>
@@ -2553,7 +2553,7 @@
     <string name="cache_used_automatic">%1$s, Größe automatisch angepasst</string>
     <string name="cache_other_summary">Text und Netzwerk, %1$s</string>
     <string name="cache_artwork_size_title">Größe des Grafik-Cache</string>
-    <string name="cache_size_applies_on_restart">Gilt beim nächsten Start von Flow.</string>
+    <string name="cache_size_applies_on_restart">Gilt beim nächsten Start von ZenStream.</string>
     <string name="import_yt_likes_desc">Importieren Sie beliebte Videos aus einem Google Takeout My Activity-Export (JSON).</string>
     <string name="import_takeout_step_subscriptions">Abonnements</string>
     <plurals name="import_takeout_part_subscriptions">
@@ -2573,7 +2573,7 @@
         <item quantity="other">%d YouTube Music Bibliothekslieder</item>
     </plurals>
     <string name="download_location_not_writable">Da kann man nicht speichern. Mit %1$s</string>
-    <string name="support_flow_open_collective">Unterstützt Flow auf Open Collective</string>
+    <string name="support_flow_open_collective">Unterstützt ZenStream auf Open Collective</string>
     <string name="about_notices">Open-Source-Hinweise</string>
     <string name="about_notices_summary">Wortlisten und Code aus anderen Projekten</string>
     <string name="playlist_downloads_queued">%1$d/%2$d-Downloads in der Warteschlange</string>
@@ -2597,7 +2597,7 @@
     <string name="onboarding_step_alerts">Warnungen</string>
     <string name="onboarding_get_started">Fangen Sie an</string>
     <string name="onboarding_start_watching">Fangen Sie an zu schauen</string>
-    <string name="onboarding_welcome_title">Machen Sie Flow zu Ihrem</string>
+    <string name="onboarding_welcome_title">Machen Sie ZenStream zu Ihrem</string>
     <string name="onboarding_welcome_subtitle">Videos und Musik rund um das, was Sie lieben. Die Einrichtung dauert eine Minute.</string>
     <string name="onboarding_alerts_title">Verpassen Sie nie wieder einen Upload</string>
     <string name="onboarding_alerts_subtitle">Erhalten Sie eine Benachrichtigung, wenn Ihre Kanäle Beiträge veröffentlichen.</string>
@@ -2631,7 +2631,7 @@
     <string name="settings_resume_from_headphones_title">Fortsetzung über Kopfhörer</string>
     <string name="settings_resume_from_headphones_summary">Eine Play-Taste am Kopfhörer startet Ihre letzten Songs neu</string>
     <string name="playback_background_restricted_title">Die Hintergrundaktivität ist eingeschränkt</string>
-    <string name="playback_background_restricted_subtitle">Ihr Telefon stoppt möglicherweise Flow, wenn Sie es wegwischen. Tippen Sie, um es zuzulassen.</string>
+    <string name="playback_background_restricted_subtitle">Ihr Telefon stoppt möglicherweise ZenStream, wenn Sie es wegwischen. Tippen Sie, um es zuzulassen.</string>
     <string name="settings_music_side_swipes_title">Geschwindigkeits- und Lautstärkebewegungen</string>
     <string name="settings_music_side_swipes_summary">Wischen Sie nach links, um die Geschwindigkeit zu erhöhen, nach rechts, um die Lautstärke zu erhöhen</string>
     <string name="music_watch_video_desc">Öffnen Sie das Musikvideo im Videoplayer</string>
@@ -2733,7 +2733,7 @@
     <string name="download_menu_style_title">Menüstil herunterladen</string>
     <string name="download_ask_every_time_title">Fragen Sie jedes Mal</string>
     <string name="download_ask_every_time_summary">Wenn diese Option deaktiviert ist, verwendet Download Ihre Downloadqualität</string>
-    <string name="share_download_with_flow">Herunterladen mit Flow</string>
+    <string name="share_download_with_flow">Herunterladen mit ZenStream</string>
     <string name="share_download_not_a_video">Über einen freigegebenen Link können nur Videos heruntergeladen werden</string>
     <string name="downloads_storage_card_title">Speicherzusammenfassung</string>
     <string name="downloads_storage_card_summary">Zeigen Sie oben unter „Downloads“ den belegten und freien Speicherplatz an</string>
@@ -2762,7 +2762,7 @@
     <string name="subtitle_timing_in_sync">Synchron mit dem Video</string>
     <string name="download_subtitle_file">Untertiteldatei</string>
     <string name="download_subtitle_file_subtitle">Speichern Sie Untertitel in Ihrer Untertitelsprache neben Videos, die ohne Menü heruntergeladen wurden</string>
-    <string name="subtitle_add_file_failed">Flow kann diese Datei nicht als Untertitel lesen</string>
+    <string name="subtitle_add_file_failed">ZenStream kann diese Datei nicht als Untertitel lesen</string>
     <string name="playlist_queue">Playlist-Warteschlange</string>
     <string name="cast_disconnected">Besetzung getrennt</string>
     <string name="dlna_no_devices">In diesem Netzwerk wurden keine DLNA/UPnP-Renderer gefunden.\n\nStellen Sie sicher, dass sich Ihr Fernseher oder Mediaplayer (VLC, Kodi usw.) im selben Wi-Fi-Netzwerk befindet und der Medienrenderer-Modus aktiviert ist.</string>
@@ -2813,16 +2813,16 @@
     <string name="linked_consent_ask">Fragen Sie jedes Mal</string>
     <string name="linked_consent_allowed">Erlaubt</string>
     <string name="linked_consent_declined">Nicht erlaubt</string>
-    <string name="linked_intro">Halten Sie dieses Gerät über Ihren eigenen Flow-Synchronisierungsserver, einen WebDAV-Ordner oder Ihr Wi-Fi-Netzwerk mit Ihren anderen Geräten synchron. Auf Ihren Geräten ist alles verschlüsselt; Kein Server kann es lesen.</string>
+    <string name="linked_intro">Halten Sie dieses Gerät über Ihren eigenen ZenStream-Synchronisierungsserver, einen WebDAV-Ordner oder Ihr Wi-Fi-Netzwerk mit Ihren anderen Geräten synchron. Auf Ihren Geräten ist alles verschlüsselt; Kein Server kann es lesen.</string>
     <string name="linked_create_title">Erstellen Sie eine Gruppe</string>
-    <string name="linked_create_body">Beginnen Sie mit der Verknüpfung auf einem Flow-Synchronisierungsserver, in einem WebDAV-Ordner oder in diesem Netzwerk</string>
+    <string name="linked_create_body">Beginnen Sie mit der Verknüpfung auf einem ZenStream-Synchronisierungsserver, in einem WebDAV-Ordner oder in diesem Netzwerk</string>
     <string name="linked_where_title">Wo sollen Ihre Geräte synchronisiert werden?</string>
     <string name="linked_restore_where_title">Wo ist die Gruppe?</string>
-    <string name="linked_where_server">Ein Flow-Synchronisierungsserver</string>
+    <string name="linked_where_server">Ein ZenStream-Synchronisierungsserver</string>
     <string name="linked_where_server_body">Ihr eigener Server: Live-Updates und schnellste Synchronisierung. Benötigt seine Adresse und sein Admin-Token</string>
     <string name="linked_where_webdav">Ein WebDAV-Ordner</string>
     <string name="linked_where_webdav_body">Nextcloud oder ein anderer WebDAV-Server. Benötigt die Adresse, den Benutzernamen und das Passwort des Ordners</string>
-    <string name="linked_webdav_body">Verwenden Sie einen leeren Ordner nur für Flow. Die Anmeldung wird nur im sicheren Speicher dieses Geräts gespeichert und an die von Ihnen verknüpften Geräte weitergegeben.</string>
+    <string name="linked_webdav_body">Verwenden Sie einen leeren Ordner nur für ZenStream. Die Anmeldung wird nur im sicheren Speicher dieses Geräts gespeichert und an die von Ihnen verknüpften Geräte weitergegeben.</string>
     <string name="linked_webdav_url">Ordneradresse</string>
     <string name="linked_webdav_url_hint">https://cloud.example.org/remote.php/dav/files/you/flow-sync/</string>
     <string name="linked_webdav_user">Benutzername</string>
@@ -2958,7 +2958,7 @@
     <string name="linked_profile_add_body">Ein neues Profil auf diesem Gerät wird damit synchronisiert.</string>
     <string name="linked_profile_add">Hinzufügen</string>
     <string name="linked_profile_limit">Dieses Gerät verfügt bereits über %1$d-Profile.</string>
-    <string name="linked_profile_switch_body">Nur das verwendete Profil kann mit der Synchronisierung beginnen, daher wird Flow zuerst darin neu gestartet. Dann aktivieren Sie dort die Synchronisierung.</string>
+    <string name="linked_profile_switch_body">Nur das verwendete Profil kann mit der Synchronisierung beginnen, daher wird ZenStream zuerst darin neu gestartet. Dann aktivieren Sie dort die Synchronisierung.</string>
     <string name="linked_profile_switch">Wechseln Sie zur Synchronisierung</string>
     <string name="sync_default_only_title">Wechseln Sie zum Synchronisieren zu %1$s</string>
     <string name="sync_collection_subscription_groups">Abonnementgruppen</string>
@@ -2980,12 +2980,12 @@
     <string name="sync_error_peer_also_send">Das andere Gerät ist ebenfalls auf Senden eingestellt. Stellen Sie es auf „Empfangen“ und versuchen Sie es erneut.</string>
     <string name="sync_error_peer_also_receive">Das andere Gerät ist ebenfalls auf Empfang eingestellt. Stellen Sie es auf „Senden“ und versuchen Sie es erneut.</string>
     <string name="sync_error_qr_expired">Dieser Code ist abgelaufen. Bitten Sie das andere Gerät, ein neues Gerät zu erstellen. Wenn Codes immer wieder sofort ablaufen, überprüfen Sie, ob Datum und Uhrzeit auf beiden Geräten korrekt sind.</string>
-    <string name="sync_error_qr_not_flow">Das sieht nicht nach gültigen Flow-Verbindungsdaten aus.</string>
+    <string name="sync_error_qr_not_flow">Das sieht nicht nach gültigen ZenStream-Verbindungsdaten aus.</string>
     <string name="sync_error_qr_bad_address">Den Verbindungsdaten fehlt eine gültige Netzwerkadresse.</string>
-    <string name="sync_error_qr_not_local">Dieser Code verweist außerhalb Ihres lokalen Netzwerks, sodass Flow keine Verbindung zu diesem herstellen kann. Verwenden Sie nur Codes, die von Ihren eigenen Geräten angezeigt werden.</string>
+    <string name="sync_error_qr_not_local">Dieser Code verweist außerhalb Ihres lokalen Netzwerks, sodass ZenStream keine Verbindung zu diesem herstellen kann. Verwenden Sie nur Codes, die von Ihren eigenen Geräten angezeigt werden.</string>
     <string name="sync_error_no_peer">Kein Gerät verbunden, bevor der Code abgelaufen ist. Überprüfen Sie, ob beide Geräte mit demselben WLAN verbunden sind, und versuchen Sie es dann erneut.</string>
     <string name="sync_error_unreachable">Das andere Gerät konnte nicht erreicht werden. Stellen Sie sicher, dass sich beide Geräte im selben WLAN befinden und dass kein VPN oder eine Firewall die Verbindung blockiert.</string>
-    <string name="sync_error_timeout">Das andere Gerät reagierte nicht mehr. Lassen Sie Flow auf beiden Geräten geöffnet und versuchen Sie es erneut.</string>
+    <string name="sync_error_timeout">Das andere Gerät reagierte nicht mehr. Lassen Sie ZenStream auf beiden Geräten geöffnet und versuchen Sie es erneut.</string>
     <string name="sync_error_peer_closed">Das andere Gerät hat die Verbindung getrennt. Überprüfen Sie, ob eine Nachricht vorliegt, und versuchen Sie es dann erneut.</string>
     <string name="sync_error_corrupted">Die Daten wurden unterwegs beschädigt. Versuchen Sie es erneut.</string>
     <string name="sync_error_apply_failed">Die Daten sind angekommen, konnten aber nicht gespeichert werden. An diesem Gerät wurde nichts geändert.</string>
@@ -2993,7 +2993,7 @@
     <string name="sync_error_code_not_confirmed">Die Bestätigungscodes wurden nicht bestätigt, daher wurde nichts übertragen.</string>
     <string name="sync_error_code_rejected">Das andere Gerät hat den Bestätigungscode nicht bestätigt, daher wurde nichts übertragen.</string>
     <string name="sync_error_declined">Die Fusion wurde abgelehnt. Es wurde nichts übertragen.</string>
-    <string name="sync_error_protocol">Die beiden Geräte konnten sich nicht auf die Synchronisierungsschritte einigen. Aktualisieren Sie Flow auf beiden Geräten und versuchen Sie es erneut.</string>
+    <string name="sync_error_protocol">Die beiden Geräte konnten sich nicht auf die Synchronisierungsschritte einigen. Aktualisieren Sie ZenStream auf beiden Geräten und versuchen Sie es erneut.</string>
     <string name="sync_error_peer">Das andere Gerät hat ein Problem gemeldet: %1$s</string>
     <string name="sync_step_title_send">Schicken</string>
     <string name="sync_step_title_receive">Erhalten</string>
@@ -3015,8 +3015,8 @@
     <string name="sync_collection_likes_body">Gemochte und nicht gemochte Videos und Musik.</string>
     <string name="sync_collection_subscriptions_body">Die Kanäle, denen Sie folgen.</string>
     <string name="sync_collection_settings_body">Wiedergabe-, Darstellungs- und Download-Einstellungen.</string>
-    <string name="sync_collection_recommendation_profile_body">Was Flow über das, was Sie sehen, erfahren hat.</string>
-    <string name="sync_collection_music_profile_body">Was Flow über das gelernt hat, was Sie hören.</string>
+    <string name="sync_collection_recommendation_profile_body">Was ZenStream über das, was Sie sehen, erfahren hat.</string>
+    <string name="sync_collection_music_profile_body">Was ZenStream über das gelernt hat, was Sie hören.</string>
     <string name="sync_waiting_for_peer">Warten darauf, dass das andere Gerät eine Verbindung herstellt …</string>
     <string name="sync_cancel_session">Synchronisierung abbrechen</string>
     <string name="sync_expires_label">QR-Code läuft ab</string>
@@ -3051,7 +3051,7 @@
     <string name="error_login_required_hint">YouTube spielt dieses Video nur für angemeldete Konten ab.</string>
     <string name="error_not_available_hint">Dieses Video wurde möglicherweise von YouTube gelöscht, privat gemacht oder entfernt.</string>
     <string name="error_not_supported">Inhaltstyp wird nicht unterstützt</string>
-    <string name="error_not_supported_hint">Dieses Format oder dieser Inhaltstyp kann in Flow nicht abgespielt werden.</string>
+    <string name="error_not_supported_hint">Dieses Format oder dieser Inhaltstyp kann in ZenStream nicht abgespielt werden.</string>
     <string name="error_no_internet_hint">Überprüfen Sie Ihr WLAN oder Ihre mobilen Daten und versuchen Sie es erneut.</string>
     <string name="error_timeout">Zeitüberschreitung bei der Verbindung</string>
     <string name="error_timeout_hint">Die Antwort des Servers dauerte zu lange. Überprüfen Sie Ihre Verbindung und versuchen Sie es erneut.</string>
@@ -3064,7 +3064,7 @@
     <string name="error_codec_issue_hint">Ihr Gerät konnte diesen Stream nicht dekodieren. Versuchen Sie, eine niedrigere Qualität auszuwählen.</string>
     <string name="error_playback_failed_hint">Es ist ein unerwarteter Player-Fehler aufgetreten. Bitte versuchen Sie es erneut.</string>
     <string name="error_extraction_failed">Videodaten konnten nicht analysiert werden</string>
-    <string name="error_extraction_failed_hint">YouTube hat möglicherweise sein Format aktualisiert. Flow wird bald aktualisiert – bitte versuchen Sie es später noch einmal.</string>
+    <string name="error_extraction_failed_hint">YouTube hat möglicherweise sein Format aktualisiert. ZenStream wird bald aktualisiert – bitte versuchen Sie es später noch einmal.</string>
     <string name="error_generic">Video konnte nicht geladen werden</string>
     <string name="music_playback_warning_forbidden">Der Zugriff auf den Musikstream wurde verweigert. YouTube schränkt diese IP möglicherweise ein; Versuchen Sie, das Netzwerk/VPN neu zu laden oder zu wechseln.</string>
     <string name="music_playback_warning_network">Der Musikstream ist aufgrund eines Netzwerkproblems fehlgeschlagen. Überprüfen Sie Ihre Verbindung oder versuchen Sie es mit einem anderen Netzwerk.</string>
@@ -3108,10 +3108,10 @@
     <string name="player_action_copy_link_at_time">Kopieren Sie jeweils</string>
     <string name="player_action_dislike">Abneigung</string>
     <string name="action_want_more">Willst du mehr davon</string>
-    <string name="diagnostics_report_subject">Flow Diagnosebericht</string>
+    <string name="diagnostics_report_subject">ZenStream Diagnosebericht</string>
     <string name="diagnostics_reset_session">Setzen Sie die YouTube-Sitzung zurück</string>
     <string name="diagnostics_reset_session_confirm_title">YouTube-Sitzung zurücksetzen?</string>
-    <string name="diagnostics_reset_session_confirm_body">Flow wird eine neue Wiedergabeidentität erstellen. Versuchen Sie dies, wenn Videos nach einer Minute stoppen oder nicht abgespielt werden können.\n\nDie Wiedergabe kann ein oder zwei Minuten lang rau sein. Ihre gespeicherten Daten sind hiervon nicht betroffen.</string>
+    <string name="diagnostics_reset_session_confirm_body">ZenStream wird eine neue Wiedergabeidentität erstellen. Versuchen Sie dies, wenn Videos nach einer Minute stoppen oder nicht abgespielt werden können.\n\nDie Wiedergabe kann ein oder zwei Minuten lang rau sein. Ihre gespeicherten Daten sind hiervon nicht betroffen.</string>
     <string name="diagnostics_reset_session_done">YouTube Sitzung zurückgesetzt. Öffnen Sie das Video erneut, um es erneut zu versuchen.</string>
     <string name="diagnostics_profiles_section">Profile (Debug)</string>
     <string name="diagnostics_profiles_footer">Nur Debug-Builds. Beim Wechsel wird die App neu gestartet.</string>
@@ -3178,7 +3178,7 @@
     <string name="profiles_copy_subscriptions">Abonnements</string>
     <string name="profiles_copy_subscriptions_summary">Kanäle und Kanalgruppen</string>
     <string name="profiles_copy_recommendations">Empfehlungen</string>
-    <string name="profiles_copy_recommendations_summary">Was Flow über Ihren Geschmack erfahren hat</string>
+    <string name="profiles_copy_recommendations_summary">Was ZenStream über Ihren Geschmack erfahren hat</string>
     <string name="profiles_create_and_switch">Erstellen und wechseln</string>
     <string name="profiles_create">Profil erstellen</string>
     <string name="profiles_save">Speichern</string>
@@ -3302,15 +3302,15 @@
     <string name="discord_presence_account">Discord-Konto</string>
     <string name="discord_presence_privacy_section">Datenschutz- und Kontorisiko</string>
     <string name="discord_presence_privacy_title">Privatsphäre</string>
-    <string name="discord_presence_privacy_body">Flow teilt den Titel, den Ersteller, das Artwork und den Fortschritt Ihres Spiels mit. Standardmäßig deaktiviert. Ihr Discord-Token ist verschlüsselt und wird nie protokolliert.</string>
+    <string name="discord_presence_privacy_body">ZenStream teilt den Titel, den Ersteller, das Artwork und den Fortschritt Ihres Spiels mit. Standardmäßig deaktiviert. Ihr Discord-Token ist verschlüsselt und wird nie protokolliert.</string>
     <string name="discord_presence_gateway_warning">Dies meldet sich mit Ihrem Discord-Token anstelle eines offiziellen Logins an. Es verstößt gegen die Nutzungsbedingungen von Discord und kann dazu führen, dass Ihr Konto eingeschränkt oder gesperrt wird.</string>
     <string name="discord_presence_risk_dialog_title">Discord-Kontorisiko akzeptieren?</string>
-    <string name="discord_presence_risk_dialog_body">Durch die Verbindung erhält Flow Ihr Discord-Token. Es bleibt auf diesem Gerät verschlüsselt und wird nur an Discord gesendet. Diese Methode verstößt gegen die Nutzungsbedingungen von Discord, sodass Ihr Konto möglicherweise eingeschränkt oder gesperrt wird.</string>
+    <string name="discord_presence_risk_dialog_body">Durch die Verbindung erhält ZenStream Ihr Discord-Token. Es bleibt auf diesem Gerät verschlüsselt und wird nur an Discord gesendet. Diese Methode verstößt gegen die Nutzungsbedingungen von Discord, sodass Ihr Konto möglicherweise eingeschränkt oder gesperrt wird.</string>
     <string name="discord_presence_risk_accept">Ich verstehe, verbinde dich</string>
     <string name="discord_error_not_initialized">Discord Rich Presence wurde nicht initialisiert.</string>
     <string name="discord_error_enable_before_connect">Aktivieren Sie Discord Rich Presence, bevor Sie ein Konto verbinden.</string>
     <string name="discord_error_unavailable">Discord Rich Presence ist in diesem Build nicht verfügbar.</string>
-    <string name="discord_error_open_flow">Öffnen Sie Flow, bevor Sie Discord verbinden.</string>
+    <string name="discord_error_open_flow">Öffnen Sie ZenStream, bevor Sie Discord verbinden.</string>
     <string name="discord_error_connection_in_progress">Eine Discord-Verbindung ist bereits im Gange.</string>
     <string name="discord_error_login_timeout">Zeitüberschreitung bei der Discord-Anmeldung.</string>
     <string name="discord_error_login_cancelled">Discord-Verbindung wurde abgebrochen.</string>
@@ -3324,11 +3324,11 @@
     <string name="discord_error_heartbeat_unacknowledged">Der Heartbeat des Discord Gateways wurde nicht bestätigt.</string>
     <string name="discord_error_heartbeat_failed">Der Heartbeat des Discord-Gateways ist fehlgeschlagen.</string>
     <string name="discord_account_fallback">Discord-Benutzer</string>
-    <string name="discord_presence_playing_fallback">Spielen in Flow</string>
+    <string name="discord_presence_playing_fallback">Spielen in ZenStream</string>
     <string name="discord_presence_by_creator">von %1$s</string>
     <string name="tv_player_queue">Warteschlange</string>
     <string name="tv_remote_guide_title">Anleitung zur Fernbedienung und Tastatur</string>
-    <string name="tv_remote_guide_subtitle">Eine kurze Referenz zum Navigieren in Flow vom Sofa aus</string>
+    <string name="tv_remote_guide_subtitle">Eine kurze Referenz zum Navigieren in ZenStream vom Sofa aus</string>
     <string name="tv_guide_navigation_title">Navigation</string>
     <string name="tv_guide_search_title">Suchen und stöbern</string>
     <string name="tv_guide_playback_title">Wiedergabe</string>
@@ -3360,9 +3360,9 @@
     <string name="tv_guide_player_media">Die Tasten „Wiedergabe“, „Pause“, „Zurück“, „Weiter“, „Rücklauf“, „Schneller Vorlauf“ und „Untertitel“ funktionieren direkt.</string>
     <string name="tv_guide_player_back">Schließen Sie zuerst ein Bedienfeld oder die Steuerelemente. Drücken Sie erneut, um den Player zu verlassen.</string>
     <string name="widget_now_playing_label">Jetzt gespielt</string>
-    <string name="widget_now_playing_description">Steuern Sie die Musik, die in Flow abgespielt wird</string>
+    <string name="widget_now_playing_description">Steuern Sie die Musik, die in ZenStream abgespielt wird</string>
     <string name="widget_quick_actions_label">Schnelle Aktionen</string>
-    <string name="widget_quick_actions_description">Suchen Sie nach Flow und springen Sie zu Downloads, Verlauf oder Erkennung</string>
+    <string name="widget_quick_actions_description">Suchen Sie nach ZenStream und springen Sie zu Downloads, Verlauf oder Erkennung</string>
     <string name="widget_recognize_label">Musik erkennen</string>
     <string name="widget_recognize_description">Identifizieren Sie das Lied, das um Sie herum abgespielt wird, mit einem Fingertipp</string>
     <string name="widget_turntable_label">Drehscheibe</string>
@@ -3424,7 +3424,7 @@
     <string name="widget_week_title">Letzte 7 Tage</string>
     <string name="widget_week_top_artist">Top-Künstler diesen Monat</string>
     <string name="settings_widgets_title">Widgets</string>
-    <string name="settings_widgets_summary">Platzieren Sie Flow auf Ihrem Startbildschirm</string>
+    <string name="settings_widgets_summary">Platzieren Sie ZenStream auf Ihrem Startbildschirm</string>
     <string name="settings_widgets_add_header">Zum Startbildschirm hinzufügen</string>
     <string name="settings_widgets_footer">Tippen Sie auf eines, um es zu platzieren, oder drücken Sie lange auf den Startbildschirm.</string>
     <string name="settings_widgets_unsupported">Ihr Launcher kann keine Widgets für Apps hinzufügen. Drücken Sie lange auf den Startbildschirm, um einen hinzuzufügen.</string>
@@ -3440,7 +3440,7 @@
     <string name="ui_navigate">Navigieren</string>
     <string name="ui_options">Optionen</string>
     <string name="ui_selected">Ausgewählt</string>
-    <string name="ui_flow_logo">Flow-Logo</string>
+    <string name="ui_flow_logo">ZenStream-Logo</string>
     <string name="ui_list_view">Listenansicht</string>
     <string name="ui_grid_view">Rasteransicht</string>
     <string name="ui_back">Zurück</string>
@@ -3463,7 +3463,7 @@
     <string name="ui_no_crash_logs">Keine Absturzprotokolle</string>
     <string name="ui_copy_log">Protokoll kopieren</string>
     <string name="ui_clear_and_continue">Löschen und fortfahren</string>
-    <string name="crash_title">Flow wurde unerwartet geschlossen</string>
+    <string name="crash_title">ZenStream wurde unerwartet geschlossen</string>
     <string name="crash_subtitle">Dieser Bericht bleibt auf Ihrem Gerät, bis Sie ihn teilen.</string>
     <string name="crash_summary_error">Fehler</string>
     <string name="crash_summary_message">Nachricht</string>
@@ -3476,11 +3476,11 @@
     <string name="crash_report">Bericht</string>
     <string name="crash_continue">Weitermachen</string>
     <string name="crash_report_copied">Vollständiger Bericht kopiert. Fügen Sie es in das Feld „Protokolle“ ein.</string>
-    <string name="ui_crashed_last_session">Flow ist in der letzten Sitzung abgestürzt</string>
+    <string name="ui_crashed_last_session">ZenStream ist in der letzten Sitzung abgestürzt</string>
     <string name="ui_copy_log_description">Kopieren Sie das Protokoll unten und fügen Sie es in ein GitHub-Problem ein, damit es behoben werden kann.</string>
     <string name="ui_add_interest">Interesse hinzufügen</string>
     <string name="ui_version">Version %1$s</string>
-    <string name="update_download_prompt">Eine neue Version von Flow ist verfügbar (%1$s). Die neueste APK herunterladen?</string>
+    <string name="update_download_prompt">Eine neue Version von ZenStream ist verfügbar (%1$s). Die neueste APK herunterladen?</string>
     <string name="ui_instrumental">I N S T R U M E N T A L</string>
     <string name="ui_playlist_empty">Die Playlist ist leer</string>
     <plurals name="ui_downloading_videos">
@@ -3546,7 +3546,7 @@
     <string name="notification_downloading">Herunterladen: %1$s</string>
     <string name="notification_download_complete">Download abgeschlossen</string>
     <string name="notification_download_failed">Der Download ist fehlgeschlagen</string>
-    <string name="notification_channel_downloads_name">Flow-Downloads</string>
+    <string name="notification_channel_downloads_name">ZenStream-Downloads</string>
     <string name="notification_download_paused">Angehalten – %1$s</string>
     <string name="notification_download_paused_hint">Tippen Sie, um fortzufahren</string>
     <string name="notification_download_progress">%1$d%% • %2$s / %3$s</string>
@@ -3566,10 +3566,10 @@
     </plurals>
     <string name="notification_update_available">Update verfügbar: %1$s</string>
     <string name="notification_tap_to_update">Tippen Sie hier, um auf die neueste Version zu aktualisieren.</string>
-    <string name="update_downloading_notification">Flow %1$s wird heruntergeladen</string>
-    <string name="update_ready_notification">Flow %1$s ist bereit</string>
+    <string name="update_downloading_notification">ZenStream %1$s wird heruntergeladen</string>
+    <string name="update_ready_notification">ZenStream %1$s ist bereit</string>
     <string name="update_ready_notification_text">Verifiziert. Zum Installieren tippen.</string>
-    <string name="update_title">Flow %1$s ist hier</string>
+    <string name="update_title">ZenStream %1$s ist hier</string>
     <string name="update_version_change">%1$s → %2$s</string>
     <string name="update_not_now">Nicht jetzt</string>
     <string name="update_skip_version">Überspringen Sie diese Version</string>
@@ -3581,11 +3581,11 @@
     <string name="update_action_allow">Installationen zulassen</string>
     <string name="update_action_install">Update installieren</string>
     <string name="update_action_installing">Installieren</string>
-    <string name="update_permission_notice">Erlauben Sie Flow, Updates zu installieren. Android fragt einmal danach.</string>
+    <string name="update_permission_notice">Erlauben Sie ZenStream, Updates zu installieren. Android fragt einmal danach.</string>
     <string name="update_failed_network">Der Download wurde gestoppt. Überprüfen Sie Ihre Verbindung und versuchen Sie es erneut.</string>
     <string name="update_failed_storage">Es ist nicht genügend Speicherplatz für das Update vorhanden.</string>
     <string name="update_failed_checksum">Die Datei entsprach nicht der Veröffentlichung und wurde daher gelöscht. Versuchen Sie es erneut.</string>
-    <string name="update_failed_package">Die Datei war kein Flow-Update und wurde daher gelöscht.</string>
+    <string name="update_failed_package">Die Datei war kein ZenStream-Update und wurde daher gelöscht.</string>
     <string name="update_failed_install">Android konnte das Update nicht installieren. Versuchen Sie es erneut.</string>
     <string name="notification_watch_later_reminder">„Später ansehen“-Erinnerung</string>
     <string name="notification_video_live">Das Video ist live</string>
@@ -3659,7 +3659,7 @@
         <item quantity="other">%1$d Dateien ausgeblendet</item>
     </plurals>
     <string name="local_manage">Verwalten</string>
-    <string name="local_partial_access_title">Flow kann nur die von Ihnen ausgewählten Videos sehen</string>
+    <string name="local_partial_access_title">ZenStream kann nur die von Ihnen ausgewählten Videos sehen</string>
     <string name="local_partial_access_body">Erlauben Sie den Zugriff auf alle Videos, um den Rest zu sehen.</string>
     <string name="local_open_settings">Einstellungen öffnen</string>
     <string name="local_permission_denied_body">Erlauben Sie den Zugriff auf Videos und Musik in den App-Einstellungen, um sie hier anzuzeigen.</string>
@@ -3720,7 +3720,7 @@
     <string name="downloads_sort_largest">Größte</string>
     <string name="downloads_sort_title">Titel</string>
     <string name="downloads_sort_channel">Kanal</string>
-    <string name="downloads_storage_used">%1$s in Flow</string>
+    <string name="downloads_storage_used">%1$s in ZenStream</string>
     <string name="downloads_storage_free">%1$s kostenlos</string>
     <string name="downloads_storage_videos">Videos %1$s</string>
     <string name="downloads_storage_music">Musik %1$s</string>
@@ -3840,7 +3840,7 @@
     <string name="settings_about_summary">Version, Lizenz und Links</string>
     <string name="settings_theme_summary">Palette und heller oder dunkler Stil</string>
     <string name="settings_font_title">Schriftart</string>
-    <string name="settings_font_summary">Die Schriftart, die in Flow verwendet wird</string>
+    <string name="settings_font_summary">Die Schriftart, die in ZenStream verwendet wird</string>
     <string name="settings_keywords_font">Schriftart, Text, Buchstaben, ttf, otf</string>
     <string name="font_system_default">Systemstandard</string>
     <string name="font_condensed">Kondensiert</string>
@@ -3947,14 +3947,14 @@
     <string name="settings_section_watched">Videos angeschaut</string>
     <string name="settings_section_sharing">Teilen</string>
     <string name="settings_section_links">Links</string>
-    <string name="content_settings_open_links_title">Öffnen Sie YouTube-Links in Flow</string>
+    <string name="content_settings_open_links_title">Öffnen Sie YouTube-Links in ZenStream</string>
     <string name="content_settings_open_links_subtitle">Wählen Sie aus, welche Links hier geöffnet werden</string>
     <string name="content_settings_open_links_all">Ein für jede YouTube-Adresse</string>
     <string name="content_settings_open_links_some">Ein für %1$d von %2$d Adressen</string>
     <string name="content_settings_open_links_off">Aus. Links werden in einer anderen App geöffnet</string>
     <string name="content_settings_open_links_system_asks">Android fragt, welche App verwendet werden soll</string>
     <string name="content_settings_shared_links_title">Geteilte Links</string>
-    <string name="content_settings_shared_links_subtitle">Was ein mit Flow geteiltes Video bewirkt</string>
+    <string name="content_settings_shared_links_subtitle">Was ein mit ZenStream geteiltes Video bewirkt</string>
     <string name="content_settings_shared_links_dialog_body">Links, auf die Sie in anderen Apps tippen, werden immer abgespielt.</string>
     <string name="content_settings_shared_links_play">Spielen Sie sofort</string>
     <string name="content_settings_shared_links_ask_while_playing">Fragen Sie, während etwas läuft</string>
@@ -3977,7 +3977,7 @@
     <string name="settings_backup_tab_auto">Automatisch</string>
     <string name="settings_backup_full">Vollständige Sicherung</string>
     <string name="settings_backup_individual">Einzelne Exporte</string>
-    <string name="settings_backup_restore_flow">Wiederherstellung von Flow</string>
+    <string name="settings_backup_restore_flow">Wiederherstellung von ZenStream</string>
     <string name="settings_backup_source_youtube">YouTube und Google Takeout</string>
     <string name="settings_backup_source_newpipe">NewPipe</string>
     <string name="settings_backup_source_libretube">LibreTube</string>
@@ -3999,7 +3999,7 @@
     <string name="settings_storage_access_summary">Ermöglicht außerdem, Dateien in lokalen Medien aufzulisten, die von anderen Apps gespeichert wurden</string>
     <string name="settings_storage_usage">%1$s frei von %2$s</string>
     <string name="settings_location_default">Standard</string>
-    <string name="settings_music_folder_label">Musik / Flow</string>
+    <string name="settings_music_folder_label">Musik / ZenStream</string>
     <string name="settings_keywords_downloads">Offline speichern, Ordner, Speicher, SD-Karte</string>
     <string name="settings_section_notification_types">Benachrichtigen Sie mich über</string>
     <string name="settings_keywords_notifications">Benachrichtigungen, Push, neue Uploads, Hintergrundüberprüfungen, Shorts</string>
@@ -4039,7 +4039,7 @@
     <string name="settings_changelog_all_releases">Alle Veröffentlichungen auf GitHub</string>
     <string name="settings_changelog_expand">Änderungen anzeigen</string>
     <string name="settings_changelog_collapse">Änderungen ausblenden</string>
-    <string name="settings_creator_role">Schöpfer und Entwickler von Flow</string>
+    <string name="settings_creator_role">Schöpfer und Entwickler von ZenStream</string>
     <string name="device_info_section_device">Gerät</string>
     <string name="device_info_section_system">System</string>
     <string name="device_info_section_display">Anzeige</string>
@@ -4090,7 +4090,7 @@
     <string name="settings_custom_theme_start_from">Beginnen Sie mit</string>
     <string name="settings_custom_theme_count">%1$d von %2$d Themen</string>
     <string name="settings_custom_theme_empty">Noch keine benutzerdefinierten Designs</string>
-    <string name="settings_custom_theme_empty_body">Beginnen Sie mit einer beliebigen Palette oder importieren Sie eine in Flow Desktop erstellte Palette.</string>
+    <string name="settings_custom_theme_empty_body">Beginnen Sie mit einer beliebigen Palette oder importieren Sie eine in ZenStream Desktop erstellte Palette.</string>
     <string name="settings_custom_theme_import_failed">In dieser Datei sind keine gültigen Designs enthalten</string>
     <string name="settings_custom_theme_limit">Sie können bis zu %1$d Themen beibehalten</string>
     <string name="settings_custom_theme_exported">Theme exportiert</string>
@@ -4122,9 +4122,9 @@
     <string name="settings_custom_theme_in_use">Im Einsatz</string>
     <string name="settings_custom_theme_export_failed">Das Thema konnte nicht gespeichert werden</string>
     <string name="taste_title">Dein Geschmack</string>
-    <string name="taste_summary">Wie Flow Sie sieht und was Ihren Feed prägt</string>
+    <string name="taste_summary">Wie ZenStream Sie sieht und was Ihren Feed prägt</string>
     <string name="taste_keywords">Persona, Profil, Algorithmus, Empfehlungen, Interessen, Gehirn, Motor, Kontrollzentrum</string>
-    <string name="taste_card_hint">Sehen Sie, wie Flow Sie sieht</string>
+    <string name="taste_card_hint">Sehen Sie, wie ZenStream Sie sieht</string>
     <string name="taste_card_loading">Ich lese Ihr Profil</string>
     <string name="taste_shape_header">Geschmacksform</string>
     <string name="taste_shape_description">Ihr Profil im Vergleich zu dem, was Sie zu dieser Tageszeit ansehen</string>
@@ -4168,16 +4168,16 @@
     <string name="taste_export_music">Musikprofil exportieren</string>
     <string name="taste_import_music">Musikprofil importieren</string>
     <string name="taste_reset_music">Musikprofil zurücksetzen</string>
-    <string name="taste_reset_video_body">Flow vergisst, was es aus Ihren Videos und Suchanfragen gelernt hat. Verlauf, „Gefällt mir“-Angaben, Wiedergabelisten und versteckte Elemente bleiben erhalten und werden von Home weiterhin verwendet.</string>
+    <string name="taste_reset_video_body">ZenStream vergisst, was es aus Ihren Videos und Suchanfragen gelernt hat. Verlauf, „Gefällt mir“-Angaben, Wiedergabelisten und versteckte Elemente bleiben erhalten und werden von Home weiterhin verwendet.</string>
     <string name="taste_reset_music_title">Musikprofil zurücksetzen?</string>
-    <string name="taste_reset_music_body">Dadurch wird gelöscht, was Flow aus Ihrer Musik gelernt hat, und es beginnt wieder bei Null. Deine Zusammenfassung bleibt.</string>
+    <string name="taste_reset_music_body">Dadurch wird gelöscht, was ZenStream aus Ihrer Musik gelernt hat, und es beginnt wieder bei Null. Deine Zusammenfassung bleibt.</string>
     <string name="taste_trait_now">Jetzt %1$s</string>
     <string name="taste_reset_done">Profil zurückgesetzt</string>
     <string name="diagnostics_engine_header">Motordetails</string>
     <string name="diagnostics_engine_queries_none">Noch keine</string>
     <string name="taste_starter_searches">Starter-Suchen</string>
-    <string name="taste_starter_searches_detail">%1$s. Wird verwendet, bis Flow erfährt, was Sie sehen.</string>
-    <string name="recap_title">Flow Zusammenfassung</string>
+    <string name="taste_starter_searches_detail">%1$s. Wird verwendet, bis ZenStream erfährt, was Sie sehen.</string>
+    <string name="recap_title">ZenStream Zusammenfassung</string>
     <string name="recap_summary">Was Sie Monat für Monat gesehen und gehört haben</string>
     <string name="recap_keywords">verpackt, Statistiken, Statistiken, Rückblick, Jahresrückblick, Wiedergabezeit, Hörzeit, meistgesehen, Top-Künstler</string>
     <string name="recap_period_month">Monat</string>
@@ -4186,7 +4186,7 @@
     <string name="recap_source_all">Alles</string>
     <string name="recap_source_video">Videos</string>
     <string name="recap_source_music">Musik</string>
-    <string name="recap_total_time">Zeit in Flow</string>
+    <string name="recap_total_time">Zeit in ZenStream</string>
     <string name="recap_delta_up">%1$s mehr als die Zeit zuvor</string>
     <string name="recap_delta_down">%1$s weniger als die Zeit zuvor</string>
     <string name="recap_delta_same">Ungefähr das Gleiche wie damals</string>
@@ -4264,7 +4264,7 @@
         <item quantity="other">%d Videos</item>
     </plurals>
     <string name="recap_empty_title">Ihre Zusammenfassung beginnt jetzt</string>
-    <string name="recap_empty_body">Flow speichert diese Statistiken nur auf diesem Gerät. Beobachten und hören Sie eine Weile zu und sie füllen sich.</string>
+    <string name="recap_empty_body">ZenStream speichert diese Statistiken nur auf diesem Gerät. Beobachten und hören Sie eine Weile zu und sie füllen sich.</string>
     <string name="recap_period_empty">Für diesen Zeitraum wurde nichts aufgezeichnet</string>
     <string name="recap_insights_title">Was stach heraus</string>
     <string name="recap_insight_night_owl">Nachteule</string>
@@ -4286,7 +4286,7 @@
     <string name="recap_ready_body">Sehen Sie, was Sie gesehen und gehört haben, und teilen Sie es, wenn Sie möchten</string>
     <string name="recap_ready_open">Offen</string>
     <string name="recap_ready_dismiss">Nicht jetzt</string>
-    <string name="recap_story_intro">Ihr %1$s in Flow</string>
+    <string name="recap_story_intro">Ihr %1$s in ZenStream</string>
     <plurals name="recap_story_intro_body">
         <item quantity="one">Verteilt über %d Tag</item>
         <item quantity="other">Verteilt über %d Tage</item>
@@ -4309,12 +4309,12 @@
     <string name="recap_story_summary">Ihr %1$s auf einer Karte</string>
     <string name="recap_story_share">Aktie</string>
     <string name="recap_story_share_title">Teilen Sie Ihre Zusammenfassung</string>
-    <string name="recap_story_share_text">Mein %1$s in Flow: %2$s</string>
+    <string name="recap_story_share_text">Mein %1$s in ZenStream: %2$s</string>
     <string name="recap_story_close">Schließen</string>
     <string name="recap_story_next">Nächste</string>
     <string name="recap_story_previous">Vorherige</string>
     <string name="recap_story_page">Seite %1$d von %2$d</string>
-    <string name="recap_story_made_with">Hergestellt mit Flow</string>
+    <string name="recap_story_made_with">Hergestellt mit ZenStream</string>
     <string name="recap_story_pause">Pause</string>
     <string name="recap_story_play">Spielen</string>
     <string name="recap_summary_top_channel">Top-Kanal</string>
@@ -4328,8 +4328,8 @@
     <string name="playlist_exported">Playlist gespeichert</string>
     <string name="playlist_export_failed">Die Playlist konnte nicht gespeichert werden</string>
     <string name="playlist_share_failed">Die Playlist konnte nicht geteilt werden</string>
-    <string name="playlist_import_not_a_playlist">Diese Datei ist keine Flow-Wiedergabeliste</string>
-    <string name="playlist_import_too_new">Diese Playlist benötigt eine neuere Version von Flow</string>
+    <string name="playlist_import_not_a_playlist">Diese Datei ist keine ZenStream-Wiedergabeliste</string>
+    <string name="playlist_import_too_new">Diese Playlist benötigt eine neuere Version von ZenStream</string>
     <string name="playlist_import_empty">Diese Playlist enthält keine Videos zum Importieren</string>
     <string name="playlist_import_unreadable">Diese Datei konnte nicht gelesen werden</string>
     <plurals name="playlist_imported">
@@ -4532,7 +4532,7 @@
     <string name="scrobbling_import">Importieren Sie Ihre Top-Künstler</string>
     <string name="scrobbling_import_summary">Fügt die am häufigsten gespielten Künstler zu Ihren Favoriten hinzu</string>
     <string name="scrobbling_import_offer_title">Gestalten Sie Ihre Musik mit %1$s?</string>
-    <string name="scrobbling_import_offer_body">Flow fügt Ihre 20 meistgespielten Künstler des vergangenen Jahres zu Ihren Lieblingskünstlern hinzu. Sie können jede davon später entfernen.</string>
+    <string name="scrobbling_import_offer_body">ZenStream fügt Ihre 20 meistgespielten Künstler des vergangenen Jahres zu Ihren Lieblingskünstlern hinzu. Sie können jede davon später entfernen.</string>
     <string name="scrobbling_import_action">Import</string>
     <string name="scrobbling_import_later">Nicht jetzt</string>
     <plurals name="scrobbling_import_done">

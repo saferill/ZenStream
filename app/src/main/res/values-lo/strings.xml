@@ -41,7 +41,7 @@
     <string name="copy_logs">ສຳເນົາບັນທຶກ</string>
     <string name="logs_copied">ສຳເນົາບັນທຶກແລ້ວ</string>
     <string name="logs_copy_failed">ບໍ່ສາມາດສຳເນົາບັນທຶກໄດ້</string>
-    <string name="channel_error_log_clip_label">ບັນທຶກຄວາມຜິດພາດຊ່ອງ Flow</string>
+    <string name="channel_error_log_clip_label">ບັນທຶກຄວາມຜິດພາດຊ່ອງ ZenStream</string>
     <string name="shorts">Shorts</string>
     <string name="failed_to_load_channel">ໂຫຼດຊ່ອງບໍ່ສຳເລັດ</string>
     <string name="subscribers">ສະມາຊິກ</string>
@@ -69,7 +69,7 @@
     <string name="local_media_empty_title">ບໍ່ພົບ %1$s</string>
     <string name="local_media_empty_body">ວິດີໂອ ແລະເພງທີ່ເກັບໄວ້ໃນອຸປະກອນນີ້ຈະປາກົດຢູ່ບ່ອນນີ້.</string>
     <string name="local_media_permission_title">ຕ້ອງການການອະນຸຍາດ</string>
-    <string name="local_media_permission_body">ອະນຸຍາດໃຫ້ເຂົ້າເຖິງສື່ຂອງທ່ານເພື່ອໃຫ້ Flow ສາມາດຊອກຫາ ແລະຫຼິ້ນວິດີໂອ ແລະເພງທ້ອງຖິ່ນໄດ້.</string>
+    <string name="local_media_permission_body">ອະນຸຍາດໃຫ້ເຂົ້າເຖິງສື່ຂອງທ່ານເພື່ອໃຫ້ ZenStream ສາມາດຊອກຫາ ແລະຫຼິ້ນວິດີໂອ ແລະເພງທ້ອງຖິ່ນໄດ້.</string>
     <string name="local_media_grant">ໃຫ້ການເຂົ້າເຖິງ</string>
     <string name="library_settings_data_header"><![CDATA[ການຕັ້ງຄ່າ &amp; ຂໍ້ມູນ]]></string>
     <string name="library_manage_data_label">ຈັດການຂໍ້ມູນ</string>
@@ -220,7 +220,7 @@
     <string name="check_out_video_template">ກວດເບິ່ງວິດີໂອນີ້: %1$s\nhttps://youtube.com/watch?v=%2$s</string>
     <string name="share_link_only_template">https://youtube.com/watch?v=%1$s</string>
     <string name="check_out_short_template">ກວດເບິ່ງສັ້ນນີ້: %1$s\nhttps://youtube.com/shorts/%2$s</string>
-    <string name="link_not_supported">Flow ບໍ່ສາມາດເປີດລິ້ງປະເພດນີ້ໄດ້</string>
+    <string name="link_not_supported">ZenStream ບໍ່ສາມາດເປີດລິ້ງປະເພດນີ້ໄດ້</string>
     <string name="content_settings_share_without_text_title">ແບ່ງປັນລິ້ງໂດຍບໍ່ມີຂໍ້ຄວາມ</string>
     <string name="content_settings_share_without_text_subtitle">ແບ່ງປັນພຽງແຕ່ການເຊື່ອມຕໍ່ວິດີໂອ, ໂດຍບໍ່ມີການ \"ກວດເບິ່ງວິດີໂອນີ້\" ຂໍ້ຄວາມ</string>
     <string name="related_videos">ວິດີໂອທີ່ກ່ຽວຂ້ອງ</string>
@@ -231,7 +231,7 @@
     <string name="play_mode_suggestion_body">ວິດີໂອນີ້ມີຄວາມຍາວໜ້ອຍກວ່າ 2 ນາທີ. ທ່ານຕ້ອງການປ່ຽນເປັນເຄື່ອງຫຼິ້ນສະເພາະບໍ?</string>
     <string name="shorts_player">ຜູ້ນ Shorts</string>
     <string name="music_player">ເຄື່ອງຫຼິ້ນເພງ</string>
-    <string name="music_service_disabled">ດົນຕີບໍ່ສາມາດຫຼິ້ນໄດ້. ບໍລິການເພງຂອງ Flow ປິດຢູ່ໃນອຸປະກອນນີ້.</string>
+    <string name="music_service_disabled">ດົນຕີບໍ່ສາມາດຫຼິ້ນໄດ້. ບໍລິການເພງຂອງ ZenStream ປິດຢູ່ໃນອຸປະກອນນີ້.</string>
     <plurals name="channels_count">
         <item quantity="other">%d ຊ່ອງ</item>
     </plurals>
@@ -343,7 +343,7 @@
     <string name="new_update_available">ມີອັບເດດໃໝ່</string>
     <string name="update_available_template">%1$s ມີໃຫ້ແລ້ວ</string>
     <string name="release_notes">ບັນທຶກການປ່ອຍ</string>
-    <string name="update_flow">ອັບເດດ Flow</string>
+    <string name="update_flow">ອັບເດດ ZenStream</string>
     <string name="maybe_later">ບາງທີຕໍ່ມາ</string>
     <string name="nav_home">ໜ້າຫຼັກ</string>
     <string name="nav_shorts">Shorts</string>
@@ -450,7 +450,7 @@
     <string name="you">ເຈົ້າ</string>
     <string name="empty_downloads">ບໍ່ມີການດາວໂຫຼດເທື່ອ</string>
     <string name="downloads_recover_title">ຊອກຫາການດາວໂຫຼດຈາກການຕິດຕັ້ງກ່ອນໜ້ານີ້</string>
-    <string name="downloads_recover_body">Flow ບັນທຶກການດາວໂຫຼດໃນDownload/Flow ແລະMusic/Flow. ເພື່ອລາຍຊື່ໄຟລ໌ທີ່ຕິດຕັ້ງໄວ້ກ່ອນໜ້ານັ້ນ, ອະນຸຍາດໃຫ້ເຂົ້າເຖິງວິດີໂອ ແລະສຽງ.</string>
+    <string name="downloads_recover_body">ZenStream ບັນທຶກການດາວໂຫຼດໃນDownload/ZenStream ແລະMusic/ZenStream. ເພື່ອລາຍຊື່ໄຟລ໌ທີ່ຕິດຕັ້ງໄວ້ກ່ອນໜ້ານັ້ນ, ອະນຸຍາດໃຫ້ເຂົ້າເຖິງວິດີໂອ ແລະສຽງ.</string>
     <string name="downloads_recover_allow">ອະນຸຍາດໃຫ້ເຂົ້າເຖິງ</string>
     <string name="downloads_recover_dismiss">ບໍ່ແມ່ນດຽວນີ້</string>
     <plurals name="downloads_recovered_count">
@@ -641,14 +641,14 @@
     <string name="peace_and_quiet">ຄວາມສະຫງົບແລະງຽບ</string>
     <string name="notifications_empty_body">ເຈົ້າຖືກຈັບໝົດແລ້ວ! ການອັບເດດໃໝ່ຈາກການສະໝັກຮັບຊົມຂອງທ່ານຈະປາກົດຢູ່ບ່ອນນີ້.</string>
     <string name="settings_title">ການຕັ້ງຄ່າ</string>
-    <string name="settings_flow_engine_header">ເຄື່ອງຈັກ Flow</string>
+    <string name="settings_flow_engine_header">ເຄື່ອງຈັກ ZenStream</string>
     <string name="settings_active_learning">ການຮຽນຮູ້ຢ່າງຫ້າວຫັນ</string>
-    <string name="settings_reset_brain_title">ຣີເຊັດບຸກຄະລິກ Flow ບໍ?</string>
-    <string name="settings_reset_brain_body">ນີ້ຈະເປັນການລຶບໂປຣໄຟລ໌ Flow Brain ຂອງທ່ານ.\n\n• ຫົວຂໍ້ທີ່ຮຽນຮູ້ຖືກລືມ.\n• ປັບລັກສະນະບຸກຄະລິກກະພາບຄືນໃໝ່.\n• ການແນະນຳກັບຄືນສູ່ຄ່າເລີ່ມຕົ້ນ.\n\nອັນນີ້ບໍ່ສາມາດຍົກເລີກໄດ້.</string>
+    <string name="settings_reset_brain_title">ຣີເຊັດບຸກຄະລິກ ZenStream ບໍ?</string>
+    <string name="settings_reset_brain_body">ນີ້ຈະເປັນການລຶບໂປຣໄຟລ໌ ZenStream Brain ຂອງທ່ານ.\n\n• ຫົວຂໍ້ທີ່ຮຽນຮູ້ຖືກລືມ.\n• ປັບລັກສະນະບຸກຄະລິກກະພາບຄືນໃໝ່.\n• ການແນະນຳກັບຄືນສູ່ຄ່າເລີ່ມຕົ້ນ.\n\nອັນນີ້ບໍ່ສາມາດຍົກເລີກໄດ້.</string>
     <string name="settings_reset_everything">ຣີເຊັດທຸກຢ່າງ</string>
     <string name="settings_analyzing_interactions">ກຳລັງວິເຄາະການໂຕ້ຕອບຂອງທ່ານ...</string>
     <string name="settings_view_analytics">ເບິ່ງການວິເຄາະ</string>
-    <string name="deep_flow_mode_title">ໂຫມດ Flow ເລິກ</string>
+    <string name="deep_flow_mode_title">ໂຫມດ ZenStream ເລິກ</string>
     <string name="deep_flow_mode_subtitle">ຢຸດການຮຽນຮູ້ໃນຂະນະທີ່ທ່ານທ່ອງເວັບ</string>
     <string name="deep_flow_learning_paused">ຢຸດການຮຽນຮູ້ຊົ່ວຄາວ</string>
     <string name="deep_flow_expires_in">ໝົດອາຍຸໃນ %s</string>
@@ -656,18 +656,18 @@
     <string name="deep_flow_expire_duration_subtitle">ການຮຽນຮູ້ສືບຕໍ່ໂດຍອັດຕະໂນມັດຫຼັງຈາກ %s</string>
     <string name="deep_flow_save_history_title">ບັນທຶກເພື່ອເບິ່ງປະຫວັດ</string>
     <string name="deep_flow_save_history_subtitle">ຮັກສາປະຫວັດການເບິ່ງໂດຍບໍ່ມີການແນະນໍາການສອນ</string>
-    <string name="deep_flow_scrobble_title">Scrobble ໃນລະຫວ່າງການເລິກ Flow</string>
-    <string name="taste_learning_paused">Deep Flow ເປີດຢູ່, ການຮຽນຮູ້ຖືກຢຸດຊົ່ວຄາວ</string>
+    <string name="deep_flow_scrobble_title">Scrobble ໃນລະຫວ່າງການເລິກ ZenStream</string>
+    <string name="taste_learning_paused">Deep ZenStream ເປີດຢູ່, ການຮຽນຮູ້ຖືກຢຸດຊົ່ວຄາວ</string>
     <string name="deep_flow_scrobble_subtitle">ສືບຕໍ່ສົ່ງການຟັງ Last.fm, Libre.fm ແລະ ListenBrainz</string>
     <string name="deep_flow_on_search_title">ສະແດງຢູ່ໃນການຄົ້ນຫາ</string>
-    <string name="deep_flow_on_search_subtitle">ສະຫຼັບ Flow ເລິກກວ່າການຄົ້ນຫາທີ່ຜ່ານມາ</string>
-    <string name="deep_flow_long_press_hint">ກົດປຸ່ມ Flow ຄ້າງໄວ້ ຫຼືຊື່ຢູ່ໜ້າຫຼັກເພື່ອປ່ຽນ Deep Flow</string>
+    <string name="deep_flow_on_search_subtitle">ສະຫຼັບ ZenStream ເລິກກວ່າການຄົ້ນຫາທີ່ຜ່ານມາ</string>
+    <string name="deep_flow_long_press_hint">ກົດປຸ່ມ ZenStream ຄ້າງໄວ້ ຫຼືຊື່ຢູ່ໜ້າຫຼັກເພື່ອປ່ຽນ Deep ZenStream</string>
     <string name="deep_flow_dialog_title">ຢຸດໄລຍະເວລາ</string>
     <string name="deep_flow_dialog_body">ຄວນຢຸດການຮຽນຮູ້ດົນປານໃດ?</string>
-    <string name="deep_flow_enabled_message">Deep Flow ຖືກເປີດໃຊ້</string>
-    <string name="deep_flow_disabled_message">ເລິກ Flow ປິດການໃຊ້ງານ</string>
-    <string name="deep_flow_expired_message">ເຄື່ອງຈັບເວລາເລິກ Flow ສິ້ນສຸດລົງ</string>
-    <string name="deep_flow_active_until_disabled">Deep Flow ເຮັດວຽກຢູ່ຈົນກວ່າທ່ານຈະປິດມັນ</string>
+    <string name="deep_flow_enabled_message">Deep ZenStream ຖືກເປີດໃຊ້</string>
+    <string name="deep_flow_disabled_message">ເລິກ ZenStream ປິດການໃຊ້ງານ</string>
+    <string name="deep_flow_expired_message">ເຄື່ອງຈັບເວລາເລິກ ZenStream ສິ້ນສຸດລົງ</string>
+    <string name="deep_flow_active_until_disabled">Deep ZenStream ເຮັດວຽກຢູ່ຈົນກວ່າທ່ານຈະປິດມັນ</string>
     <string name="deep_flow_duration_never">ບໍ່ເຄີຍ</string>
     <string name="deep_flow_duration_1h">1 ຊົ່ວໂມງ</string>
     <string name="deep_flow_duration_2h">2 ຊົ່ວໂມງ</string>
@@ -685,7 +685,7 @@
     <string name="settings_header_about">ກ່ຽວກັບ</string>
     <string name="settings_header_notifications">ການແຈ້ງເຕືອນ</string>
     <string name="settings_item_notifications">ການຕັ້ງຄ່າການແຈ້ງເຕືອນ</string>
-    <string name="settings_item_notifications_subtitle">ຄວບຄຸມວ່າການແຈ້ງເຕືອນໃດ Flow ສາມາດສົ່ງໄດ້</string>
+    <string name="settings_item_notifications_subtitle">ຄວບຄຸມວ່າການແຈ້ງເຕືອນໃດ ZenStream ສາມາດສົ່ງໄດ້</string>
     <string name="notif_settings_title">ການຕັ້ງຄ່າການແຈ້ງເຕືອນ</string>
     <string name="notif_type_new_videos">ວິດີໂອໃໝ່</string>
     <string name="notif_type_new_videos_subtitle">ແຈ້ງການໃນເວລາທີ່ຊ່ອງທີ່ສະໝັກຮັບຊົມອັບໂຫລດວິດີໂອໃຫມ່</string>
@@ -696,22 +696,22 @@
     <string name="notif_type_reminders">ການແຈ້ງເຕືອນເວລາໜ້າຈໍ</string>
     <string name="notif_type_reminders_subtitle">ການແຈ້ງເຕືອນເວລານອນ ແລະເວລາພັກຜ່ອນຈາກການຈັດການເວລາ</string>
     <string name="notif_type_updates">ອັບເດດແອັບ</string>
-    <string name="notif_type_updates_subtitle">ຮັບການແຈ້ງເຕືອນເມື່ອມີ Flow ລຸ້ນໃໝ່</string>
+    <string name="notif_type_updates_subtitle">ຮັບການແຈ້ງເຕືອນເມື່ອມີ ZenStream ລຸ້ນໃໝ່</string>
     <string name="notif_type_general">ແຈ້ງການທົ່ວໄປ</string>
     <string name="notif_type_general_subtitle">ການແຈ້ງເຕືອນແລະການປະກາດ app ອື່ນໆ</string>
     <string name="notif_system_settings">ການຕັ້ງຄ່າການແຈ້ງເຕືອນລະບົບ</string>
     <string name="notif_system_settings_subtitle">ເປີດການຕັ້ງຄ່າ Android ເພື່ອຈັດການສິດອະນຸຍາດຕໍ່ຊ່ອງ</string>
     <string name="notif_check_interval_section_header">ຕາຕະລາງການກວດກາອາຫານ</string>
     <string name="notif_master_toggle">ເປີດໃຊ້ການແຈ້ງເຕືອນ</string>
-    <string name="notif_master_toggle_subtitle">ໃຫ້ Flow ກວດເບິ່ງວິດີໂອໃໝ່ໃນພື້ນຫຼັງ</string>
+    <string name="notif_master_toggle_subtitle">ໃຫ້ ZenStream ກວດເບິ່ງວິດີໂອໃໝ່ໃນພື້ນຫຼັງ</string>
     <string name="notif_background_restricted_title">ການກວດສອບພື້ນຫຼັງຖືກຈຳກັດ</string>
-    <string name="notif_background_restricted_subtitle">ບລັອກ Android ກວດສອບໃນຂະນະທີ່ Flow ປິດ. ແຕະເພື່ອອະນຸຍາດໃຫ້ມີການເຄື່ອນໄຫວໃນພື້ນຫຼັງ.</string>
+    <string name="notif_background_restricted_subtitle">ບລັອກ Android ກວດສອບໃນຂະນະທີ່ ZenStream ປິດ. ແຕະເພື່ອອະນຸຍາດໃຫ້ມີການເຄື່ອນໄຫວໃນພື້ນຫຼັງ.</string>
     <string name="notif_check_interval">ໄລຍະກວດສອບວິດີໂອໃໝ່</string>
     <string name="notif_check_interval_subtitle_template">ກວດເບິ່ງທຸກໆ %s</string>
     <string name="notif_check_interval_disabled">ການກວດສອບການແຈ້ງເຕືອນໃນພື້ນຫຼັງຖືກປິດໄວ້</string>
     <string name="notif_check_interval_off_new_videos">ປິດໃນຂະນະທີ່ວິດີໂອໃໝ່ປິດຢູ່</string>
     <string name="notif_check_interval_dialog_title">ກວດສອບໄລຍະຫ່າງ</string>
-    <string name="notif_check_interval_dialog_body">Flow ກວດເບິ່ງການສະໝັກສະມາຊິກຂອງທ່ານສຳລັບວິດີໂອໃໝ່ເລື້ອຍໆສໍ່າໃດ.</string>
+    <string name="notif_check_interval_dialog_body">ZenStream ກວດເບິ່ງການສະໝັກສະມາຊິກຂອງທ່ານສຳລັບວິດີໂອໃໝ່ເລື້ອຍໆສໍ່າໃດ.</string>
     <string name="notif_interval_15m">15 ນາທີ</string>
     <string name="notif_interval_30m">30 ນາທີ</string>
     <string name="notif_interval_1h">1 ຊົ່ວໂມງ</string>
@@ -748,17 +748,17 @@
     <string name="settings_item_export_data_subtitle">ສຳຮອງຂໍ້ມູນຂອງທ່ານ</string>
     <string name="settings_item_import_data">ຂໍ້ມູນນໍາເຂົ້າ</string>
     <string name="settings_item_import_data_subtitle">ຟື້ນຟູຈາກການສໍາຮອງຂໍ້ມູນຫຼືນໍາເຂົ້າຈາກແອັບຯອື່ນ</string>
-    <string name="settings_item_about_flow">ກ່ຽວກັບ Flow</string>
+    <string name="settings_item_about_flow">ກ່ຽວກັບ ZenStream</string>
     <string name="settings_item_about_flow_subtitle">ຮຸ່ນ, ໃບອະນຸຍາດ, ຜູ້ປະກອບສ່ວນ</string>
     <string name="settings_item_support">ການຊ່ວຍເຫຼືອ &amp; ການບໍລິຈາກ</string>
-    <string name="settings_item_support_subtitle">ຊ່ວຍສະຫນັບສະຫນູນການພັດທະນາຂອງ Flow</string>
+    <string name="settings_item_support_subtitle">ຊ່ວຍສະຫນັບສະຫນູນການພັດທະນາຂອງ ZenStream</string>
     <string name="settings_region_dialog_title">ເລືອກພາກພື້ນ</string>
     <string name="settings_language_dialog_title">ເລືອກ App Language</string>
     <string name="settings_language_system_default">ຄ່າເລີ່ມຕົ້ນຂອງລະບົບ</string>
     <string name="settings_export_success">ຂໍ້ມູນຖືກສົ່ງອອກສຳເລັດແລ້ວ</string>
     <string name="settings_export_failed">ການສົ່ງອອກລົ້ມເຫລວ: %1$s</string>
     <string name="appearance_title">ຮູບລັກສະນະ</string>
-    <string name="appearance_subtitle">ປັບແຕ່ງປະສົບການ Flow ຂອງທ່ານ</string>
+    <string name="appearance_subtitle">ປັບແຕ່ງປະສົບການ ZenStream ຂອງທ່ານ</string>
     <string name="appearance_current_theme">ຫົວຂໍ້ປັດຈຸບັນ</string>
     <string name="appearance_category_all">ທັງໝົດ</string>
     <string name="appearance_category_light">ແສງສະຫວ່າງ</string>
@@ -828,11 +828,11 @@
     <string name="appearance_system_light_theme">ຮູບແບບສີສັນແສງສະຫວ່າງ</string>
     <string name="appearance_system_dark_theme">ຮູບແບບສີສັນມືດ</string>
     <string name="app_icon_picker_subtitle">ເລືອກຮູບແບບໄອຄອນຕົວເປີດ. ການປ່ຽນແປງຈະມີຜົນໃນທັນທີ ແລະຕົວເປີດໃຊ້ຈະໂຫຼດຂໍ້ມູນຄືນໃໝ່ໄລຍະສັ້ນໆ.</string>
-    <string name="app_icon_picker_warning">ການປ່ຽນໄອຄອນອາດຈະເອົາ Flow ອອກຈາກໜ້າຈໍຫຼັກຂອງທ່ານຊົ່ວຄາວ. ເພີ່ມມັນຄືນຈາກລິ້ນຊັກແອັບຖ້າຈຳເປັນ.</string>
+    <string name="app_icon_picker_warning">ການປ່ຽນໄອຄອນອາດຈະເອົາ ZenStream ອອກຈາກໜ້າຈໍຫຼັກຂອງທ່ານຊົ່ວຄາວ. ເພີ່ມມັນຄືນຈາກລິ້ນຊັກແອັບຖ້າຈຳເປັນ.</string>
     <string name="app_icon_apply_toast">ອັບເດດໄອຄອນ - ຕົວເປີດໃຊ້ຂອງທ່ານຈະໂຫຼດຂໍ້ມູນຄືນໃໝ່</string>
-    <string name="icon_name_flow_red">Flow ສີແດງ</string>
-    <string name="icon_name_flow_light">Flow ແສງ</string>
-    <string name="icon_name_flow_play">Flow ຫຼິ້ນ</string>
+    <string name="icon_name_flow_red">ZenStream ສີແດງ</string>
+    <string name="icon_name_flow_light">ZenStream ແສງ</string>
+    <string name="icon_name_flow_play">ZenStream ຫຼິ້ນ</string>
     <string name="icon_name_amoled">AMOLED ມືດ</string>
     <string name="icon_name_monochrome">ໂມໂນໂຄມ</string>
     <string name="icon_name_ghost">ຜີ</string>
@@ -983,8 +983,8 @@
     <string name="theme_desc_sky_blue">ແຖບແສງສະຫວ່າງ, ອາກາດທີ່ມີສີຟ້າສີຟ້າເປີດ.</string>
     <string name="theme_name_cream_paper">ເຈ້ຍສີຄີມ</string>
     <string name="theme_desc_cream_paper">ສຽງເຈ້ຍທີ່ອົບອຸ່ນສໍາລັບການອ່ານໃນຕອນກາງເວັນທີ່ສະດວກສະບາຍ.</string>
-    <string name="theme_name_classic_dark">Flow ຄ່າເລີ່ມຕົ້ນ</string>
-    <string name="theme_desc_classic_dark">palette Flow ຕົ້ນສະບັບທີ່ມີການອອກສຽງສີແດງ YouTube.</string>
+    <string name="theme_name_classic_dark">ZenStream ຄ່າເລີ່ມຕົ້ນ</string>
+    <string name="theme_desc_classic_dark">palette ZenStream ຕົ້ນສະບັບທີ່ມີການອອກສຽງສີແດງ YouTube.</string>
     <string name="theme_name_true_black">ສີດໍາທີ່ແທ້ຈິງ</string>
     <string name="theme_desc_true_black">OLED ອັນບໍລິສຸດ</string>
     <string name="theme_name_monochrome">ໂມໂນໂຄມ</string>
@@ -1100,9 +1100,9 @@
     <string name="content_settings_home_subscriptions_subtitle">ປະສົມວິດີໂອຈາກຊ່ອງທີ່ທ່ານຕິດຕາມເຂົ້າໄປໃນຫນ້າທໍາອິດ</string>
     <string name="settings_section_watch_history">ປະຫວັດການເບິ່ງ</string>
     <string name="pause_watch_history_title">ຢຸດປະຫວັດການເບິ່ງຊົ່ວຄາວ</string>
-    <string name="pause_watch_history_subtitle">ຢຸດບັນທຶກສິ່ງທີ່ທ່ານເບິ່ງ. Deep Flow ຍັງຢຸດການຮຽນຮູ້ຊົ່ວຄາວ</string>
+    <string name="pause_watch_history_subtitle">ຢຸດບັນທຶກສິ່ງທີ່ທ່ານເບິ່ງ. Deep ZenStream ຍັງຢຸດການຮຽນຮູ້ຊົ່ວຄາວ</string>
     <string name="content_settings_show_app_logo_title">ສະແດງໄອຄອນໂລໂກ້ແອັບ</string>
-    <string name="content_settings_show_app_logo_subtitle">ສະແດງໂລໂກ້ Flow ໃນແຖບເທິງສຸດຂອງຫນ້າທໍາອິດ</string>
+    <string name="content_settings_show_app_logo_subtitle">ສະແດງໂລໂກ້ ZenStream ໃນແຖບເທິງສຸດຂອງຫນ້າທໍາອິດ</string>
     <string name="content_settings_header_shorts">Shorts</string>
     <string name="content_settings_shorts_content_title">ສະແດງ Shorts</string>
     <string name="content_settings_shorts_content_subtitle">ເຊື່ອງ Shorts ຢູ່ທົ່ວທຸກແຫ່ງ. ບັນທຶກ Shorts ແລະປະຫວັດຈະຖືກເກັບຮັກສາໄວ້.</string>
@@ -1156,7 +1156,7 @@
     <string name="content_settings_subs_collaborations_title">ການຮ່ວມມື</string>
     <string name="content_settings_subs_collaborations_subtitle">ວິດີໂອທີ່ສ້າງຂຶ້ນດ້ວຍຊ່ອງທີ່ທ່ານຕິດຕາມ</string>
     <string name="content_settings_nav_order_title">ລຳດັບແຖບ ແລະຄ່າເລີ່ມຕົ້ນ</string>
-    <string name="content_settings_nav_order_subtitle">ລາກເພື່ອຈັດຮຽງໃໝ່. ເລືອກແຖບ Flow ເປີດ.</string>
+    <string name="content_settings_nav_order_subtitle">ລາກເພື່ອຈັດຮຽງໃໝ່. ເລືອກແຖບ ZenStream ເປີດ.</string>
     <string name="settings_subs_shorts_shelf_title">ຊັ້ນວາງຂາສັ້ນການສະໝັກສະມາຊິກ</string>
     <string name="settings_subs_shorts_shelf_subtitle">ສະແດງຊັ້ນວາງ Shorts ໃນຟີດການສະໝັກຮັບຊົມ</string>
     <string name="settings_home_shorts_shelf_title">ຊັ້ນວາງໂສ້ງຂາສັ້ນໃນໜ້າຈໍຫຼັກ</string>
@@ -1221,8 +1221,8 @@
     <string name="player_settings_background_play">ການຫຼິ້ນໃນພື້ນຫຼັງ</string>
     <string name="pip_listen_in_background">ຟັງໃນພື້ນຫຼັງ</string>
     <string name="player_settings_background_play_subtitle">ສືບຕໍ່ຫຼິ້ນເມື່ອແອັບຢູ່ໃນພື້ນຫຼັງ</string>
-    <string name="player_settings_keep_playing_after_swipe">ສືບຕໍ່ຫຼິ້ນຫຼັງຈາກປິດ Flow</string>
-    <string name="player_settings_keep_playing_after_swipe_subtitle">ການຫຼິ້ນຈະສືບຕໍ່ເມື່ອທ່ານປັດ Flow ອອກຈາກແອັບທີ່ຜ່ານມາ</string>
+    <string name="player_settings_keep_playing_after_swipe">ສືບຕໍ່ຫຼິ້ນຫຼັງຈາກປິດ ZenStream</string>
+    <string name="player_settings_keep_playing_after_swipe_subtitle">ການຫຼິ້ນຈະສືບຕໍ່ເມື່ອທ່ານປັດ ZenStream ອອກຈາກແອັບທີ່ຜ່ານມາ</string>
     <string name="player_settings_shorts_background_play">ການຫຼິ້ນໃນພື້ນຫຼັງ Shorts</string>
     <string name="player_settings_shorts_background_play_subtitle">ສືບຕໍ່ຫຼິ້ນ Shorts ເມື່ອແອັບຢູ່ໃນພື້ນຫຼັງ</string>
     <string name="player_settings_shorts_pip">Shorts ຮູບພາບໃນຮູບ</string>
@@ -1359,14 +1359,14 @@
     <string name="player_settings_audio_original_desc">ໃຊ້ແທຣັກສຽງເດີມຂອງວິດີໂອ</string>
     <string name="player_settings_subtitle_language">ພາສາຍ່ອຍທີ່ຕ້ອງການ</string>
     <string name="player_settings_subtitle_language_dialog_title">ພາສາຍ່ອຍ</string>
-    <string name="player_settings_subtitle_language_dialog_body">ຄຳບັນຍາຍເປີດເປັນພາສານີ້ເມື່ອມີໃຫ້. ຖ້າບໍ່ດັ່ງນັ້ນ Flow ແປເພງທີ່ມີຢູ່ແລ້ວ.</string>
+    <string name="player_settings_subtitle_language_dialog_body">ຄຳບັນຍາຍເປີດເປັນພາສານີ້ເມື່ອມີໃຫ້. ຖ້າບໍ່ດັ່ງນັ້ນ ZenStream ແປເພງທີ່ມີຢູ່ແລ້ວ.</string>
     <string name="player_settings_subtitle_language_none">ບໍ່ມັກ</string>
     <string name="player_settings_subtitle_language_none_desc">ໃຊ້ຄໍາບັນຍາຍທໍາອິດຕິດຕາມການສະເຫນີວິດີໂອ</string>
     <string name="player_settings_auto_enable_subtitles">ເປີດຄຳບັນຍາຍອັດຕະໂນມັດ</string>
     <string name="player_settings_auto_enable_subtitles_subtitle">ເປີດໃຊ້ຄຳບັນຍາຍໃນພາສາທີ່ທ່ານຕ້ອງການ</string>
     <string name="player_settings_video_codec">ຕົວແປງສັນຍານວິດີໂອເລີ່ມຕົ້ນ</string>
     <string name="player_settings_video_codec_dialog_title">ຕົວແປງສັນຍານວິດີໂອເລີ່ມຕົ້ນ</string>
-    <string name="player_settings_video_codec_dialog_body">ຕົວແປງສັນຍານ Flow ເລືອກກ່ອນ. ທ່ານຍັງສາມາດເລືອກຕົວແປງສັນຍານໃດໆຈາກເມນູຄຸນນະພາບ. H.264 ຫຼິ້ນໄດ້ກ້ຽງທີ່ສຸດໃນອຸປະກອນສ່ວນໃຫຍ່. AV1 ແລະ VP9 ໃຊ້ຂໍ້ມູນໜ້ອຍກວ່າ ແຕ່ຕ້ອງການພະລັງງານຫຼາຍ.</string>
+    <string name="player_settings_video_codec_dialog_body">ຕົວແປງສັນຍານ ZenStream ເລືອກກ່ອນ. ທ່ານຍັງສາມາດເລືອກຕົວແປງສັນຍານໃດໆຈາກເມນູຄຸນນະພາບ. H.264 ຫຼິ້ນໄດ້ກ້ຽງທີ່ສຸດໃນອຸປະກອນສ່ວນໃຫຍ່. AV1 ແລະ VP9 ໃຊ້ຂໍ້ມູນໜ້ອຍກວ່າ ແຕ່ຕ້ອງການພະລັງງານຫຼາຍ.</string>
     <string name="player_settings_video_codec_auto_desc">ໃຫ້ແອັບຯເລືອກ (ມັກ H.264)</string>
     <string name="player_settings_video_codec_fallback">Fallback Codec</string>
     <string name="player_settings_video_codec_fallback_auto">ອັດຕະໂນມັດ</string>
@@ -1460,7 +1460,7 @@
     <string name="cache_videos_size_title">ຂະຫນາດແຄດວິດີໂອ</string>
     <string name="cache_songs_size_title">ຂະຫນາດ cache ເພງ</string>
     <string name="cache_artwork_size_title">ຂະໜາດແຄດຂອງ Artwork</string>
-    <string name="cache_size_applies_on_restart">ນຳໃຊ້ຄັ້ງຕໍ່ໄປ Flow ເລີ່ມ.</string>
+    <string name="cache_size_applies_on_restart">ນຳໃຊ້ຄັ້ງຕໍ່ໄປ ZenStream ເລີ່ມ.</string>
     <string name="btn_back">ກັບຄືນໄປບ່ອນ</string>
     <string name="back">ກັບຄືນໄປບ່ອນ</string>
     <string name="btn_close">ປິດ</string>
@@ -1522,7 +1522,7 @@
     <string name="delete_selected">ລຶບທີ່ເລືອກ</string>
     <string name="time_management_title">ການຄຸ້ມຄອງເວລາ</string>
     <string name="time_management_subtitle">ຕິດຕາມແລະຄວບຄຸມເວລາຫນ້າຈໍຂອງທ່ານ</string>
-    <string name="stats_disclaimer">ອີງຕາມປະຫວັດການເບິ່ງຂອງທ່ານໃນ Flow. ການນໍາໃຊ້ຕົວຈິງອາດຈະແຕກຕ່າງກັນ.</string>
+    <string name="stats_disclaimer">ອີງຕາມປະຫວັດການເບິ່ງຂອງທ່ານໃນ ZenStream. ການນໍາໃຊ້ຕົວຈິງອາດຈະແຕກຕ່າງກັນ.</string>
     <string name="tools_to_manage_time">ເຄື່ອງມືໃນການຄຸ້ມຄອງເວລາຂອງທ່ານ</string>
     <string name="remind_bedtime">ເຕືອນຂ້ອຍເມື່ອເວລານອນ</string>
     <string name="start_time">ເວລາເລີ່ມຕົ້ນ</string>
@@ -1609,12 +1609,12 @@
         <item quantity="other">%1$d ມື້</item>
     </plurals>
     <string name="import_data_title">ຂໍ້ມູນນໍາເຂົ້າ</string>
-    <string name="import_flow_backup_success">ການສຳຮອງຂໍ້ມູນ Flow ນຳເຂົ້າສຳເລັດແລ້ວ</string>
-    <string name="import_flow_backup_failed_template">ລົ້ມເຫລວໃນການນໍາເຂົ້າຂໍ້ມູນສຳຮອງ Flow: %1$s</string>
+    <string name="import_flow_backup_success">ການສຳຮອງຂໍ້ມູນ ZenStream ນຳເຂົ້າສຳເລັດແລ້ວ</string>
+    <string name="import_flow_backup_failed_template">ລົ້ມເຫລວໃນການນໍາເຂົ້າຂໍ້ມູນສຳຮອງ ZenStream: %1$s</string>
     <string name="import_newpipe_failed_template">ການນຳເຂົ້າການສຳຮອງຂໍ້ມູນ NewPipe ລົ້ມເຫລວ: %1$s</string>
     <string name="import_youtube_failed_template">ລົ້ມເຫລວໃນການນໍາເຂົ້າຂໍ້ມູນສຳຮອງ YouTube: %1$s</string>
-    <string name="import_flow_backup_item_title">ນຳເຂົ້າ Flow Backup</string>
-    <string name="import_flow_backup_desc">ກູ້ຄືນປະຫວັດ, ການຕັ້ງຄ່າ ແລະການສະໝັກຮັບຊົມຂອງທ່ານຈາກໄຟລ໌ສຳຮອງ Flow.</string>
+    <string name="import_flow_backup_item_title">ນຳເຂົ້າ ZenStream Backup</string>
+    <string name="import_flow_backup_desc">ກູ້ຄືນປະຫວັດ, ການຕັ້ງຄ່າ ແລະການສະໝັກຮັບຊົມຂອງທ່ານຈາກໄຟລ໌ສຳຮອງ ZenStream.</string>
     <string name="import_from_newpipe">ນໍາເຂົ້າຈາກ NewPipe</string>
     <string name="import_from_newpipe_desc">ນຳເຂົ້າການສະໝັກຮັບຊົມຈາກໄຟລ໌ສົ່ງອອກ NewPipe (JSON).</string>
     <string name="import_from_libretube">ນຳເຂົ້າຈາກ LibreTube</string>
@@ -1730,10 +1730,10 @@
     <string name="location_dialog_subtitle">ເລືອກບ່ອນທີ່ໄຟລ໌ທີ່ດາວໂຫລດຖືກບັນທຶກໄວ້ໃນອຸປະກອນຂອງທ່ານ.</string>
     <string name="location_preset_header">ສະຖານທີ່ຕັ້ງລ່ວງໜ້າ</string>
     <string name="location_custom_header">ສະຖານທີ່ກຳນົດເອງ</string>
-    <string name="location_downloads_label">ດາວໂຫຼດ / Flow</string>
-    <string name="location_movies_label">ຮູບເງົາ / Flow</string>
+    <string name="location_downloads_label">ດາວໂຫຼດ / ZenStream</string>
+    <string name="location_movies_label">ຮູບເງົາ / ZenStream</string>
     <string name="location_internal_app_label">ບ່ອນຈັດເກັບຂໍ້ມູນແອັບພາຍໃນ</string>
-    <string name="location_internal_app_desc">ສ່ວນຕົວກັບ Flow. ເອົາອອກຖ້າທ່ານຖອນການຕິດຕັ້ງ.</string>
+    <string name="location_internal_app_desc">ສ່ວນຕົວກັບ ZenStream. ເອົາອອກຖ້າທ່ານຖອນການຕິດຕັ້ງ.</string>
     <string name="location_custom_saf_label">ຊອກຫາ…</string>
     <string name="location_custom_saf_desc">ເລືອກໂຟນເດີໃດກໍໄດ້ໂດຍໃຊ້ຕົວເລືອກໄຟລ໌ລະບົບ</string>
     <string name="download_location_not_writable">ບໍ່ສາມາດບັນທຶກຢູ່ທີ່ນັ້ນໄດ້. ໃຊ້ %1$s</string>
@@ -1749,15 +1749,15 @@
         <item quantity="other">%1$d ກະທູ້</item>
     </plurals>
     <string name="support_donations_title">ການຊ່ວຍເຫຼືອ &amp; ການບໍລິຈາກ</string>
-    <string name="support_flow_dev_title">ສະຫນັບສະຫນູນການພັດທະນາ Flow</string>
-    <string name="support_flow_dev_desc">ຖ້າ Flow ເປັນປະໂຫຍດສໍາລັບທ່ານ, ທ່ານສາມາດສະຫນັບສະຫນູນມັນຢູ່ໃນ Open Collective, Patreon ຫຼືດ້ວຍ crypto ຂ້າງລຸ່ມນີ້. ຂອບໃຈ!</string>
-    <string name="support_flow_open_collective">ຮອງຮັບ Flow ໃນ Open Collective</string>
-    <string name="support_flow_patreon">ຮອງຮັບ Flow ໃນ Patreon</string>
+    <string name="support_flow_dev_title">ສະຫນັບສະຫນູນການພັດທະນາ ZenStream</string>
+    <string name="support_flow_dev_desc">ຖ້າ ZenStream ເປັນປະໂຫຍດສໍາລັບທ່ານ, ທ່ານສາມາດສະຫນັບສະຫນູນມັນຢູ່ໃນ Open Collective, Patreon ຫຼືດ້ວຍ crypto ຂ້າງລຸ່ມນີ້. ຂອບໃຈ!</string>
+    <string name="support_flow_open_collective">ຮອງຮັບ ZenStream ໃນ Open Collective</string>
+    <string name="support_flow_patreon">ຮອງຮັບ ZenStream ໃນ Patreon</string>
     <string name="thank_you_support_message">ຂອບໃຈສໍາລັບການສະຫນັບສະຫນູນຂອງທ່ານ! ❤️</string>
     <string name="address_copied_toast">ສຳເນົາທີ່ຢູ່ໃສ່ຄລິບບອດແລ້ວ</string>
     <string name="donation_address_clip_label">ທີ່ຢູ່ການບໍລິຈາກ</string>
-    <string name="donation_prompt_title">ເພີດເພີນໄປກັບ Flow ບໍ?</string>
-    <string name="donation_prompt_message">Flow ແມ່ນບໍ່ເສຍຄ່າ, ເປີດແຫຼ່ງ ແລະບໍ່ມີໂຄສະນາ. ຖ້າຫາກວ່າມັນໄດ້ຮັບຈຸດໃນໂທລະສັບຂອງທ່ານ, ການສະຫນັບສະຫນູນພຽງເລັກນ້ອຍເຮັດໃຫ້ມັນດໍາເນີນການ.</string>
+    <string name="donation_prompt_title">ເພີດເພີນໄປກັບ ZenStream ບໍ?</string>
+    <string name="donation_prompt_message">ZenStream ແມ່ນບໍ່ເສຍຄ່າ, ເປີດແຫຼ່ງ ແລະບໍ່ມີໂຄສະນາ. ຖ້າຫາກວ່າມັນໄດ້ຮັບຈຸດໃນໂທລະສັບຂອງທ່ານ, ການສະຫນັບສະຫນູນພຽງເລັກນ້ອຍເຮັດໃຫ້ມັນດໍາເນີນການ.</string>
     <string name="donation_prompt_methods">Open Collective · Patreon · Bitcoin · Ethereum · Solana · USDT · Monero</string>
     <string name="donation_prompt_support">ສະຫນັບສະຫນູນການພັດທະນາ</string>
     <string name="donation_prompt_later">ບາງທີຕໍ່ມາ</string>
@@ -1776,7 +1776,7 @@
     <string name="about_notices_summary">ລາຍຊື່ຄໍາແລະລະຫັດຈາກໂຄງການອື່ນໆ</string>
     <string name="about_license_name">GNU GPL v3</string>
     <string name="about_changelog">ບັນທຶກການປ່ຽນແປງ</string>
-    <string name="whats_new_in_flow">ມີຫຍັງໃໝ່ໃນ Flow</string>
+    <string name="whats_new_in_flow">ມີຫຍັງໃໝ່ໃນ ZenStream</string>
     <string name="about_device_info">ຂໍ້ມູນອຸປະກອນ</string>
     <string name="gnu_license_full_title">ໃບອະນຸຍາດສາທາລະນະທົ່ວໄປ GNU</string>
     <string name="loading_ellipsis">ກຳລັງໂຫລດ...</string>
@@ -1830,7 +1830,7 @@
     </plurals>
     <string name="remove_selected_playlist_text">ພວກມັນຈະຖືກລຶບອອກຈາກລາຍການຫຼິ້ນນີ້.</string>
     <string name="remove_selected_watch_later_text">ພວກມັນຈະຖືກລຶບອອກຈາກເບິ່ງໃນພາຍຫຼັງ.</string>
-    <string name="welcome_to_flow">ຍິນດີຕ້ອນຮັບສູ່ Flow</string>
+    <string name="welcome_to_flow">ຍິນດີຕ້ອນຮັບສູ່ ZenStream</string>
     <string name="onboarding_subtitle">ບອກພວກເຮົາສິ່ງທີ່ທ່ານສົນໃຈ</string>
     <string name="onboarding_instructions">ເລືອກຢ່າງໜ້ອຍ 3 ຫົວຂໍ້ເພື່ອປັບແຕ່ງປະສົບການຂອງທ່ານ</string>
     <string name="onboarding_interests_title">ເຈົ້າມັກຫຍັງ?</string>
@@ -1867,7 +1867,7 @@
     <string name="onboarding_step_interests">ຄວາມສົນໃຈ</string>
     <string name="onboarding_step_channels">ຊ່ອງ</string>
     <string name="onboarding_step_import">ນໍາເຂົ້າ</string>
-    <string name="onboarding_import_source_flow">ສຳຮອງຂໍ້ມູນ Flow</string>
+    <string name="onboarding_import_source_flow">ສຳຮອງຂໍ້ມູນ ZenStream</string>
     <string name="onboarding_import_source_youtube">YouTube</string>
     <string name="onboarding_import_footnote">ທຸກສິ່ງທຸກຢ່າງຢູ່ທີ່ນີ້ແມ່ນທາງເລືອກ. ການຕັ້ງຄ່າມີການນໍາເຂົ້າຄືກັນ.</string>
     <string name="onboarding_import_done">ນໍາເຂົ້າ</string>
@@ -1889,7 +1889,7 @@
     <plurals name="onboarding_pick_more">
         <item quantity="other">ເລືອກ %d ເພີ່ມເຕີມ</item>
     </plurals>
-    <string name="onboarding_welcome_title">ເຮັດໃຫ້ Flow ຂອງທ່ານ</string>
+    <string name="onboarding_welcome_title">ເຮັດໃຫ້ ZenStream ຂອງທ່ານ</string>
     <string name="onboarding_welcome_subtitle">ວິດີໂອ ແລະດົນຕີອ້ອມຮອບສິ່ງທີ່ທ່ານມັກ. ການຕັ້ງຄ່າໃຊ້ເວລານາທີ.</string>
     <string name="onboarding_alerts_title">ບໍ່ພາດການອັບໂຫຼດ</string>
     <string name="onboarding_alerts_subtitle">ແຈ້ງເຕືອນເມື່ອຊ່ອງຂອງເຈົ້າໂພສ.</string>
@@ -1924,7 +1924,7 @@
     <string name="category_creative">ສ້າງສັນ</string>
     <string name="category_science_nature">ວິທະຍາສາດ &amp; ທໍາມະຊາດ</string>
     <string name="category_news_current_events">ຂ່າວ &amp; ເຫດການປະຈຸບັນ</string>
-    <string name="flow_control_center">ສູນຄວບຄຸມ Flow</string>
+    <string name="flow_control_center">ສູນຄວບຄຸມ ZenStream</string>
     <string name="action_refresh">ໂຫຼດຂໍ້ມູນຄືນໃໝ່</string>
     <string name="loading_neural_matrix">ກຳລັງໂຫຼດ Neural Matrix...</string>
     <string name="neural_interest_map_subtitle">ແຜນທີ່ຄວາມສົນໃຈ neural ຂອງທ່ານ</string>
@@ -1939,7 +1939,7 @@
     <string name="persona_initiate_title">ການລິເລີ່ມ</string>
     <string name="persona_initiate_description">ພຽງແຕ່ເລີ່ມຕົ້ນ. ໂປຣໄຟລ໌ຂອງເຈົ້າຍັງຖືກສ້າງຂື້ນຢູ່.</string>
     <string name="persona_audiophile_title">The Audiophile</string>
-    <string name="persona_audiophile_description">ທ່ານໃຊ້ Flow ສ່ວນໃຫຍ່ສໍາລັບດົນຕີ. vibe ແມ່ນທຸກສິ່ງທຸກຢ່າງ.</string>
+    <string name="persona_audiophile_description">ທ່ານໃຊ້ ZenStream ສ່ວນໃຫຍ່ສໍາລັບດົນຕີ. vibe ແມ່ນທຸກສິ່ງທຸກຢ່າງ.</string>
     <string name="persona_livewire_title">The Livewire</string>
     <string name="persona_livewire_description">ທ່ານມັກພະລັງງານດິບຂອງການຖ່າຍທອດສົດ ແລະ ການສາຍຮອບປະຖົມມະທັດ.</string>
     <string name="persona_night_owl_title">ນົກຮູກກາງຄືນ</string>
@@ -1968,7 +1968,7 @@
     <string name="stats_topics">ຫົວຂໍ້</string>
     <string name="empty_bubble_cloud_message">ເບິ່ງວິດີໂອເພື່ອຕື່ມຂໍ້ມູນໃສ່ nebula ຄວາມສົນໃຈຂອງເຈົ້າ!</string>
     <string name="export_profile_data">ສົ່ງອອກຂໍ້ມູນໂປຣໄຟລ໌</string>
-    <string name="flow_neural_profile_export_subject">Flow ການສົ່ງອອກໂປຣໄຟລ໌ neural</string>
+    <string name="flow_neural_profile_export_subject">ZenStream ການສົ່ງອອກໂປຣໄຟລ໌ neural</string>
     <string name="screen_title_music_library">ຫໍສະໝຸດດົນຕີ</string>
     <string name="header_your_collection">ຄໍເລັກຊັນຂອງທ່ານ</string>
     <string name="subtitle_liked_music">ເພງທີ່ທ່ານມັກ</string>
@@ -2064,7 +2064,7 @@
     <string name="settings_resume_from_headphones_title">ສືບຕໍ່ຈາກຫູຟັງ</string>
     <string name="settings_resume_from_headphones_summary">ປຸ່ມຫຼິ້ນຢູ່ໃນຫູຟັງຈະເປີດເພງສຸດທ້າຍຂອງທ່ານຄືນໃໝ່</string>
     <string name="playback_background_restricted_title">ການເຄື່ອນໄຫວໃນພື້ນຫຼັງຖືກຈຳກັດ</string>
-    <string name="playback_background_restricted_subtitle">ໂທລະສັບຂອງທ່ານອາດຈະຢຸດ Flow ເມື່ອທ່ານປັດມັນອອກໄປ. ແຕະເພື່ອອະນຸຍາດໃຫ້ມັນ.</string>
+    <string name="playback_background_restricted_subtitle">ໂທລະສັບຂອງທ່ານອາດຈະຢຸດ ZenStream ເມື່ອທ່ານປັດມັນອອກໄປ. ແຕະເພື່ອອະນຸຍາດໃຫ້ມັນ.</string>
     <string name="settings_music_side_swipes_title">ຄວາມໄວ ແລະລະດັບສຽງ swipes</string>
     <string name="settings_music_side_swipes_summary">ປັດຊ້າຍເພື່ອຄວາມໄວ, ຂວາສໍາລັບປະລິມານ</string>
     <string name="music_watch_video_desc">ເປີດວິດີໂອເພງໃນຜູ້ນວິດີໂອໄດ້</string>
@@ -2238,7 +2238,7 @@
     <string name="eq_bass_boost">ເພີ່ມສຽງເບດ</string>
     <string name="eq_edit">ແກ້ໄຂຄວາມສະເໝີພາບ</string>
     <string name="eq_system">ຄວາມສະເໝີພາບຂອງລະບົບ</string>
-    <string name="eq_system_desc">ເພີ່ມໃສ່ຕົວສະເໝີກັນຂອງ Flow</string>
+    <string name="eq_system_desc">ເພີ່ມໃສ່ຕົວສະເໝີກັນຂອງ ZenStream</string>
     <string name="eq_graph_description">ເສັ້ນໂຄ້ງການຕອບສະໜອງ, %1$d ແຖບ. ລາກຈຸດເພື່ອປ່ຽນມັນ.</string>
     <string name="eq_graph_hint">ແຕະເສັ້ນໂຄ້ງເພື່ອເພີ່ມແຖບ</string>
     <string name="eq_name">ຊື່</string>
@@ -2361,7 +2361,7 @@
     <string name="download_menu_style_compact_desc">ຫົວຂໍ້ທີ່ສາມາດແກ້ໄຂໄດ້, dropdowns ແລະການນັບ threads</string>
     <string name="download_ask_every_time_title">ຖາມທຸກຄັ້ງ</string>
     <string name="download_ask_every_time_summary">ເມື່ອປິດ, ການດາວໂຫຼດຈະໃຊ້ຄຸນນະພາບການດາວໂຫຼດຂອງທ່ານ</string>
-    <string name="share_download_with_flow">ດາວໂຫລດດ້ວຍ Flow</string>
+    <string name="share_download_with_flow">ດາວໂຫລດດ້ວຍ ZenStream</string>
     <string name="share_download_not_a_video">ມີພຽງແຕ່ວິດີໂອທີ່ສາມາດດາວໂຫຼດໄດ້ຈາກລິ້ງທີ່ແບ່ງປັນ</string>
     <string name="downloads_storage_card_title">ສະຫຼຸບການເກັບຮັກສາ</string>
     <string name="downloads_storage_card_summary">ສະແດງໃຫ້ເຫັນພື້ນທີ່ທີ່ໃຊ້ແລະຟຣີຢູ່ດ້ານເທິງຂອງການດາວໂຫຼດ</string>
@@ -2418,7 +2418,7 @@
     <string name="subtitle_timing_step_template">%1$s s</string>
     <string name="download_subtitle_file">ໄຟລ໌ຄໍາບັນຍາຍ</string>
     <string name="download_subtitle_file_subtitle">ບັນທຶກຄຳບັນຍາຍເປັນພາສາຄຳບັນຍາຍຂອງທ່ານຢູ່ຂ້າງວິດີໂອທີ່ດາວໂຫຼດມາໂດຍບໍ່ມີເມນູ</string>
-    <string name="subtitle_add_file_failed">Flow ບໍ່ສາມາດອ່ານໄຟລ໌ນັ້ນເປັນຄໍາບັນຍາຍໄດ້</string>
+    <string name="subtitle_add_file_failed">ZenStream ບໍ່ສາມາດອ່ານໄຟລ໌ນັ້ນເປັນຄໍາບັນຍາຍໄດ້</string>
     <string name="off">ປິດ</string>
     <string name="on">ສຸດ</string>
     <string name="player_settings">ການຕັ້ງຄ່າຜູ້ນ</string>
@@ -2463,13 +2463,13 @@
     <string name="check_for_updates">ກວດສອບການອັບເດດ</string>
     <string name="check_for_updates_subtitle">ແຕະເພື່ອກວດເບິ່ງເວີຊັນຫຼ້າສຸດ</string>
     <string name="checking_for_updates">ກຳລັງກວດສອບການອັບເດດ…</string>
-    <string name="flow_is_up_to_date">Flow ແມ່ນອັບເດດແລ້ວ!</string>
+    <string name="flow_is_up_to_date">ZenStream ແມ່ນອັບເດດແລ້ວ!</string>
     <string name="update_check_failed">ບໍ່ສາມາດກວດສອບການອັບເດດໄດ້. ກວດເບິ່ງການເຊື່ອມຕໍ່ຂອງທ່ານ.</string>
     <string name="export_engine_data">ສົ່ງອອກໂປຣໄຟລ໌ເຄື່ອງຈັກ</string>
     <string name="export_engine_data_subtitle">ສຳຮອງຂໍ້ມູນບຸກຄະລິກກະພາບ AI ແລະການຮຽນຮູ້ຂອງທ່ານ</string>
     <string name="export_engine_success">ສົ່ງອອກໂປຣໄຟລ໌ເຄື່ອງຈັກສຳເລັດແລ້ວ</string>
     <string name="export_engine_failed">ລົ້ມເຫລວໃນການສົ່ງອອກໂປຣໄຟລ໌ເຄື່ອງຈັກ</string>
-    <string name="import_engine_data">ນຳເຂົ້າ Flow Engine Data</string>
+    <string name="import_engine_data">ນຳເຂົ້າ ZenStream Engine Data</string>
     <string name="import_engine_data_desc">ກູ້ຄືນໂປຣໄຟລ໌ບຸກຄະລິກກະພາບ AI ຂອງທ່ານຈາກໄຟລ໌ສຳຮອງ</string>
     <string name="import_engine_success">ຟື້ນຟູໂປຣໄຟລ໌ເຄື່ອງຈັກສຳເລັດແລ້ວ</string>
     <string name="import_engine_failed">ລົ້ມເຫລວໃນການນໍາເຂົ້າໂປຣໄຟລ໌ເຄື່ອງຈັກ</string>
@@ -2514,16 +2514,16 @@
     <string name="linked_consent_ask">ຖາມແຕ່ລະຄັ້ງ</string>
     <string name="linked_consent_allowed">ອະນຸຍາດ</string>
     <string name="linked_consent_declined">ບໍ່ອະນຸຍາດ</string>
-    <string name="linked_intro">ຮັກສາອຸປະກອນນີ້ໃຫ້ຢູ່ໃນການຊິງຄ໌ກັບອຸປະກອນອື່ນຂອງທ່ານຜ່ານເຊີບເວີການຊິງຄ໌ Flow ຂອງທ່ານເອງ, ໂຟນເດີ WebDAV, ຫຼືເຄືອຂ່າຍ Wi-Fi ຂອງທ່ານ. ທຸກສິ່ງທຸກຢ່າງຖືກເຂົ້າລະຫັດຢູ່ໃນອຸປະກອນຂອງທ່ານ; ບໍ່ມີເຄື່ອງແມ່ຂ່າຍໃດສາມາດອ່ານມັນໄດ້.</string>
+    <string name="linked_intro">ຮັກສາອຸປະກອນນີ້ໃຫ້ຢູ່ໃນການຊິງຄ໌ກັບອຸປະກອນອື່ນຂອງທ່ານຜ່ານເຊີບເວີການຊິງຄ໌ ZenStream ຂອງທ່ານເອງ, ໂຟນເດີ WebDAV, ຫຼືເຄືອຂ່າຍ Wi-Fi ຂອງທ່ານ. ທຸກສິ່ງທຸກຢ່າງຖືກເຂົ້າລະຫັດຢູ່ໃນອຸປະກອນຂອງທ່ານ; ບໍ່ມີເຄື່ອງແມ່ຂ່າຍໃດສາມາດອ່ານມັນໄດ້.</string>
     <string name="linked_create_title">ສ້າງກຸ່ມ</string>
-    <string name="linked_create_body">ເລີ່ມການເຊື່ອມຕໍ່ຢູ່ໃນເຊີບເວີການຊິງຄ໌ Flow, ໃນໂຟນເດີ WebDAV, ຫຼືໃນເຄືອຂ່າຍນີ້</string>
+    <string name="linked_create_body">ເລີ່ມການເຊື່ອມຕໍ່ຢູ່ໃນເຊີບເວີການຊິງຄ໌ ZenStream, ໃນໂຟນເດີ WebDAV, ຫຼືໃນເຄືອຂ່າຍນີ້</string>
     <string name="linked_where_title">ອຸປະກອນຂອງທ່ານຄວນຊິ້ງຢູ່ໃສ?</string>
     <string name="linked_restore_where_title">ກຸ່ມຢູ່ໃສ?</string>
-    <string name="linked_where_server">ເຊີບເວີການຊິງຄ໌ Flow</string>
+    <string name="linked_where_server">ເຊີບເວີການຊິງຄ໌ ZenStream</string>
     <string name="linked_where_server_body">ເຊີບເວີຂອງເຈົ້າເອງ: ອັບເດດສົດໆ ແລະຊິ້ງໄວທີ່ສຸດ. ຕ້ອງການທີ່ຢູ່ແລະໂທເຄັນຜູ້ບໍລິຫານຂອງຕົນ</string>
     <string name="linked_where_webdav">ໂຟນເດີ WebDAV</string>
     <string name="linked_where_webdav_body">Nextcloud ຫຼືເຄື່ອງແມ່ຂ່າຍ WebDAV ອື່ນ. ຕ້ອງການທີ່ຢູ່ໂຟນເດີ, ຊື່ຜູ້ໃຊ້ແລະລະຫັດຜ່ານ</string>
-    <string name="linked_webdav_body">ໃຊ້ໂຟນເດີຫວ່າງເປົ່າສໍາລັບ Flow. ການເຂົ້າສູ່ລະບົບຈະຖືກເກັບໄວ້ໃນບ່ອນເກັບຂໍ້ມູນທີ່ປອດໄພຂອງອຸປະກອນນີ້ເທົ່ານັ້ນ, ແລະຖືກມອບໃຫ້ກັບອຸປະກອນທີ່ທ່ານເຊື່ອມຕໍ່.</string>
+    <string name="linked_webdav_body">ໃຊ້ໂຟນເດີຫວ່າງເປົ່າສໍາລັບ ZenStream. ການເຂົ້າສູ່ລະບົບຈະຖືກເກັບໄວ້ໃນບ່ອນເກັບຂໍ້ມູນທີ່ປອດໄພຂອງອຸປະກອນນີ້ເທົ່ານັ້ນ, ແລະຖືກມອບໃຫ້ກັບອຸປະກອນທີ່ທ່ານເຊື່ອມຕໍ່.</string>
     <string name="linked_webdav_url">ທີ່ຢູ່ໂຟນເດີ</string>
     <string name="linked_webdav_url_hint">https://cloud.example.org/remote.php/dav/files/you/flow-sync/</string>
     <string name="linked_webdav_user">ຊື່ຜູ້ໃຊ້</string>
@@ -2658,7 +2658,7 @@
     <string name="linked_profile_add_body">ໂປຣໄຟລ໌ໃໝ່ໃນອຸປະກອນນີ້ຈະຊິ້ງຂໍ້ມູນກັບມັນ.</string>
     <string name="linked_profile_add">ເພີ່ມ</string>
     <string name="linked_profile_limit">ອຸປະກອນນີ້ມີໂປຣໄຟລ໌ %1$d ຢູ່ກ່ອນແລ້ວ.</string>
-    <string name="linked_profile_switch_body">ມີພຽງໂປຣໄຟລ໌ທີ່ນຳໃຊ້ຢູ່ສາມາດເລີ່ມການຊິງຄ໌ໄດ້, ສະນັ້ນ Flow ຣີສະຕາດໃນມັນກ່ອນ. ຈາກນັ້ນເປີດການຊິງຄ໌ຢູ່ທີ່ນັ້ນ.</string>
+    <string name="linked_profile_switch_body">ມີພຽງໂປຣໄຟລ໌ທີ່ນຳໃຊ້ຢູ່ສາມາດເລີ່ມການຊິງຄ໌ໄດ້, ສະນັ້ນ ZenStream ຣີສະຕາດໃນມັນກ່ອນ. ຈາກນັ້ນເປີດການຊິງຄ໌ຢູ່ທີ່ນັ້ນ.</string>
     <string name="linked_profile_switch">ສະຫຼັບໄປຊິ້ງ</string>
     <string name="sync_default_only_title">ປ່ຽນເປັນ %1$s ເພື່ອຊິງຄ໌</string>
     <string name="sync_devices_subtitle">Sync ຫ້ອງສະໝຸດ, ປະຫວັດ ແລະໂປຣໄຟລ໌ຜ່ານ Wi-Fi ທ້ອງຖິ່ນ</string>
@@ -2729,12 +2729,12 @@
     <string name="sync_error_peer_also_receive">ອຸປະກອນອື່ນຍັງຖືກຕັ້ງໃຫ້ຮັບ. ຕັ້ງມັນເປັນສົ່ງ, ຈາກນັ້ນລອງອີກຄັ້ງ.</string>
     <string name="sync_error_qr_expired">ລະຫັດນີ້ໝົດອາຍຸແລ້ວ. ຂໍໃຫ້ອຸປະກອນອື່ນສ້າງໃຫມ່. ຖ້າລະຫັດຍັງຄົງຫມົດອາຍຸໃນທັນທີ, ໃຫ້ກວດເບິ່ງວ່າວັນທີແລະເວລາຖືກຕ້ອງຢູ່ໃນອຸປະກອນທັງສອງ.</string>
     <string name="sync_error_qr_wrong_version">ເວີຊັນແອັບທີ່ບໍ່ເຂົ້າກັນໄດ້ຢູ່ໃນອຸປະກອນອື່ນ.</string>
-    <string name="sync_error_qr_not_flow">ນັ້ນບໍ່ຄືກັບຂໍ້ມູນການເຊື່ອມຕໍ່ Flow ທີ່ຖືກຕ້ອງ.</string>
+    <string name="sync_error_qr_not_flow">ນັ້ນບໍ່ຄືກັບຂໍ້ມູນການເຊື່ອມຕໍ່ ZenStream ທີ່ຖືກຕ້ອງ.</string>
     <string name="sync_error_qr_bad_address">ຂໍ້ມູນການເຊື່ອມຕໍ່ບໍ່ມີທີ່ຢູ່ເຄືອຂ່າຍທີ່ຖືກຕ້ອງ.</string>
-    <string name="sync_error_qr_not_local">ລະຫັດນີ້ຊີ້ຢູ່ນອກເຄືອຂ່າຍທ້ອງຖິ່ນຂອງທ່ານ, ດັ່ງນັ້ນ Flow ຈະບໍ່ເຊື່ອມຕໍ່ກັບມັນ. ໃຊ້ລະຫັດທີ່ສະແດງໂດຍອຸປະກອນຂອງທ່ານເອງເທົ່ານັ້ນ.</string>
+    <string name="sync_error_qr_not_local">ລະຫັດນີ້ຊີ້ຢູ່ນອກເຄືອຂ່າຍທ້ອງຖິ່ນຂອງທ່ານ, ດັ່ງນັ້ນ ZenStream ຈະບໍ່ເຊື່ອມຕໍ່ກັບມັນ. ໃຊ້ລະຫັດທີ່ສະແດງໂດຍອຸປະກອນຂອງທ່ານເອງເທົ່ານັ້ນ.</string>
     <string name="sync_error_no_peer">ບໍ່ມີອຸປະກອນເຊື່ອມຕໍ່ກ່ອນທີ່ລະຫັດຈະໝົດອາຍຸ. ກວດເບິ່ງວ່າອຸປະກອນທັງສອງຢູ່ໃນ Wi-Fi ດຽວກັນ, ຈາກນັ້ນລອງອີກຄັ້ງ.</string>
     <string name="sync_error_unreachable">ບໍ່ສາມາດເຂົ້າຫາອຸປະກອນອື່ນໄດ້. ກວດເບິ່ງວ່າອຸປະກອນທັງສອງຢູ່ໃນ Wi-Fi ດຽວກັນ ແລະ VPN ຫຼື firewall ບໍ່ໄດ້ຂັດຂວາງການເຊື່ອມຕໍ່.</string>
-    <string name="sync_error_timeout">ອຸປະກອນອື່ນຢຸດຕອບສະໜອງ. ຮັກສາ Flow ເປີດຢູ່ໃນອຸປະກອນທັງສອງແລ້ວລອງໃໝ່ອີກຄັ້ງ.</string>
+    <string name="sync_error_timeout">ອຸປະກອນອື່ນຢຸດຕອບສະໜອງ. ຮັກສາ ZenStream ເປີດຢູ່ໃນອຸປະກອນທັງສອງແລ້ວລອງໃໝ່ອີກຄັ້ງ.</string>
     <string name="sync_error_peer_closed">ອຸປະກອນອື່ນປິດການເຊື່ອມຕໍ່. ກວດເບິ່ງຂໍ້ຄວາມ, ຈາກນັ້ນລອງອີກຄັ້ງ.</string>
     <string name="sync_error_corrupted">ຂໍ້ມູນເສຍຫາຍລະຫວ່າງທາງ. ລອງອີກຄັ້ງ.</string>
     <string name="sync_error_apply_failed">ຂໍ້ມູນມາຮອດແລ້ວ ແຕ່ບໍ່ສາມາດບັນທຶກໄດ້. ບໍ່ມີຫຍັງຢູ່ໃນອຸປະກອນນີ້ຖືກປ່ຽນແປງ.</string>
@@ -2742,7 +2742,7 @@
     <string name="sync_error_code_not_confirmed">ລະຫັດຢືນຢັນບໍ່ໄດ້ຮັບການຢືນຢັນ, ດັ່ງນັ້ນບໍ່ມີຫຍັງຖືກໂອນ.</string>
     <string name="sync_error_code_rejected">ອຸປະກອນອື່ນບໍ່ໄດ້ຢືນຢັນລະຫັດຢືນຢັນ, ສະນັ້ນບໍ່ມີຫຍັງຖືກໂອນ.</string>
     <string name="sync_error_declined">ການລວມກັນໄດ້ຖືກປະຕິເສດ. ບໍ່ມີຫຍັງຖືກໂອນ.</string>
-    <string name="sync_error_protocol">ທັງສອງອຸປະກອນບໍ່ສາມາດຕົກລົງກັນໄດ້ໃນຂັ້ນຕອນການຊິງຄ໌. ອັບເດດ Flow ໃນທັງສອງອຸປະກອນແລ້ວລອງໃໝ່ອີກຄັ້ງ.</string>
+    <string name="sync_error_protocol">ທັງສອງອຸປະກອນບໍ່ສາມາດຕົກລົງກັນໄດ້ໃນຂັ້ນຕອນການຊິງຄ໌. ອັບເດດ ZenStream ໃນທັງສອງອຸປະກອນແລ້ວລອງໃໝ່ອີກຄັ້ງ.</string>
     <string name="sync_error_peer">ອຸປະກອນອື່ນໄດ້ລາຍງານບັນຫາ: %1$s</string>
     <string name="sync_step_title_send">ສົ່ງ</string>
     <string name="sync_step_title_receive">ຮັບ</string>
@@ -2765,8 +2765,8 @@
     <string name="sync_collection_likes_body">ມັກ ແລະ ບໍ່ມັກວິດີໂອ ແລະເພງ.</string>
     <string name="sync_collection_subscriptions_body">ຊ່ອງທາງທີ່ທ່ານຕິດຕາມ.</string>
     <string name="sync_collection_settings_body">ການຫຼິ້ນ, ຮູບລັກສະນະ ແລະການຕັ້ງຄ່າການດາວໂຫຼດ.</string>
-    <string name="sync_collection_recommendation_profile_body">ສິ່ງທີ່ Flow ໄດ້ຮຽນຮູ້ກ່ຽວກັບສິ່ງທີ່ທ່ານເບິ່ງ.</string>
-    <string name="sync_collection_music_profile_body">ສິ່ງທີ່ Flow ໄດ້ຮຽນຮູ້ກ່ຽວກັບສິ່ງທີ່ທ່ານຟັງ.</string>
+    <string name="sync_collection_recommendation_profile_body">ສິ່ງທີ່ ZenStream ໄດ້ຮຽນຮູ້ກ່ຽວກັບສິ່ງທີ່ທ່ານເບິ່ງ.</string>
+    <string name="sync_collection_music_profile_body">ສິ່ງທີ່ ZenStream ໄດ້ຮຽນຮູ້ກ່ຽວກັບສິ່ງທີ່ທ່ານຟັງ.</string>
     <string name="sync_waiting_for_peer">ກຳລັງລໍຖ້າໃຫ້ອຸປະກອນອື່ນເຊື່ອມຕໍ່…</string>
     <string name="sync_cancel_session">ຍົກເລີກການຊິງຄ໌</string>
     <string name="sync_expires_label">ລະຫັດ QR ໝົດອາຍຸ</string>
@@ -2838,7 +2838,7 @@
     <string name="error_not_available">ບໍ່ມີວິດີໂອ</string>
     <string name="error_not_available_hint">ວິດີໂອນີ້ອາດຈະໄດ້ຮັບການລຶບ, ເຮັດໃຫ້ເປັນສ່ວນຕົວ, ຫຼືເອົາອອກໂດຍ YouTube.</string>
     <string name="error_not_supported">ບໍ່ຮອງຮັບປະເພດເນື້ອຫາ</string>
-    <string name="error_not_supported_hint">ຮູບແບບ ຫຼືປະເພດເນື້ອຫານີ້ບໍ່ສາມາດຫຼິ້ນໄດ້ໃນ Flow.</string>
+    <string name="error_not_supported_hint">ຮູບແບບ ຫຼືປະເພດເນື້ອຫານີ້ບໍ່ສາມາດຫຼິ້ນໄດ້ໃນ ZenStream.</string>
     <string name="error_no_internet">ບໍ່ມີການເຊື່ອມຕໍ່ອິນເຕີເນັດ</string>
     <string name="error_no_internet_hint">ກວດເບິ່ງ Wi-Fi ຫຼືຂໍ້ມູນມືຖືຂອງເຈົ້າແລ້ວລອງອີກຄັ້ງ.</string>
     <string name="error_timeout">ການເຊື່ອມຕໍ່ໝົດເວລາ</string>
@@ -2856,7 +2856,7 @@
     <string name="error_playback_failed">ການຫຼິ້ນຄືນລົ້ມເຫລວ</string>
     <string name="error_playback_failed_hint">ເກີດຄວາມຜິດພາດຂອງຜູ້ຫຼິ້ນທີ່ບໍ່ຄາດຄິດ. ກະລຸນາລອງອີກຄັ້ງ.</string>
     <string name="error_extraction_failed">ວິເຄາະຂໍ້ມູນວິດີໂອບໍ່ສຳເລັດ</string>
-    <string name="error_extraction_failed_hint">YouTube ອາດຈະອັບເດດຮູບແບບຂອງມັນແລ້ວ. Flow ຈະຖືກອັບເດດໃນໄວໆນີ້ — ກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ.</string>
+    <string name="error_extraction_failed_hint">YouTube ອາດຈະອັບເດດຮູບແບບຂອງມັນແລ້ວ. ZenStream ຈະຖືກອັບເດດໃນໄວໆນີ້ — ກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ.</string>
     <string name="error_generic">ການໂຫຼດວິດີໂອລົ້ມເຫລວ</string>
     <string name="error_generic_hint">ເກີດຄວາມຜິດພາດທີ່ບໍ່ຮູ້ຈັກຂຶ້ນ. ກະລຸນາລອງອີກຄັ້ງ.</string>
     <string name="music_playback_warning_forbidden">ການເຂົ້າເຖິງການຖ່າຍທອດເພງຖືກປະຕິເສດ. YouTube ອາດຈະຈໍາກັດ IP ນີ້; ລອງໂຫຼດໃໝ່ ຫຼືປ່ຽນເຄືອຂ່າຍ/VPN.</string>
@@ -2909,7 +2909,7 @@
     <string name="settings_item_diagnostics">ການວິນິດໄສ</string>
     <string name="settings_item_diagnostics_subtitle">ເບິ່ງບັນທຶກຄວາມຜິດພາດ ແລະລາຍງານການຂັດຂ້ອງ</string>
     <string name="diagnostics_title">ການວິນິດໄສ</string>
-    <string name="diagnostics_report_subject">ບົດລາຍງານການວິນິດໄສ Flow</string>
+    <string name="diagnostics_report_subject">ບົດລາຍງານການວິນິດໄສ ZenStream</string>
     <string name="diagnostics_tab_session">ບັນທຶກເຊດຊັນ</string>
     <string name="diagnostics_tab_crashes">ລາຍງານການຂັດຂ້ອງ</string>
     <string name="diagnostics_copy">ສຳເນົາບົດລາຍງານ</string>
@@ -2919,7 +2919,7 @@
     <string name="diagnostics_clear_confirm_body">ລາຍງານການຂັດຂ້ອງທັງໝົດທີ່ບັນທຶກໄວ້ຈະຖືກລຶບອອກ. ອັນນີ້ບໍ່ສາມາດຍົກເລີກໄດ້.</string>
     <string name="diagnostics_reset_session">ຣີເຊັດເຊດຊັນ YouTube</string>
     <string name="diagnostics_reset_session_confirm_title">ຣີເຊັດເຊດຊັນ YouTube ບໍ?</string>
-    <string name="diagnostics_reset_session_confirm_body">Flow ຈະສ້າງຕົວຕົນການຫຼິ້ນໃໝ່. ລອງອັນນີ້ຖ້າວິດີໂອຢຸດຫຼັງຈາກນາທີ ຫຼືຈະບໍ່ຫຼິ້ນ.\n\nການຫຼິ້ນຄືນອາດຈະຍາກສໍາລັບການຫນຶ່ງຫຼືສອງນາທີ. ຂໍ້ມູນທີ່ບັນທຶກໄວ້ຂອງທ່ານບໍ່ໄດ້ຮັບຜົນກະທົບ.</string>
+    <string name="diagnostics_reset_session_confirm_body">ZenStream ຈະສ້າງຕົວຕົນການຫຼິ້ນໃໝ່. ລອງອັນນີ້ຖ້າວິດີໂອຢຸດຫຼັງຈາກນາທີ ຫຼືຈະບໍ່ຫຼິ້ນ.\n\nການຫຼິ້ນຄືນອາດຈະຍາກສໍາລັບການຫນຶ່ງຫຼືສອງນາທີ. ຂໍ້ມູນທີ່ບັນທຶກໄວ້ຂອງທ່ານບໍ່ໄດ້ຮັບຜົນກະທົບ.</string>
     <string name="diagnostics_reset_session_done">ຣີເຊັດເຊດຊັນ YouTube. ເປີດວິດີໂອຄືນໃໝ່ເພື່ອລອງອີກຄັ້ງ.</string>
     <string name="diagnostics_profiles_section">ໂປຣໄຟລ໌ (ດີບັກ)</string>
     <string name="diagnostics_profiles_footer">Debug ສ້າງພຽງແຕ່. ການສະຫຼັບປິດເປີດແອັບຄືນໃໝ່.</string>
@@ -2986,7 +2986,7 @@
     <string name="profiles_copy_subscriptions">ການສະໝັກຮັບຊົມ</string>
     <string name="profiles_copy_subscriptions_summary">ຊ່ອງແລະກຸ່ມຊ່ອງ</string>
     <string name="profiles_copy_recommendations">ຄໍາແນະນໍາ</string>
-    <string name="profiles_copy_recommendations_summary">ສິ່ງທີ່ Flow ໄດ້ຮຽນຮູ້ກ່ຽວກັບລົດຊາດຂອງເຈົ້າ</string>
+    <string name="profiles_copy_recommendations_summary">ສິ່ງທີ່ ZenStream ໄດ້ຮຽນຮູ້ກ່ຽວກັບລົດຊາດຂອງເຈົ້າ</string>
     <string name="profiles_create_and_switch">ສ້າງແລະສະຫຼັບ</string>
     <string name="profiles_create">ສ້າງໂປຣໄຟລ໌</string>
     <string name="profiles_save">ບັນທຶກ</string>
@@ -3134,7 +3134,7 @@
     <string name="shorts_playback_speed">ຄວາມໄວການຫຼິ້ນ</string>
     <string name="speed_normal">ປົກກະຕິ</string>
     <string name="export_watch_history_title">ປະຫວັດການເບິ່ງ</string>
-    <string name="export_watch_history_desc">ສົ່ງອອກເປັນ YouTube-history JSON (ນໍາເຂົ້າໃນ LibreTube ແລະ Flow)</string>
+    <string name="export_watch_history_desc">ສົ່ງອອກເປັນ YouTube-history JSON (ນໍາເຂົ້າໃນ LibreTube ແລະ ZenStream)</string>
     <string name="history_export_failed">ລົ້ມເຫລວໃນການສົ່ງອອກປະຫວັດການເບິ່ງ</string>
     <string name="history_delete_shorts">ລຶບ Shorts ອອກຈາກປະຫວັດ</string>
     <string name="history_delete_shorts_title">ລຶບ Shorts ບໍ?</string>
@@ -3147,7 +3147,7 @@
     <string name="no_match_found">ບໍ່ພົບຂໍ້ມູນທີ່ກົງກັນ</string>
     <string name="recognition_error">ການຮັບຮູ້ລົ້ມເຫລວ</string>
     <string name="try_again">ລອງອີກຄັ້ງ</string>
-    <string name="search_in_flow">ຊອກຫາໃນ Flow</string>
+    <string name="search_in_flow">ຊອກຫາໃນ ZenStream</string>
     <string name="recognition_search_history">ຊອກຫາເພງທີ່ຮັບຮູ້</string>
     <string name="recognition_history_empty">ເພງທີ່ຮັບຮູ້ຈະປາກົດຢູ່ທີ່ນີ້</string>
     <string name="recognition_clear_history">ລຶບລ້າງປະຫວັດບໍ?</string>
@@ -3177,15 +3177,15 @@
     <string name="discord_presence_account">ບັນຊີ Discord</string>
     <string name="discord_presence_privacy_section">ຄວາມເປັນສ່ວນຕົວ ແລະຄວາມສ່ຽງບັນຊີ</string>
     <string name="discord_presence_privacy_title">ຄວາມເປັນສ່ວນຕົວ</string>
-    <string name="discord_presence_privacy_body">Flow ແບ່ງປັນຫົວຂໍ້, ຜູ້ສ້າງ, ງານສິນລະປະ ແລະຄວາມຄືບໜ້າຂອງສິ່ງທີ່ທ່ານຫຼິ້ນ. ປິດຕາມຄ່າເລີ່ມຕົ້ນ. ໂທເຄັນ Discord ຂອງທ່ານຖືກເຂົ້າລະຫັດໄວ້ ແລະບໍ່ເຄີຍເຂົ້າສູ່ລະບົບ.</string>
+    <string name="discord_presence_privacy_body">ZenStream ແບ່ງປັນຫົວຂໍ້, ຜູ້ສ້າງ, ງານສິນລະປະ ແລະຄວາມຄືບໜ້າຂອງສິ່ງທີ່ທ່ານຫຼິ້ນ. ປິດຕາມຄ່າເລີ່ມຕົ້ນ. ໂທເຄັນ Discord ຂອງທ່ານຖືກເຂົ້າລະຫັດໄວ້ ແລະບໍ່ເຄີຍເຂົ້າສູ່ລະບົບ.</string>
     <string name="discord_presence_gateway_warning">ນີ້ເຂົ້າສູ່ລະບົບດ້ວຍເຄື່ອງໝາຍ Discord ຂອງທ່ານແທນທີ່ຈະເຂົ້າສູ່ລະບົບຢ່າງເປັນທາງການ. ມັນທໍາລາຍເງື່ອນໄຂການໃຫ້ບໍລິການຂອງ Discord ແລະສາມາດເຮັດໃຫ້ບັນຊີຂອງທ່ານຖືກຈໍາກັດຫຼືຖືກຫ້າມ.</string>
     <string name="discord_presence_risk_dialog_title">ຍອມຮັບຄວາມສ່ຽງບັນຊີ Discord ບໍ?</string>
-    <string name="discord_presence_risk_dialog_body">ການເຊື່ອມຕໍ່ເຮັດໃຫ້ Flow token Discord ຂອງທ່ານ. ມັນຍັງຄົງຖືກເຂົ້າລະຫັດຢູ່ໃນອຸປະກອນນີ້ ແລະພຽງແຕ່ຖືກສົ່ງໄປຫາ Discord ເທົ່ານັ້ນ. ວິທີການນີ້ທໍາລາຍເງື່ອນໄຂການໃຫ້ບໍລິການຂອງ Discord, ດັ່ງນັ້ນບັນຊີຂອງທ່ານອາດຈະຖືກຈໍາກັດຫຼືຖືກຫ້າມ.</string>
+    <string name="discord_presence_risk_dialog_body">ການເຊື່ອມຕໍ່ເຮັດໃຫ້ ZenStream token Discord ຂອງທ່ານ. ມັນຍັງຄົງຖືກເຂົ້າລະຫັດຢູ່ໃນອຸປະກອນນີ້ ແລະພຽງແຕ່ຖືກສົ່ງໄປຫາ Discord ເທົ່ານັ້ນ. ວິທີການນີ້ທໍາລາຍເງື່ອນໄຂການໃຫ້ບໍລິການຂອງ Discord, ດັ່ງນັ້ນບັນຊີຂອງທ່ານອາດຈະຖືກຈໍາກັດຫຼືຖືກຫ້າມ.</string>
     <string name="discord_presence_risk_accept">ຂ້ອຍເຂົ້າໃຈ, ເຊື່ອມຕໍ່</string>
     <string name="discord_error_not_initialized">Discord Rich Presence ຍັງບໍ່ໄດ້ເລີ່ມຕົ້ນ.</string>
     <string name="discord_error_enable_before_connect">ເປີດໃຊ້ Discord Rich Presence ກ່ອນທີ່ຈະເຊື່ອມຕໍ່ບັນຊີ.</string>
     <string name="discord_error_unavailable">Discord Rich Presence ບໍ່ສາມາດໃຊ້ໄດ້ໃນການກໍ່ສ້າງນີ້.</string>
-    <string name="discord_error_open_flow">ເປີດ Flow ກ່ອນທີ່ຈະເຊື່ອມຕໍ່ Discord.</string>
+    <string name="discord_error_open_flow">ເປີດ ZenStream ກ່ອນທີ່ຈະເຊື່ອມຕໍ່ Discord.</string>
     <string name="discord_error_connection_in_progress">ການເຊື່ອມຕໍ່ Discord ແມ່ນຢູ່ແລ້ວ.</string>
     <string name="discord_error_login_timeout">ການເຂົ້າສູ່ລະບົບ Discord ໝົດເວລາ.</string>
     <string name="discord_error_login_cancelled">ການເຊື່ອມຕໍ່ Discord ຖືກຍົກເລີກ.</string>
@@ -3199,7 +3199,7 @@
     <string name="discord_error_heartbeat_unacknowledged">ການເຕັ້ນຂອງຫົວໃຈ Discord Gateway ບໍ່ໄດ້ຮັບການຍອມຮັບ.</string>
     <string name="discord_error_heartbeat_failed">ການເຕັ້ນຂອງຫົວໃຈ Discord Gateway ລົ້ມເຫລວ.</string>
     <string name="discord_account_fallback">ຜູ້ໃຊ້ Discord</string>
-    <string name="discord_presence_playing_fallback">ຫຼີ້ນໃນ Flow</string>
+    <string name="discord_presence_playing_fallback">ຫຼີ້ນໃນ ZenStream</string>
     <string name="discord_presence_by_creator">ໂດຍ %1$s</string>
     <string name="settings_item_interface_mode">ຮູບແບບການໂຕ້ຕອບ</string>
     <string name="settings_item_interface_mode_subtitle">ເລືອກຮູບແບບອັດຕະໂນມັດ, ມືຖື, ຫຼືໂທລະພາບ</string>
@@ -3212,7 +3212,7 @@
     <string name="interface_mode_tv_summary">ໃຊ້ສ່ວນຕິດຕໍ່ໂທລະທັດທີ່ເປັນມິດກັບທາງໄກສະເໝີ</string>
     <string name="tv_player_queue">ຄິວ</string>
     <string name="tv_remote_guide_title">ຄູ່ມືໄລຍະໄກ &amp; ປຸ່ມກົດ</string>
-    <string name="tv_remote_guide_subtitle">ການອ້າງອີງໄວສໍາລັບການນໍາທາງ Flow ຈາກ couch ໄດ້</string>
+    <string name="tv_remote_guide_subtitle">ການອ້າງອີງໄວສໍາລັບການນໍາທາງ ZenStream ຈາກ couch ໄດ້</string>
     <string name="tv_guide_navigation_title">ການນໍາທາງ</string>
     <string name="tv_guide_search_title">ຊອກຫາ &amp; ຊອກຫາ</string>
     <string name="tv_guide_playback_title">ຫຼິ້ນຄືນ</string>
@@ -3244,9 +3244,9 @@
     <string name="tv_guide_player_media">ປຸ່ມຫຼິ້ນ, ຢຸດ, ກ່ອນໜ້າ, ຕໍ່ໄປ, ຖອຍຫຼັງ, ໄປໜ້າໄວ, ແລະປຸ່ມຄຳບັນຍາຍເຮັດວຽກໂດຍກົງ.</string>
     <string name="tv_guide_player_back">ປິດແຜງ ຫຼື ການຄວບຄຸມກ່ອນ; ກົດອີກເທື່ອຫນຶ່ງເພື່ອອອກຈາກຜູ້ນ.</string>
     <string name="widget_now_playing_label">ຕອນນີ້ກຳລັງຫຼິ້ນ</string>
-    <string name="widget_now_playing_description">ຄວບຄຸມເພງທີ່ກຳລັງຫຼິ້ນຢູ່ໃນ Flow</string>
+    <string name="widget_now_playing_description">ຄວບຄຸມເພງທີ່ກຳລັງຫຼິ້ນຢູ່ໃນ ZenStream</string>
     <string name="widget_quick_actions_label">ການປະຕິບັດໄວ</string>
-    <string name="widget_quick_actions_description">ຄົ້ນຫາ Flow ແລະໂດດໄປຫາການດາວໂຫຼດ, ປະຫວັດ, ຫຼືການຮັບຮູ້</string>
+    <string name="widget_quick_actions_description">ຄົ້ນຫາ ZenStream ແລະໂດດໄປຫາການດາວໂຫຼດ, ປະຫວັດ, ຫຼືການຮັບຮູ້</string>
     <string name="widget_recognize_label">ຮັບຮູ້ດົນຕີ</string>
     <string name="widget_recognize_description">ລະບຸເພງທີ່ຫຼິ້ນຢູ່ອ້ອມຕົວເຈົ້າດ້ວຍການແຕະເທື່ອດຽວ</string>
     <string name="widget_turntable_label">ໂຕະໂຕະ</string>
@@ -3304,7 +3304,7 @@
     <string name="widget_week_title">7 ມື້ທີ່ຜ່ານມາ</string>
     <string name="widget_week_top_artist">ສິລະປິນຍອດນິຍົມໃນເດືອນນີ້</string>
     <string name="settings_widgets_title">ວິດເຈັດ</string>
-    <string name="settings_widgets_summary">ໃສ່ Flow ໃນຫນ້າຈໍເຮືອນຂອງທ່ານ</string>
+    <string name="settings_widgets_summary">ໃສ່ ZenStream ໃນຫນ້າຈໍເຮືອນຂອງທ່ານ</string>
     <string name="settings_widgets_add_header">ເພີ່ມໃສ່ໜ້າຈໍຫຼັກ</string>
     <string name="settings_widgets_footer">ແຕະອັນໜຶ່ງເພື່ອວາງມັນ, ຫຼືກົດໜ້າຈໍຫຼັກຂອງທ່ານຄ້າງໄວ້.</string>
     <string name="settings_widgets_unsupported">launcher ຂອງທ່ານບໍ່ສາມາດເພີ່ມ widget ສໍາລັບແອັບຯ. ກົດໜ້າຈໍຫຼັກຂອງເຈົ້າຄ້າງໄວ້ເພື່ອເພີ່ມອັນໜຶ່ງ.</string>
@@ -3320,7 +3320,7 @@
     <string name="ui_navigate">ນຳທາງ</string>
     <string name="ui_options">ທາງເລືອກ</string>
     <string name="ui_selected">ເລືອກແລ້ວ</string>
-    <string name="ui_flow_logo">ໂລໂກ້ Flow</string>
+    <string name="ui_flow_logo">ໂລໂກ້ ZenStream</string>
     <string name="ui_list_view">ມຸມມອງລາຍການ</string>
     <string name="ui_grid_view">ມຸມມອງຕາຕະລາງ</string>
     <string name="ui_back">ກັບຄືນໄປບ່ອນ</string>
@@ -3343,7 +3343,7 @@
     <string name="ui_no_crash_logs">ບໍ່ມີບັນທຶກການຂັດຂ້ອງ</string>
     <string name="ui_copy_log">ສຳເນົາບັນທຶກ</string>
     <string name="ui_clear_and_continue">ລຶບລ້າງ ແລະສືບຕໍ່</string>
-    <string name="crash_title">Flow ປິດຢ່າງບໍ່ຄາດຄິດ</string>
+    <string name="crash_title">ZenStream ປິດຢ່າງບໍ່ຄາດຄິດ</string>
     <string name="crash_subtitle">ບົດລາຍງານນີ້ຈະຢູ່ໃນອຸປະກອນຂອງທ່ານຈົນກວ່າທ່ານຈະແບ່ງປັນມັນ.</string>
     <string name="crash_summary_error">ຜິດພາດ</string>
     <string name="crash_summary_message">ຂໍ້ຄວາມ</string>
@@ -3356,7 +3356,7 @@
     <string name="crash_report">ລາຍງານ</string>
     <string name="crash_continue">ສືບຕໍ່</string>
     <string name="crash_report_copied">ສຳເນົາບົດລາຍງານສະບັບເຕັມແລ້ວ. ວາງມັນໃສ່ໃນຊ່ອງຂໍ້ມູນບັນທຶກ.</string>
-    <string name="ui_crashed_last_session">Flow ຂັດຂ້ອງໃນເຊດຊັນທີ່ຜ່ານມາ</string>
+    <string name="ui_crashed_last_session">ZenStream ຂັດຂ້ອງໃນເຊດຊັນທີ່ຜ່ານມາ</string>
     <string name="ui_copy_log_description">ຄັດລອກບັນທຶກຂ້າງລຸ່ມນີ້ແລະວາງມັນເຂົ້າໄປໃນບັນຫາ GitHub ເພື່ອໃຫ້ສາມາດແກ້ໄຂໄດ້.</string>
     <string name="ui_search_settings">ການຕັ້ງຄ່າການຊອກຫາ…</string>
     <string name="ui_custom_interest_title">ເພີ່ມຄວາມສົນໃຈທີ່ກໍາຫນົດເອງ</string>
@@ -3364,7 +3364,7 @@
     <string name="ui_custom_interest_hint">ຄວາມສົນໃຈແບບກຳນົດເອງ (ເຊັ່ນ: Jazz, Astrophysics)</string>
     <string name="ui_add_interest">ເພີ່ມຄວາມສົນໃຈ</string>
     <string name="ui_version">ລຸ້ນ %1$s</string>
-    <string name="update_download_prompt">Flow ລຸ້ນໃໝ່ມີໃຫ້ແລ້ວ (%1$s). ດາວໂຫຼດ APK ຫຼ້າສຸດບໍ?</string>
+    <string name="update_download_prompt">ZenStream ລຸ້ນໃໝ່ມີໃຫ້ແລ້ວ (%1$s). ດາວໂຫຼດ APK ຫຼ້າສຸດບໍ?</string>
     <string name="ui_instrumental">I N S T R U M E N T A L</string>
     <string name="ui_playlist_empty">ລາຍການຫຼິ້ນຫວ່າງເປົ່າ</string>
     <plurals name="ui_downloading_videos">
@@ -3427,7 +3427,7 @@
     <string name="notification_downloading">ກຳລັງດາວໂຫຼດ: %1$s</string>
     <string name="notification_download_complete">ດາວໂຫຼດສຳເລັດ</string>
     <string name="notification_download_failed">ການດາວໂຫຼດລົ້ມເຫລວ</string>
-    <string name="notification_channel_downloads_name">ດາວໂຫຼດ Flow</string>
+    <string name="notification_channel_downloads_name">ດາວໂຫຼດ ZenStream</string>
     <string name="notification_download_paused">ຢຸດຊົ່ວຄາວ — %1$s</string>
     <string name="notification_download_paused_hint">ແຕະເພື່ອສືບຕໍ່</string>
     <string name="notification_download_progress">%1$d%% • %2$s / %3$s</string>
@@ -3444,10 +3444,10 @@
     </plurals>
     <string name="notification_update_available">ມີໃຫ້ອັບເດດ: %1$s</string>
     <string name="notification_tap_to_update">ແຕະເພື່ອອັບເດດເປັນເວີຊັນຫຼ້າສຸດ.</string>
-    <string name="update_downloading_notification">ກຳລັງດາວໂຫຼດ Flow %1$s</string>
-    <string name="update_ready_notification">Flow %1$s ພ້ອມແລ້ວ</string>
+    <string name="update_downloading_notification">ກຳລັງດາວໂຫຼດ ZenStream %1$s</string>
+    <string name="update_ready_notification">ZenStream %1$s ພ້ອມແລ້ວ</string>
     <string name="update_ready_notification_text">ຢັ້ງຢືນແລ້ວ. ແຕະເພື່ອຕິດຕັ້ງ.</string>
-    <string name="update_title">Flow %1$s ຢູ່ທີ່ນີ້</string>
+    <string name="update_title">ZenStream %1$s ຢູ່ທີ່ນີ້</string>
     <string name="update_version_change">%1$s → %2$s</string>
     <string name="update_not_now">ບໍ່ແມ່ນດຽວນີ້</string>
     <string name="update_skip_version">ຂ້າມສະບັບນີ້</string>
@@ -3459,11 +3459,11 @@
     <string name="update_action_allow">ອະນຸຍາດໃຫ້ຕິດຕັ້ງ</string>
     <string name="update_action_install">ຕິດຕັ້ງອັບເດດ</string>
     <string name="update_action_installing">ການຕິດຕັ້ງ</string>
-    <string name="update_permission_notice">ອະນຸຍາດໃຫ້ Flow ຕິດຕັ້ງການອັບເດດ. Android ຂໍຄັ້ງນີ້.</string>
+    <string name="update_permission_notice">ອະນຸຍາດໃຫ້ ZenStream ຕິດຕັ້ງການອັບເດດ. Android ຂໍຄັ້ງນີ້.</string>
     <string name="update_failed_network">ການດາວໂຫຼດຢຸດ. ກວດເບິ່ງການເຊື່ອມຕໍ່ຂອງທ່ານແລ້ວລອງໃໝ່ອີກຄັ້ງ.</string>
     <string name="update_failed_storage">ບໍ່ມີພື້ນທີ່ພຽງພໍສໍາລັບການອັບເດດ.</string>
     <string name="update_failed_checksum">ໄຟລ໌ບໍ່ກົງກັບການປ່ອຍ, ສະນັ້ນມັນຖືກລຶບຖິ້ມ. ລອງອີກຄັ້ງ.</string>
-    <string name="update_failed_package">ໄຟລ໌ບໍ່ແມ່ນການອັບເດດ Flow, ດັ່ງນັ້ນມັນຈຶ່ງຖືກລຶບ.</string>
+    <string name="update_failed_package">ໄຟລ໌ບໍ່ແມ່ນການອັບເດດ ZenStream, ດັ່ງນັ້ນມັນຈຶ່ງຖືກລຶບ.</string>
     <string name="update_failed_install">Android ບໍ່ສາມາດຕິດຕັ້ງການອັບເດດໄດ້. ລອງອີກຄັ້ງ.</string>
     <string name="notification_watch_later_reminder">ເບິ່ງການແຈ້ງເຕືອນພາຍຫຼັງ</string>
     <string name="notification_video_live">ວິດີໂອສົດ</string>
@@ -3537,7 +3537,7 @@
         <item quantity="other">ເຊື່ອງໄຟລ໌ %1$d ແລ້ວ</item>
     </plurals>
     <string name="local_manage">ຈັດການ</string>
-    <string name="local_partial_access_title">Flow ສາມາດເບິ່ງໄດ້ແຕ່ວິດີໂອທີ່ທ່ານເລືອກ</string>
+    <string name="local_partial_access_title">ZenStream ສາມາດເບິ່ງໄດ້ແຕ່ວິດີໂອທີ່ທ່ານເລືອກ</string>
     <string name="local_partial_access_body">ອະນຸຍາດໃຫ້ເຂົ້າເຖິງວິດີໂອທັງໝົດເພື່ອເບິ່ງສ່ວນທີ່ເຫຼືອ.</string>
     <string name="local_open_settings">ເປີດການຕັ້ງຄ່າ</string>
     <string name="local_permission_denied_body">ອະນຸຍາດໃຫ້ເຂົ້າເຖິງວິດີໂອ ແລະເພງໃນການຕັ້ງຄ່າແອັບເພື່ອເບິ່ງພວກມັນຢູ່ບ່ອນນີ້.</string>
@@ -3591,7 +3591,7 @@
     <string name="downloads_sort_largest">ໃຫຍ່ທີ່ສຸດ</string>
     <string name="downloads_sort_title">ຫົວຂໍ້</string>
     <string name="downloads_sort_channel">ຊ່ອງ</string>
-    <string name="downloads_storage_used">%1$s ໃນ Flow</string>
+    <string name="downloads_storage_used">%1$s ໃນ ZenStream</string>
     <string name="downloads_storage_free">%1$s ຟຣີ</string>
     <string name="downloads_storage_videos">ວິດີໂອ %1$s</string>
     <string name="downloads_storage_music">ເພງ %1$s</string>
@@ -3643,9 +3643,9 @@
     <string name="download_failed_audio_length">ລົ້ມເຫລວໃນການຮັບຄວາມຍາວເນື້ອຫາສຽງ</string>
     <string name="download_workers_failed">ຄົນງານໜຶ່ງຄົນ ຫຼືຫຼາຍກວ່ານັ້ນລົ້ມເຫລວ</string>
     <string name="download_block_failed">ບລັອກ %1$s ລົ້ມເຫລວ: %2$s</string>
-    <string name="import_migrate_description">ໂອນຍ້າຍການສະໝັກຮັບຊົມ ແລະປະຫວັດຂອງທ່ານຈາກເວທີອື່ນໄປຫາ Flow ຢ່າງຕໍ່ເນື່ອງ.</string>
+    <string name="import_migrate_description">ໂອນຍ້າຍການສະໝັກຮັບຊົມ ແລະປະຫວັດຂອງທ່ານຈາກເວທີອື່ນໄປຫາ ZenStream ຢ່າງຕໍ່ເນື່ອງ.</string>
     <string name="import_backup_restore">Backup &amp; Restore</string>
-    <string name="import_manage_backups">ຈັດການການສຳຮອງຂໍ້ມູນ Flow ຂອງທ່ານ</string>
+    <string name="import_manage_backups">ຈັດການການສຳຮອງຂໍ້ມູນ ZenStream ຂອງທ່ານ</string>
     <string name="import_external_services">ບໍລິການພາຍນອກ</string>
     <string name="import_other_youtube_clients">ນໍາເຂົ້າຈາກລູກຄ້າ YouTube ອື່ນໆ</string>
     <string name="imported_successfully">%1$s ນຳເຂົ້າສຳເລັດແລ້ວ</string>
@@ -3723,7 +3723,7 @@
     <string name="settings_about_summary">ສະບັບ, ໃບອະນຸຍາດແລະການເຊື່ອມຕໍ່</string>
     <string name="settings_theme_summary">Palette ແລະແບບແສງສະຫວ່າງຫຼືຊ້ໍາ</string>
     <string name="settings_font_title">ຟອນ</string>
-    <string name="settings_font_summary">ຕົວພິມຕົວອັກສອນທີ່ໃຊ້ໃນທົ່ວ Flow</string>
+    <string name="settings_font_summary">ຕົວພິມຕົວອັກສອນທີ່ໃຊ້ໃນທົ່ວ ZenStream</string>
     <string name="settings_keywords_font">ຕົວພິມ, ຂໍ້ຄວາມ, ຕົວອັກສອນ, ttf, otf</string>
     <string name="font_system_default">ຄ່າເລີ່ມຕົ້ນຂອງລະບົບ</string>
     <string name="font_condensed">ຂົ້ນ</string>
@@ -3830,14 +3830,14 @@
     <string name="settings_section_watched">ວິດີໂອທີ່ເບິ່ງແລ້ວ</string>
     <string name="settings_section_sharing">ການແບ່ງປັນ</string>
     <string name="settings_section_links">ລິ້ງຄ໌</string>
-    <string name="content_settings_open_links_title">ເປີດລິ້ງ YouTube ໃນ Flow</string>
+    <string name="content_settings_open_links_title">ເປີດລິ້ງ YouTube ໃນ ZenStream</string>
     <string name="content_settings_open_links_subtitle">ເລືອກວ່າລິ້ງໃດເປີດຢູ່ບ່ອນນີ້</string>
     <string name="content_settings_open_links_all">ເປີດສໍາລັບທຸກໆທີ່ຢູ່ YouTube</string>
     <string name="content_settings_open_links_some">ເປີດສຳລັບທີ່ຢູ່ %1$d ຈາກທັງໝົດ %2$d</string>
     <string name="content_settings_open_links_off">ປິດ. ລິ້ງເປີດຢູ່ໃນແອັບອື່ນ</string>
     <string name="content_settings_open_links_system_asks">Android ຖາມວ່າຈະໃຊ້ແອັບໃດ</string>
     <string name="content_settings_shared_links_title">ລິ້ງທີ່ແບ່ງປັນ</string>
-    <string name="content_settings_shared_links_subtitle">ວິດີໂອທີ່ແບ່ງປັນກັບ Flow ເຮັດຫຍັງ</string>
+    <string name="content_settings_shared_links_subtitle">ວິດີໂອທີ່ແບ່ງປັນກັບ ZenStream ເຮັດຫຍັງ</string>
     <string name="content_settings_shared_links_dialog_body">ລິ້ງທີ່ທ່ານແຕະໃສ່ໃນແອັບອື່ນຫຼິ້ນສະເໝີ.</string>
     <string name="content_settings_shared_links_play">ຫຼິ້ນທັນທີ</string>
     <string name="content_settings_shared_links_ask_while_playing">ຖາມໃນຂະນະທີ່ມີບາງສິ່ງບາງຢ່າງຫຼິ້ນ</string>
@@ -3860,7 +3860,7 @@
     <string name="settings_backup_tab_auto">ອັດຕະໂນມັດ</string>
     <string name="settings_backup_full">ສຳຮອງຂໍ້ມູນເຕັມຮູບແບບ</string>
     <string name="settings_backup_individual">ການສົ່ງອອກສ່ວນບຸກຄົນ</string>
-    <string name="settings_backup_restore_flow">ຟື້ນຟູຈາກ Flow</string>
+    <string name="settings_backup_restore_flow">ຟື້ນຟູຈາກ ZenStream</string>
     <string name="settings_backup_source_youtube">YouTube ແລະ Google Takeout</string>
     <string name="settings_backup_source_newpipe">NewPipe</string>
     <string name="settings_backup_source_libretube">LibreTube</string>
@@ -3882,7 +3882,7 @@
     <string name="settings_storage_access_summary">ນອກຈາກນີ້ຍັງອະນຸຍາດໃຫ້ມີເດຍລາຍຊື່ໄຟລ໌ທີ່ບັນທຶກໄວ້ໂດຍແອັບຯອື່ນ</string>
     <string name="settings_storage_usage">%1$s ຟຣີຂອງ %2$s</string>
     <string name="settings_location_default">ຄ່າເລີ່ມຕົ້ນ</string>
-    <string name="settings_music_folder_label">ດົນຕີ / Flow</string>
+    <string name="settings_music_folder_label">ດົນຕີ / ZenStream</string>
     <string name="settings_keywords_downloads">ບັນທຶກອອບໄລນ໌, ໂຟນເດີ, ບ່ອນຈັດເກັບຂໍ້ມູນ, SD ກາດ</string>
     <string name="settings_section_notification_types">ແຈ້ງຂ້ອຍກ່ຽວກັບ</string>
     <string name="settings_keywords_notifications">ການແຈ້ງເຕືອນ, ການຊຸກຍູ້, ການອັບໂຫລດໃຫມ່, ການກວດສອບພື້ນຫລັງ, ສັ້ນ</string>
@@ -3922,7 +3922,7 @@
     <string name="settings_changelog_all_releases">ການປ່ອຍທັງໝົດໃນ GitHub</string>
     <string name="settings_changelog_expand">ສະແດງການປ່ຽນແປງ</string>
     <string name="settings_changelog_collapse">ເຊື່ອງການປ່ຽນແປງ</string>
-    <string name="settings_creator_role">ຜູ້ສ້າງ ແລະຜູ້ພັດທະນາ Flow</string>
+    <string name="settings_creator_role">ຜູ້ສ້າງ ແລະຜູ້ພັດທະນາ ZenStream</string>
     <string name="device_info_section_device">ອຸປະກອນ</string>
     <string name="device_info_section_system">ລະບົບ</string>
     <string name="device_info_section_display">ຈໍສະແດງຜົນ</string>
@@ -3973,7 +3973,7 @@
     <string name="settings_custom_theme_start_from">ເລີ່ມຈາກ</string>
     <string name="settings_custom_theme_count">ຫົວຂໍ້ %1$d ຂອງ %2$d</string>
     <string name="settings_custom_theme_empty">ຍັງບໍ່ມີຮູບແບບສີສັນກຳນົດເອງເທື່ອ</string>
-    <string name="settings_custom_theme_empty_body">ເລີ່ມຕົ້ນຈາກ palette ໃດ, ຫຼືນໍາເຂົ້າຫນຶ່ງໃນ Flow Desktop.</string>
+    <string name="settings_custom_theme_empty_body">ເລີ່ມຕົ້ນຈາກ palette ໃດ, ຫຼືນໍາເຂົ້າຫນຶ່ງໃນ ZenStream Desktop.</string>
     <string name="settings_custom_theme_import_failed">ບໍ່ມີຮູບແບບທີ່ຖືກຕ້ອງໃນໄຟລ໌ນັ້ນ</string>
     <string name="settings_custom_theme_limit">ທ່ານສາມາດຮັກສາໄດ້ເຖິງ %1$d ຮູບແບບສີສັນ</string>
     <string name="settings_custom_theme_exported">ຮູບແບບສີສັນຖືກສົ່ງອອກ</string>
@@ -4004,9 +4004,9 @@
     <string name="settings_custom_theme_in_use">ໃຊ້ຢູ່</string>
     <string name="settings_custom_theme_export_failed">ຮູບແບບສີສັນບໍ່ສາມາດຖືກບັນທຶກໄວ້ໄດ້</string>
     <string name="taste_title">ລົດຊາດຂອງເຈົ້າ</string>
-    <string name="taste_summary">Flow ເຫັນທ່ານແນວໃດ, ແລະຮູບຮ່າງຂອງຟີດຂອງເຈົ້າເປັນແນວໃດ</string>
+    <string name="taste_summary">ZenStream ເຫັນທ່ານແນວໃດ, ແລະຮູບຮ່າງຂອງຟີດຂອງເຈົ້າເປັນແນວໃດ</string>
     <string name="taste_keywords">persona, profile, algorithm, ຂໍ້ສະເຫນີແນະ, ຄວາມສົນໃຈ, ສະຫມອງ, ເຄື່ອງຈັກ, ສູນຄວບຄຸມ</string>
-    <string name="taste_card_hint">ເບິ່ງວ່າ Flow ເຫັນທ່ານແນວໃດ</string>
+    <string name="taste_card_hint">ເບິ່ງວ່າ ZenStream ເຫັນທ່ານແນວໃດ</string>
     <string name="taste_card_loading">ກຳລັງອ່ານໂປຣໄຟລ໌ຂອງເຈົ້າ</string>
     <string name="taste_shape_header">ຮູບຮ່າງລົດຊາດ</string>
     <string name="taste_shape_description">ໂປຣໄຟລ໌ຂອງທ່ານຕໍ່ກັບສິ່ງທີ່ທ່ານເບິ່ງໃນຊ່ວງເວລານີ້</string>
@@ -4049,16 +4049,16 @@
     <string name="taste_export_music">ສົ່ງອອກໂປຣໄຟລ໌ເພງ</string>
     <string name="taste_import_music">ນຳເຂົ້າໂປຣໄຟລ໌ເພງ</string>
     <string name="taste_reset_music">ຣີເຊັດໂປຣໄຟລ໌ເພງ</string>
-    <string name="taste_reset_video_body">Flow ລືມສິ່ງທີ່ມັນຮຽນຮູ້ຈາກວິດີໂອ ແລະການຊອກຫາຂອງເຈົ້າ. ປະຫວັດ, ການມັກ, ລາຍການຫຼິ້ນ ແລະລາຍການທີ່ເຊື່ອງໄວ້ຈະຍັງຄົງຢູ່, ແລະ Home ຍັງໃຊ້ພວກມັນຢູ່.</string>
+    <string name="taste_reset_video_body">ZenStream ລືມສິ່ງທີ່ມັນຮຽນຮູ້ຈາກວິດີໂອ ແລະການຊອກຫາຂອງເຈົ້າ. ປະຫວັດ, ການມັກ, ລາຍການຫຼິ້ນ ແລະລາຍການທີ່ເຊື່ອງໄວ້ຈະຍັງຄົງຢູ່, ແລະ Home ຍັງໃຊ້ພວກມັນຢູ່.</string>
     <string name="taste_reset_music_title">ຣີເຊັດໂປຣໄຟລ໌ເພງບໍ?</string>
-    <string name="taste_reset_music_body">ນີ້ຈະເປັນການລຶບລ້າງສິ່ງທີ່ Flow ໄດ້ຮຽນຮູ້ຈາກດົນຕີຂອງເຈົ້າ ແລະເລີ່ມອີກຄັ້ງຈາກສູນ. ສະຫຼຸບຂອງທ່ານຍັງຄົງຢູ່.</string>
+    <string name="taste_reset_music_body">ນີ້ຈະເປັນການລຶບລ້າງສິ່ງທີ່ ZenStream ໄດ້ຮຽນຮູ້ຈາກດົນຕີຂອງເຈົ້າ ແລະເລີ່ມອີກຄັ້ງຈາກສູນ. ສະຫຼຸບຂອງທ່ານຍັງຄົງຢູ່.</string>
     <string name="taste_trait_now">ດຽວນີ້ %1$s</string>
     <string name="taste_reset_done">ຣີເຊັດໂປຣໄຟລ໌</string>
     <string name="diagnostics_engine_header">ລາຍລະອຽດເຄື່ອງຈັກ</string>
     <string name="diagnostics_engine_queries_none">ບໍ່ມີເທື່ອ</string>
     <string name="taste_starter_searches">ການຄົ້ນຫາເລີ່ມຕົ້ນ</string>
-    <string name="taste_starter_searches_detail">%1$s. ໃຊ້ຈົນກ່ວາ Flow ຮຽນຮູ້ສິ່ງທີ່ທ່ານເບິ່ງ.</string>
-    <string name="recap_title">Flow ສະຫຼຸບ</string>
+    <string name="taste_starter_searches_detail">%1$s. ໃຊ້ຈົນກ່ວາ ZenStream ຮຽນຮູ້ສິ່ງທີ່ທ່ານເບິ່ງ.</string>
+    <string name="recap_title">ZenStream ສະຫຼຸບ</string>
     <string name="recap_summary">ສິ່ງທີ່ທ່ານເບິ່ງແລະຟັງ, ເດືອນຕໍ່ເດືອນ</string>
     <string name="recap_keywords">ສະຫຼຸບ, ສະຖິຕິ, ສະຖິຕິ, recap, ປີໃນການທົບທວນຄືນ, ເວລາເບິ່ງ, ເວລາຟັງ, ເບິ່ງຫຼາຍທີ່ສຸດ, ນັກສິລະປິນຊັ້ນນໍາ</string>
     <string name="recap_period_month">ເດືອນ</string>
@@ -4067,7 +4067,7 @@
     <string name="recap_source_all">ທຸກຢ່າງ</string>
     <string name="recap_source_video">ວິດີໂອ</string>
     <string name="recap_source_music">ດົນຕີ</string>
-    <string name="recap_total_time">ເວລາໃນ Flow</string>
+    <string name="recap_total_time">ເວລາໃນ ZenStream</string>
     <string name="recap_delta_up">%1$s ຫຼາຍກວ່າເວລາກ່ອນໜ້າ</string>
     <string name="recap_delta_down">%1$s ໜ້ອຍກວ່າເວລາກ່ອນໜ້າ</string>
     <string name="recap_delta_same">ປະມານດຽວກັນກັບເວລາກ່ອນ</string>
@@ -4138,7 +4138,7 @@
         <item quantity="other">%d ວິດີໂອ</item>
     </plurals>
     <string name="recap_empty_title">ສະຫຼຸບຂອງເຈົ້າເລີ່ມຕົ້ນດຽວນີ້</string>
-    <string name="recap_empty_body">Flow ຮັກສາສະຖິຕິເຫຼົ່ານີ້ຢູ່ໃນອຸປະກອນນີ້ເທົ່ານັ້ນ. ເບິ່ງແລະຟັງຊົ່ວຄາວແລະເຂົາເຈົ້າຕື່ມຂໍ້ມູນໃສ່ໃນ.</string>
+    <string name="recap_empty_body">ZenStream ຮັກສາສະຖິຕິເຫຼົ່ານີ້ຢູ່ໃນອຸປະກອນນີ້ເທົ່ານັ້ນ. ເບິ່ງແລະຟັງຊົ່ວຄາວແລະເຂົາເຈົ້າຕື່ມຂໍ້ມູນໃສ່ໃນ.</string>
     <string name="recap_period_empty">ບໍ່ມີຫຍັງບັນທຶກສໍາລັບໄລຍະເວລານີ້</string>
     <string name="recap_insights_title">ສິ່ງທີ່ໂດດເດັ່ນ</string>
     <string name="recap_insight_night_owl">ນົກກົກກາງຄືນ</string>
@@ -4160,7 +4160,7 @@
     <string name="recap_ready_body">ເບິ່ງສິ່ງທີ່ທ່ານເບິ່ງແລະຟັງ, ແລະແບ່ງປັນມັນຖ້າທ່ານມັກ</string>
     <string name="recap_ready_open">ເປີດ</string>
     <string name="recap_ready_dismiss">ບໍ່ແມ່ນດຽວນີ້</string>
-    <string name="recap_story_intro">%1$s ຂອງທ່ານໃນ Flow</string>
+    <string name="recap_story_intro">%1$s ຂອງທ່ານໃນ ZenStream</string>
     <plurals name="recap_story_intro_body">
         <item quantity="other">ແຜ່ຫຼາຍ %d ມື້</item>
     </plurals>
@@ -4182,12 +4182,12 @@
     <string name="recap_story_summary">%1$s ຂອງທ່ານໃນບັດດຽວ</string>
     <string name="recap_story_share">ແບ່ງປັນ</string>
     <string name="recap_story_share_title">ແບ່ງປັນບົດສະຫຼຸບຂອງທ່ານ</string>
-    <string name="recap_story_share_text">%1$s ຂອງຂ້ອຍໃນ Flow: %2$s</string>
+    <string name="recap_story_share_text">%1$s ຂອງຂ້ອຍໃນ ZenStream: %2$s</string>
     <string name="recap_story_close">ປິດ</string>
     <string name="recap_story_next">ຕໍ່ໄປ</string>
     <string name="recap_story_previous">ທີ່ຜ່ານມາ</string>
     <string name="recap_story_page">ໜ້າ %1$d ຂອງ %2$d</string>
-    <string name="recap_story_made_with">ເຮັດດ້ວຍ Flow</string>
+    <string name="recap_story_made_with">ເຮັດດ້ວຍ ZenStream</string>
     <string name="recap_story_pause">ຢຸດຊົ່ວຄາວ</string>
     <string name="recap_story_play">ຫຼິ້ນ</string>
     <string name="recap_summary_top_channel">ຊ່ອງທາງເທິງ</string>
@@ -4201,8 +4201,8 @@
     <string name="playlist_exported">ບັນທຶກລາຍການຫຼິ້ນແລ້ວ</string>
     <string name="playlist_export_failed">ບໍ່ສາມາດບັນທຶກລາຍການຫຼິ້ນໄດ້</string>
     <string name="playlist_share_failed">ບໍ່ສາມາດແບ່ງປັນລາຍການຫຼິ້ນໄດ້</string>
-    <string name="playlist_import_not_a_playlist">ໄຟລ໌ນີ້ບໍ່ແມ່ນລາຍການຫຼິ້ນ Flow</string>
-    <string name="playlist_import_too_new">ລາຍການຫຼິ້ນນີ້ຕ້ອງການ Flow ເວີຊັນໃໝ່ກວ່າ</string>
+    <string name="playlist_import_not_a_playlist">ໄຟລ໌ນີ້ບໍ່ແມ່ນລາຍການຫຼິ້ນ ZenStream</string>
+    <string name="playlist_import_too_new">ລາຍການຫຼິ້ນນີ້ຕ້ອງການ ZenStream ເວີຊັນໃໝ່ກວ່າ</string>
     <string name="playlist_import_empty">ລາຍການຫຼິ້ນນີ້ບໍ່ມີວິດີໂອທີ່ຈະນໍາເຂົ້າ</string>
     <string name="playlist_import_unreadable">ບໍ່ສາມາດອ່ານໄຟລ໌ນີ້ໄດ້</string>
     <plurals name="playlist_imported">
@@ -4395,7 +4395,7 @@
     <string name="scrobbling_import">ນໍາເຂົ້າສິນລະປິນຊັ້ນນໍາຂອງທ່ານ</string>
     <string name="scrobbling_import_summary">ເພີ່ມນັກສິລະປິນທີ່ມີຄົນຫຼິ້ນຫຼາຍທີ່ສຸດຂອງທ່ານໃສ່ລາຍການທີ່ທ່ານມັກ</string>
     <string name="scrobbling_import_offer_title">ສ້າງເພງຂອງເຈົ້າດ້ວຍ %1$s ບໍ?</string>
-    <string name="scrobbling_import_offer_body">Flow ເພີ່ມ 20 ນັກສິລະປິນທີ່ມີຄົນຫຼິ້ນຫຼາຍທີ່ສຸດໃນປີທີ່ຜ່ານມາໃຫ້ກັບສິລະປິນທີ່ທ່ານມັກ. ທ່ານສາມາດລຶບພວກມັນອອກໄດ້ໃນພາຍຫຼັງ.</string>
+    <string name="scrobbling_import_offer_body">ZenStream ເພີ່ມ 20 ນັກສິລະປິນທີ່ມີຄົນຫຼິ້ນຫຼາຍທີ່ສຸດໃນປີທີ່ຜ່ານມາໃຫ້ກັບສິລະປິນທີ່ທ່ານມັກ. ທ່ານສາມາດລຶບພວກມັນອອກໄດ້ໃນພາຍຫຼັງ.</string>
     <string name="scrobbling_import_action">ນໍາເຂົ້າ</string>
     <string name="scrobbling_import_later">ບໍ່ແມ່ນດຽວນີ້</string>
     <plurals name="scrobbling_import_done">
