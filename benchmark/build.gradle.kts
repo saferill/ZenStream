@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "io.github.aedev.flow.benchmark"
+    namespace = "com.saferill.zenstream.benchmark"
     compileSdk = 37
 
     compileOptions {

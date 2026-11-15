@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Flow</string>
+    <string name="app_name">ZenStream</string>
     <string name="subscriptions_search_placeholder">சந்தாக்களைத் தேடு...</string>
     <string name="subscriptions_sort_label">சேனல்களை வரிசைப்படுத்தவும்</string>
     <string name="subscriptions_sort_default">இயல்புநிலை</string>

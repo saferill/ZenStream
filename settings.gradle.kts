@@ -15,6 +15,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Flow"
+rootProject.name = "ZenStream"
 include(":app")
 include(":benchmark")

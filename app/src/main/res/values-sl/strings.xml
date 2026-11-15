@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Flow</string>
+    <string name="app_name">ZenStream</string>
     <string name="subscriptions_search_placeholder">Iskanje naročnin ...</string>
     <string name="subscriptions_sort_label">Razvrsti kanale</string>
     <string name="subscriptions_sort_default">Privzeto</string>
